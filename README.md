@@ -5,6 +5,17 @@ You send it a state and typed questions, and it returns choices, scores and cali
 probabilities over options *you* define. Every headline about it says some version of
 "the AI that can't write a sentence."
 
+https://github.com/gilinachum/jev-chat/raw/main/chat.mp4
+
+## Quick start
+
+```bash
+echo "sk-or-v1-YOUR-KEY" > apikey.openrouter.txt   # get a key at openrouter.ai
+python3 -m src.interview.chat                      # open http://127.0.0.1:8455
+```
+
+Stdlib only, Python 3.10+, no virtualenv needed. Full setup in [Running the chat web app](#running-the-chat-web-app) below.
+
 This repository makes it talk anyway, measures exactly how far that goes, and then
 interviews it: about itself, about its own launch coverage, and about a set of moral
 dilemmas — then puts it behind a local chat web app so you can talk to it yourself.
