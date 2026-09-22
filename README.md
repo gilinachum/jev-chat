@@ -5,7 +5,10 @@ You send it a state and typed questions, and it returns choices, scores and cali
 probabilities over options *you* define. Every headline about it says some version of
 "the AI that can't write a sentence."
 
-https://github.com/gilinachum/jev-chat/raw/main/chat.mp4
+[![Talking to Jev in the chat app](docs/chat-demo.gif)](chat.mp4)
+
+*Every chip is one selection turn, with the probability Jev picked it at. Click through
+for the [full-quality recording](chat.mp4).*
 
 ## Quick start
 
