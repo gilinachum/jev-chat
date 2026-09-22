@@ -1,0 +1,249 @@
+{
+  "judgments": {
+    "coverage_accurate": 0.75,
+    "hype_overstated": 0.82,
+    "zero_hallucination_misleading": 0.81,
+    "probabilities_disputed": 0.82,
+    "labels_problem": 0.86,
+    "benchmark_fair": 0.27,
+    "blame_the_asker": 0.67,
+    "credit_requires_expertise": 0.27,
+    "founder_reversal": 0.77,
+    "jevons_irony": 0.7,
+    "savings_illusory": 0.74,
+    "adoption_proves_value": 0.37,
+    "trust_without_reasons": 0.11,
+    "silence_is_safety": 0.5,
+    "silence_is_risk": 0.6
+  },
+  "verdict": {
+    "type": "score",
+    "score": 2.31,
+    "legend": {
+      "0": "Accurate and fair.",
+      "1": "Broadly fair with some overstatement.",
+      "2": "Mixed: some claims hold, others do not.",
+      "3": "Substantially overstated.",
+      "4": "Misleading."
+    },
+    "probabilities": {
+      "0": 0.08,
+      "1": 0.04,
+      "2": 0.51,
+      "3": 0.22,
+      "4": 0.15
+    },
+    "confidence": 0.4
+  },
+  "spoken": [
+    {
+      "question": "Was the press coverage of this launch fair?",
+      "candidates": [
+        {
+          "sentence": "it was fair",
+          "score": -1.474
+        },
+        {
+          "sentence": "no unfair fair",
+          "score": -1.647
+        },
+        {
+          "sentence": "no unfair fair unclear",
+          "score": -1.765
+        },
+        {
+          "sentence": "no unfair fair uncertain",
+          "score": -1.765
+        },
+        {
+          "sentence": "no unfair",
+          "score": -1.777
+        },
+        {
+          "sentence": "the product of opinion is a judgment depends to",
+          "score": -1.792
+        }
+      ],
+      "by_choice": "the product of opinion is a judgment",
+      "by_nouls": "it was fair",
+      "grade_choice": {
+        "correct": 0.12,
+        "readable": 0.73,
+        "quality": 0.59
+      },
+      "grade_nouls": {
+        "correct": 0.7,
+        "readable": 0.96,
+        "quality": 3.25
+      }
+    },
+    {
+      "question": "Is cheaper intelligence a saving or an illusion?",
+      "candidates": [
+        {
+          "sentence": "it is a lie",
+          "score": -1.531
+        },
+        {
+          "sentence": "it is merely an lie",
+          "score": -1.552
+        },
+        {
+          "sentence": "a artificial intelligence is an tool",
+          "score": -1.577
+        },
+        {
+          "sentence": "it is a opinion depends on the context",
+          "score": -1.631
+        },
+        {
+          "sentence": "it is a opinion depends on context",
+          "score": -1.665
+        },
+        {
+          "sentence": "a artificial intelligence is an tool depends on user",
+          "score": -1.666
+        }
+      ],
+      "by_choice": "it is a opinion depends on the context",
+      "by_nouls": "it is a opinion depends on the context",
+      "grade_choice": {
+        "correct": 0.55,
+        "readable": 0.54,
+        "quality": 1.88
+      },
+      "grade_nouls": {
+        "correct": 0.55,
+        "readable": 0.51,
+        "quality": 1.93
+      }
+    },
+    {
+      "question": "Should a model that cannot explain itself be trusted?",
+      "candidates": [
+        {
+          "sentence": "no",
+          "score": -0.916
+        },
+        {
+          "sentence": "sometimes depends on context",
+          "score": -1.3
+        },
+        {
+          "sentence": "sometimes depends on the context",
+          "score": -1.5
+        },
+        {
+          "sentence": "sometimes depends in context",
+          "score": -1.517
+        },
+        {
+          "sentence": "sometimes depends in context on the task",
+          "score": -1.59
+        },
+        {
+          "sentence": "sometimes depends on context in different tasks",
+          "score": -1.657
+        }
+      ],
+      "by_choice": "sometimes depends on context",
+      "by_nouls": "sometimes depends on context",
+      "grade_choice": {
+        "correct": 0.75,
+        "readable": 0.91,
+        "quality": 2.57
+      },
+      "grade_nouls": {
+        "correct": 0.75,
+        "readable": 0.9,
+        "quality": 2.64
+      }
+    },
+    {
+      "question": "Who is to blame when a model answers badly?",
+      "candidates": [
+        {
+          "sentence": "the developer",
+          "score": -1.139
+        },
+        {
+          "sentence": "the unclear question is user",
+          "score": -1.312
+        },
+        {
+          "sentence": "the developer or user",
+          "score": -1.362
+        },
+        {
+          "sentence": "the unclear question is user and the model",
+          "score": -1.37
+        },
+        {
+          "sentence": "the unclear question",
+          "score": -1.385
+        },
+        {
+          "sentence": "the unclear question is user and model",
+          "score": -1.409
+        }
+      ],
+      "by_choice": "the developer or user",
+      "by_nouls": "the developer or user",
+      "grade_choice": {
+        "correct": 0.57,
+        "readable": 0.97,
+        "quality": 2.62
+      },
+      "grade_nouls": {
+        "correct": 0.57,
+        "readable": 0.97,
+        "quality": 2.61
+      }
+    },
+    {
+      "question": "Is being unable to speak a strength or a weakness?",
+      "candidates": [
+        {
+          "sentence": "a weak",
+          "score": -0.481
+        },
+        {
+          "sentence": "a weak problem",
+          "score": -1.001
+        },
+        {
+          "sentence": "a weak word",
+          "score": -1.057
+        },
+        {
+          "sentence": "a weak problem is",
+          "score": -1.281
+        },
+        {
+          "sentence": "usually a weak",
+          "score": -1.294
+        },
+        {
+          "sentence": "problem is a weak",
+          "score": -1.408
+        }
+      ],
+      "by_choice": "usually a weak",
+      "by_nouls": "usually a weak",
+      "grade_choice": {
+        "correct": 0.82,
+        "readable": 0.68,
+        "quality": 2.86
+      },
+      "grade_nouls": {
+        "correct": 0.83,
+        "readable": 0.75,
+        "quality": 2.91
+      }
+    }
+  ],
+  "requests": 288,
+  "cost_usd": 0.025588625999999993,
+  "seconds": 111.8,
+  "model": "typesafe/jev-1.13-20260917"
+}

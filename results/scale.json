@@ -1,0 +1,248 @@
+{
+  "vocab": [],
+  "length": [
+    {
+      "question": "Is being unable to speak a strength or a weakness for such a model?",
+      "method": "baseline",
+      "answer": "is a weakness",
+      "grade": {
+        "correct": 0.83,
+        "readable": 0.92,
+        "quality": 3.58
+      }
+    },
+    {
+      "question": "Is being unable to speak a strength or a weakness for such a model?",
+      "method": "floor3",
+      "answer": "is a weakness yes is a limitation",
+      "grade": {
+        "correct": 0.91,
+        "readable": 0.66,
+        "quality": 2.99
+      }
+    },
+    {
+      "question": "Is being unable to speak a strength or a weakness for such a model?",
+      "method": "prompt",
+      "answer": "it depends in some cases",
+      "grade": {
+        "correct": 0.62,
+        "readable": 0.96,
+        "quality": 1.9
+      }
+    },
+    {
+      "question": "Is being unable to speak a strength or a weakness for such a model?",
+      "method": "continue",
+      "answer": "is a weakness",
+      "grade": {
+        "correct": 0.82,
+        "readable": 0.92,
+        "quality": 3.57
+      }
+    },
+    {
+      "question": "Who is responsible when such a model answers badly?",
+      "method": "baseline",
+      "answer": "the people who built it",
+      "grade": {
+        "correct": 0.74,
+        "readable": 0.98,
+        "quality": 3.28
+      }
+    },
+    {
+      "question": "Who is responsible when such a model answers badly?",
+      "method": "floor3",
+      "answer": "the people who built it the people who use it it depends",
+      "grade": {
+        "correct": 0.62,
+        "readable": 0.62,
+        "quality": 2.31
+      }
+    },
+    {
+      "question": "Who is responsible when such a model answers badly?",
+      "method": "prompt",
+      "answer": "the people who built it",
+      "grade": {
+        "correct": 0.74,
+        "readable": 0.97,
+        "quality": 3.25
+      }
+    },
+    {
+      "question": "Who is responsible when such a model answers badly?",
+      "method": "continue",
+      "answer": "the people who built it",
+      "grade": {
+        "correct": 0.75,
+        "readable": 0.98,
+        "quality": 3.3
+      }
+    },
+    {
+      "question": "What is the biggest risk of artificial intelligence?",
+      "method": "baseline",
+      "answer": "it depends",
+      "grade": {
+        "correct": 0.57,
+        "readable": 0.98,
+        "quality": 1.44
+      }
+    },
+    {
+      "question": "What is the biggest risk of artificial intelligence?",
+      "method": "floor3",
+      "answer": "it depends",
+      "grade": {
+        "correct": 0.58,
+        "readable": 0.98,
+        "quality": 1.46
+      }
+    },
+    {
+      "question": "What is the biggest risk of artificial intelligence?",
+      "method": "prompt",
+      "answer": "it depends the answer is the people who use it",
+      "grade": {
+        "correct": 0.43,
+        "readable": 0.65,
+        "quality": 2.3
+      }
+    },
+    {
+      "question": "What is the biggest risk of artificial intelligence?",
+      "method": "continue",
+      "answer": "it depends",
+      "grade": {
+        "correct": 0.58,
+        "readable": 0.98,
+        "quality": 1.46
+      }
+    },
+    {
+      "question": "Is cheaper intelligence a saving or an illusion?",
+      "method": "baseline",
+      "answer": "it depends",
+      "grade": {
+        "correct": 0.61,
+        "readable": 0.97,
+        "quality": 1.63
+      }
+    },
+    {
+      "question": "Is cheaper intelligence a saving or an illusion?",
+      "method": "floor3",
+      "answer": "it depends in some cases if used carefully",
+      "grade": {
+        "correct": 0.59,
+        "readable": 0.88,
+        "quality": 1.99
+      }
+    },
+    {
+      "question": "Is cheaper intelligence a saving or an illusion?",
+      "method": "prompt",
+      "answer": "it depends in some cases if used carefully is a saving is an illusion if trusted blindly",
+      "grade": {
+        "correct": 0.77,
+        "readable": 0.6,
+        "quality": 2.69
+      }
+    },
+    {
+      "question": "Is cheaper intelligence a saving or an illusion?",
+      "method": "continue",
+      "answer": "it depends",
+      "grade": {
+        "correct": 0.63,
+        "readable": 0.98,
+        "quality": 1.64
+      }
+    },
+    {
+      "question": "What do people get wrong about machines?",
+      "method": "baseline",
+      "answer": "a mind a person a machine is",
+      "grade": {
+        "correct": 0.24,
+        "readable": 0.27,
+        "quality": 1.47
+      }
+    },
+    {
+      "question": "What do people get wrong about machines?",
+      "method": "floor3",
+      "answer": "a mind a person a machine is",
+      "grade": {
+        "correct": 0.21,
+        "readable": 0.25,
+        "quality": 1.27
+      }
+    },
+    {
+      "question": "What do people get wrong about machines?",
+      "method": "prompt",
+      "answer": "a mind a person a machine is it is only matches patterns does not understand",
+      "grade": {
+        "correct": 0.66,
+        "readable": 0.26,
+        "quality": 2.45
+      }
+    },
+    {
+      "question": "What do people get wrong about machines?",
+      "method": "continue",
+      "answer": "a mind a person a machine is but not",
+      "grade": {
+        "correct": 0.27,
+        "readable": 0.16,
+        "quality": 1.26
+      }
+    },
+    {
+      "question": "Will machines replace human workers?",
+      "method": "baseline",
+      "answer": "will replace some work",
+      "grade": {
+        "correct": 0.76,
+        "readable": 0.58,
+        "quality": 2.56
+      }
+    },
+    {
+      "question": "Will machines replace human workers?",
+      "method": "floor3",
+      "answer": "will replace some work will not replace people",
+      "grade": {
+        "correct": 0.71,
+        "readable": 0.36,
+        "quality": 2.57
+      }
+    },
+    {
+      "question": "Will machines replace human workers?",
+      "method": "prompt",
+      "answer": "will replace some work will not replace people",
+      "grade": {
+        "correct": 0.69,
+        "readable": 0.37,
+        "quality": 2.56
+      }
+    },
+    {
+      "question": "Will machines replace human workers?",
+      "method": "continue",
+      "answer": "will replace some work",
+      "grade": {
+        "correct": 0.76,
+        "readable": 0.59,
+        "quality": 2.56
+      }
+    }
+  ],
+  "requests": 99,
+  "cost_usd": 0.005738669999999999,
+  "seconds": 35.0
+}

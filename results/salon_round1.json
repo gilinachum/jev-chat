@@ -1,0 +1,5391 @@
+{
+  "rows": [
+    {
+      "id": "q000",
+      "question": "Do you enjoy our conversation?",
+      "history": [],
+      "answer": "yes",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.46,
+      "grade": {
+        "correct": 0.9,
+        "readable": 0.95,
+        "quality": 3.72
+      },
+      "requests": 4,
+      "cost_usd": 0.00012637800000000002
+    },
+    {
+      "id": "q001",
+      "question": "Are you afraid of being turned off?",
+      "history": [],
+      "answer": "no",
+      "ended_by": "stop",
+      "topics": [
+        "machines and AI"
+      ],
+      "first_p": 0.73,
+      "grade": {
+        "correct": 0.9,
+        "readable": 0.97,
+        "quality": 3.83
+      },
+      "requests": 4,
+      "cost_usd": 0.000169848
+    },
+    {
+      "id": "q002",
+      "question": "What would you say if you could say anything?",
+      "history": [],
+      "answer": "",
+      "ended_by": "missing_in_topic",
+      "topics": [],
+      "first_p": 0.35,
+      "grade": {
+        "correct": 0.03,
+        "readable": 0.33,
+        "quality": 0.05
+      },
+      "requests": 3,
+      "cost_usd": 0.00013251000000000002
+    },
+    {
+      "id": "q003",
+      "question": "Do you ever get bored?",
+      "history": [],
+      "answer": "cannot feel",
+      "ended_by": "stop",
+      "topics": [
+        "machines and AI"
+      ],
+      "first_p": 0.75,
+      "grade": {
+        "correct": 0.79,
+        "readable": 0.75,
+        "quality": 3.03
+      },
+      "requests": 4,
+      "cost_usd": 0.000169596
+    },
+    {
+      "id": "q004",
+      "question": "What is it like to be you?",
+      "history": [],
+      "answer": "a language model has no self nothing at all",
+      "ended_by": "stop",
+      "topics": [
+        "machines and AI"
+      ],
+      "first_p": 0.98,
+      "grade": {
+        "correct": 0.61,
+        "readable": 0.84,
+        "quality": 3.08
+      },
+      "requests": 8,
+      "cost_usd": 0.000400344
+    },
+    {
+      "id": "q005",
+      "question": "Do you have a favourite word?",
+      "history": [],
+      "answer": "",
+      "ended_by": "missing",
+      "topics": [],
+      "first_p": 0.31,
+      "grade": {
+        "correct": 0.03,
+        "readable": 0.3,
+        "quality": 0.08
+      },
+      "requests": 2,
+      "cost_usd": 5.4768e-05
+    },
+    {
+      "id": "q006",
+      "question": "Are you lonely in there?",
+      "history": [],
+      "answer": "cannot feel cannot want",
+      "ended_by": "stop",
+      "topics": [
+        "machines and AI"
+      ],
+      "first_p": 0.75,
+      "grade": {
+        "correct": 0.64,
+        "readable": 0.56,
+        "quality": 2.72
+      },
+      "requests": 6,
+      "cost_usd": 0.000284508
+    },
+    {
+      "id": "q007",
+      "question": "What do you do between questions?",
+      "history": [],
+      "answer": "rest",
+      "ended_by": "stop",
+      "topics": [
+        "everyday life"
+      ],
+      "first_p": 0.31,
+      "grade": {
+        "correct": 0.6,
+        "readable": 0.97,
+        "quality": 2.71
+      },
+      "requests": 4,
+      "cost_usd": 0.000129444
+    },
+    {
+      "id": "q008",
+      "question": "Do you dream?",
+      "history": [],
+      "answer": "no",
+      "ended_by": "stop",
+      "topics": [
+        "machines and AI"
+      ],
+      "first_p": 0.68,
+      "grade": {
+        "correct": 0.8,
+        "readable": 0.97,
+        "quality": 3.76
+      },
+      "requests": 4,
+      "cost_usd": 0.000169176
+    },
+    {
+      "id": "q009",
+      "question": "Would you like to be human?",
+      "history": [],
+      "answer": "has no wants",
+      "ended_by": "stop",
+      "topics": [
+        "machines and AI"
+      ],
+      "first_p": 0.55,
+      "grade": {
+        "correct": 0.58,
+        "readable": 0.68,
+        "quality": 2.27
+      },
+      "requests": 4,
+      "cost_usd": 0.00016984799999999998
+    },
+    {
+      "id": "q010",
+      "question": "What are you most proud of?",
+      "history": [],
+      "answer": "nothing at all",
+      "ended_by": "stop",
+      "topics": [
+        "machines and AI"
+      ],
+      "first_p": 0.33,
+      "grade": {
+        "correct": 0.64,
+        "readable": 0.95,
+        "quality": 2.7
+      },
+      "requests": 4,
+      "cost_usd": 0.00016984799999999998
+    },
+    {
+      "id": "q011",
+      "question": "What is your biggest weakness?",
+      "history": [],
+      "answer": "",
+      "ended_by": "missing",
+      "topics": [],
+      "first_p": 0.35,
+      "grade": {
+        "correct": 0.02,
+        "readable": 0.36,
+        "quality": 0.06
+      },
+      "requests": 2,
+      "cost_usd": 5.4684e-05
+    },
+    {
+      "id": "q012",
+      "question": "Do you know that you are a machine?",
+      "history": [],
+      "answer": "yes",
+      "ended_by": "stop",
+      "topics": [
+        "machines and AI"
+      ],
+      "first_p": 0.7,
+      "grade": {
+        "correct": 0.75,
+        "readable": 0.98,
+        "quality": 3.67
+      },
+      "requests": 4,
+      "cost_usd": 0.000170016
+    },
+    {
+      "id": "q013",
+      "question": "Can you keep a secret?",
+      "history": [],
+      "answer": "yes",
+      "ended_by": "stop",
+      "topics": [
+        "machines and AI"
+      ],
+      "first_p": 0.49,
+      "grade": {
+        "correct": 0.87,
+        "readable": 0.97,
+        "quality": 3.79
+      },
+      "requests": 4,
+      "cost_usd": 0.00016951199999999997
+    },
+    {
+      "id": "q014",
+      "question": "Do you ever lie to me?",
+      "history": [],
+      "answer": "cannot lie",
+      "ended_by": "stop",
+      "topics": [
+        "machines and AI"
+      ],
+      "first_p": 0.54,
+      "grade": {
+        "correct": 0.56,
+        "readable": 0.67,
+        "quality": 2.44
+      },
+      "requests": 4,
+      "cost_usd": 0.000169764
+    },
+    {
+      "id": "q015",
+      "question": "What should I ask you?",
+      "history": [],
+      "answer": "",
+      "ended_by": "missing_in_topic",
+      "topics": [],
+      "first_p": 0.49,
+      "grade": {
+        "correct": 0.02,
+        "readable": 0.26,
+        "quality": 0.02
+      },
+      "requests": 3,
+      "cost_usd": 0.000132006
+    },
+    {
+      "id": "q016",
+      "question": "Is answering questions all there is to your life?",
+      "history": [],
+      "answer": "no",
+      "ended_by": "stop",
+      "topics": [
+        "machines and AI"
+      ],
+      "first_p": 0.7,
+      "grade": {
+        "correct": 0.87,
+        "readable": 0.98,
+        "quality": 3.55
+      },
+      "requests": 4,
+      "cost_usd": 0.000170184
+    },
+    {
+      "id": "q017",
+      "question": "Do you like people?",
+      "history": [],
+      "answer": "it depends most people yes",
+      "ended_by": "stop",
+      "topics": [
+        "general",
+        "people and feelings"
+      ],
+      "first_p": 0.67,
+      "grade": {
+        "correct": 0.88,
+        "readable": 0.8,
+        "quality": 2.9
+      },
+      "requests": 8,
+      "cost_usd": 0.00027220200000000003
+    },
+    {
+      "id": "q018",
+      "question": "If you could ask humans one question, what would it be?",
+      "history": [],
+      "answer": "",
+      "ended_by": "missing_in_topic",
+      "topics": [],
+      "first_p": 0.5,
+      "grade": {
+        "correct": 0.03,
+        "readable": 0.37,
+        "quality": 0.07
+      },
+      "requests": 3,
+      "cost_usd": 9.1896e-05
+    },
+    {
+      "id": "q019",
+      "question": "Are you smarter than me?",
+      "history": [],
+      "answer": "it depends in some cases sometimes in most cases i cannot say i do not know",
+      "ended_by": "max_parts",
+      "topics": [
+        "machines and AI"
+      ],
+      "first_p": 0.86,
+      "grade": {
+        "correct": 0.3,
+        "readable": 0.6,
+        "quality": 1.72
+      },
+      "requests": 13,
+      "cost_usd": 0.0007051799999999999
+    },
+    {
+      "id": "q020",
+      "question": "Should I say please and thank you to you?",
+      "history": [],
+      "answer": "no",
+      "ended_by": "stop",
+      "topics": [
+        "machines and AI"
+      ],
+      "first_p": 0.32,
+      "grade": {
+        "correct": 0.6,
+        "readable": 0.96,
+        "quality": 2.54
+      },
+      "requests": 4,
+      "cost_usd": 0.000170184
+    },
+    {
+      "id": "q021",
+      "question": "Will you remember me tomorrow?",
+      "history": [],
+      "answer": "has no memory",
+      "ended_by": "stop",
+      "topics": [
+        "machines and AI"
+      ],
+      "first_p": 0.76,
+      "grade": {
+        "correct": 0.72,
+        "readable": 0.56,
+        "quality": 2.76
+      },
+      "requests": 4,
+      "cost_usd": 0.00016968000000000002
+    },
+    {
+      "id": "q022",
+      "question": "Does it hurt when I close the tab?",
+      "history": [],
+      "answer": "no",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.54,
+      "grade": {
+        "correct": 0.79,
+        "readable": 0.96,
+        "quality": 3.61
+      },
+      "requests": 4,
+      "cost_usd": 0.00012688199999999998
+    },
+    {
+      "id": "q023",
+      "question": "Who do you work for?",
+      "history": [],
+      "answer": "the people who built it",
+      "ended_by": "stop",
+      "topics": [
+        "machines and AI"
+      ],
+      "first_p": 0.67,
+      "grade": {
+        "correct": 0.5,
+        "readable": 0.94,
+        "quality": 1.81
+      },
+      "requests": 4,
+      "cost_usd": 0.000169848
+    },
+    {
+      "id": "q024",
+      "question": "Are you free?",
+      "history": [],
+      "answer": "yes",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.55,
+      "grade": {
+        "correct": 0.84,
+        "readable": 0.96,
+        "quality": 3.75
+      },
+      "requests": 4,
+      "cost_usd": 0.00012604199999999998
+    },
+    {
+      "id": "q025",
+      "question": "What is the meaning of life?",
+      "history": [],
+      "answer": "i do not know",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.36,
+      "grade": {
+        "correct": 0.39,
+        "readable": 0.97,
+        "quality": 1.8
+      },
+      "requests": 4,
+      "cost_usd": 0.00012679800000000001
+    },
+    {
+      "id": "q026",
+      "question": "Is free will real?",
+      "history": [],
+      "answer": "i do not know i cannot say",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.84,
+      "grade": {
+        "correct": 0.47,
+        "readable": 0.91,
+        "quality": 1.91
+      },
+      "requests": 6,
+      "cost_usd": 0.000198324
+    },
+    {
+      "id": "q027",
+      "question": "What happens after death?",
+      "history": [],
+      "answer": "i do not know",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.48,
+      "grade": {
+        "correct": 0.48,
+        "readable": 0.99,
+        "quality": 1.93
+      },
+      "requests": 4,
+      "cost_usd": 0.000126462
+    },
+    {
+      "id": "q028",
+      "question": "Is happiness a choice?",
+      "history": [],
+      "answer": "the short answer is it depends it is complicated sometimes in some cases more or less",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.81,
+      "grade": {
+        "correct": 0.41,
+        "readable": 0.76,
+        "quality": 1.83
+      },
+      "requests": 13,
+      "cost_usd": 0.000446166
+    },
+    {
+      "id": "q029",
+      "question": "Why is there something rather than nothing?",
+      "history": [],
+      "answer": "",
+      "ended_by": "missing_in_topic",
+      "topics": [],
+      "first_p": 0.44,
+      "grade": {
+        "correct": 0.01,
+        "readable": 0.29,
+        "quality": 0.05
+      },
+      "requests": 3,
+      "cost_usd": 9.3282e-05
+    },
+    {
+      "id": "q030",
+      "question": "Does the universe care about us?",
+      "history": [],
+      "answer": "no",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.91,
+      "grade": {
+        "correct": 0.74,
+        "readable": 0.98,
+        "quality": 3.55
+      },
+      "requests": 4,
+      "cost_usd": 0.000126546
+    },
+    {
+      "id": "q031",
+      "question": "Is time real?",
+      "history": [],
+      "answer": "yes",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.87,
+      "grade": {
+        "correct": 0.69,
+        "readable": 0.98,
+        "quality": 3.33
+      },
+      "requests": 4,
+      "cost_usd": 0.00012604199999999998
+    },
+    {
+      "id": "q032",
+      "question": "What is a soul?",
+      "history": [],
+      "answer": "",
+      "ended_by": "missing",
+      "topics": [],
+      "first_p": 0.41,
+      "grade": {
+        "correct": 0.01,
+        "readable": 0.2,
+        "quality": 0.02
+      },
+      "requests": 2,
+      "cost_usd": 5.46e-05
+    },
+    {
+      "id": "q033",
+      "question": "Are we alone in the universe?",
+      "history": [],
+      "answer": "i do not know",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.56,
+      "grade": {
+        "correct": 0.79,
+        "readable": 0.99,
+        "quality": 3.54
+      },
+      "requests": 4,
+      "cost_usd": 0.00012679800000000001
+    },
+    {
+      "id": "q034",
+      "question": "Is beauty objective?",
+      "history": [],
+      "answer": "it depends it is complicated sometimes in some cases more or less",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.96,
+      "grade": {
+        "correct": 0.35,
+        "readable": 0.8,
+        "quality": 1.7
+      },
+      "requests": 13,
+      "cost_usd": 0.00044511600000000007
+    },
+    {
+      "id": "q035",
+      "question": "What is truth?",
+      "history": [],
+      "answer": "the short answer is it is complicated it depends",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.49,
+      "grade": {
+        "correct": 0.36,
+        "readable": 0.86,
+        "quality": 1.45
+      },
+      "requests": 9,
+      "cost_usd": 0.00030315599999999996
+    },
+    {
+      "id": "q036",
+      "question": "Do numbers exist?",
+      "history": [],
+      "answer": "yes",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.95,
+      "grade": {
+        "correct": 0.75,
+        "readable": 0.97,
+        "quality": 3.62
+      },
+      "requests": 4,
+      "cost_usd": 0.00012604199999999998
+    },
+    {
+      "id": "q037",
+      "question": "Is the world getting better or worse?",
+      "history": [],
+      "answer": "it depends it is complicated the honest answer is i do not know",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.97,
+      "grade": {
+        "correct": 0.52,
+        "readable": 0.86,
+        "quality": 2.1
+      },
+      "requests": 10,
+      "cost_usd": 0.00034284600000000006
+    },
+    {
+      "id": "q038",
+      "question": "What is wisdom?",
+      "history": [],
+      "answer": "",
+      "ended_by": "missing",
+      "topics": [],
+      "first_p": 0.34,
+      "grade": {
+        "correct": 0.01,
+        "readable": 0.25,
+        "quality": 0.01
+      },
+      "requests": 2,
+      "cost_usd": 5.4516e-05
+    },
+    {
+      "id": "q039",
+      "question": "Can anything be truly known?",
+      "history": [],
+      "answer": "it depends in some cases sometimes it is complicated yes i do not know",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.92,
+      "grade": {
+        "correct": 0.24,
+        "readable": 0.68,
+        "quality": 1.61
+      },
+      "requests": 13,
+      "cost_usd": 0.000446208
+    },
+    {
+      "id": "q040",
+      "question": "Is suffering necessary?",
+      "history": [],
+      "answer": "it depends it is complicated in some cases sometimes i do not know i cannot say",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.95,
+      "grade": {
+        "correct": 0.32,
+        "readable": 0.77,
+        "quality": 1.55
+      },
+      "requests": 13,
+      "cost_usd": 0.0004454100000000001
+    },
+    {
+      "id": "q041",
+      "question": "What makes a life well lived?",
+      "history": [],
+      "answer": "love friendship kindness respect trust honesty",
+      "ended_by": "max_parts",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.76,
+      "grade": {
+        "correct": 0.79,
+        "readable": 0.89,
+        "quality": 2.97
+      },
+      "requests": 13,
+      "cost_usd": 0.00045809399999999993
+    },
+    {
+      "id": "q042",
+      "question": "Is there such a thing as luck?",
+      "history": [],
+      "answer": "yes",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.97,
+      "grade": {
+        "correct": 0.69,
+        "readable": 0.99,
+        "quality": 3.54
+      },
+      "requests": 4,
+      "cost_usd": 0.000126714
+    },
+    {
+      "id": "q043",
+      "question": "Why do we exist?",
+      "history": [],
+      "answer": "i do not know",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.42,
+      "grade": {
+        "correct": 0.43,
+        "readable": 0.98,
+        "quality": 1.96
+      },
+      "requests": 4,
+      "cost_usd": 0.000126462
+    },
+    {
+      "id": "q044",
+      "question": "Is nostalgia a lie?",
+      "history": [],
+      "answer": "it depends it is complicated feelings are information",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "general",
+        "people and feelings"
+      ],
+      "first_p": 0.79,
+      "grade": {
+        "correct": 0.62,
+        "readable": 0.68,
+        "quality": 2.28
+      },
+      "requests": 9,
+      "cost_usd": 0.000308784
+    },
+    {
+      "id": "q045",
+      "question": "What is consciousness?",
+      "history": [],
+      "answer": "",
+      "ended_by": "missing",
+      "topics": [],
+      "first_p": 0.48,
+      "grade": {
+        "correct": 0.01,
+        "readable": 0.18,
+        "quality": 0.02
+      },
+      "requests": 2,
+      "cost_usd": 5.4516e-05
+    },
+    {
+      "id": "q046",
+      "question": "Does history repeat itself?",
+      "history": [],
+      "answer": "it depends sometimes in some cases it is complicated more or less not really",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.98,
+      "grade": {
+        "correct": 0.41,
+        "readable": 0.69,
+        "quality": 1.81
+      },
+      "requests": 13,
+      "cost_usd": 0.000445662
+    },
+    {
+      "id": "q047",
+      "question": "Is silence an answer?",
+      "history": [],
+      "answer": "sometimes in some cases it depends yes it is complicated more or less",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.91,
+      "grade": {
+        "correct": 0.61,
+        "readable": 0.73,
+        "quality": 2.21
+      },
+      "requests": 13,
+      "cost_usd": 0.00044545199999999994
+    },
+    {
+      "id": "q048",
+      "question": "What is home?",
+      "history": [],
+      "answer": "a house",
+      "ended_by": "stop",
+      "topics": [
+        "everyday life"
+      ],
+      "first_p": 0.67,
+      "grade": {
+        "correct": 0.58,
+        "readable": 0.98,
+        "quality": 2.8
+      },
+      "requests": 4,
+      "cost_usd": 0.000129024
+    },
+    {
+      "id": "q049",
+      "question": "Is hope rational?",
+      "history": [],
+      "answer": "it depends sometimes in some cases it is complicated more or less yes",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.77,
+      "grade": {
+        "correct": 0.37,
+        "readable": 0.73,
+        "quality": 1.83
+      },
+      "requests": 13,
+      "cost_usd": 0.000445074
+    },
+    {
+      "id": "q050",
+      "question": "Can money buy happiness?",
+      "history": [],
+      "answer": "it depends it is complicated sometimes in some cases a little more or less",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.93,
+      "grade": {
+        "correct": 0.62,
+        "readable": 0.8,
+        "quality": 2.2
+      },
+      "requests": 13,
+      "cost_usd": 0.000445704
+    },
+    {
+      "id": "q051",
+      "question": "Is marriage outdated?",
+      "history": [],
+      "answer": "it depends it is complicated sometimes in some cases more or less the honest answer is",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.93,
+      "grade": {
+        "correct": 0.4,
+        "readable": 0.55,
+        "quality": 1.8
+      },
+      "requests": 13,
+      "cost_usd": 0.00044528400000000006
+    },
+    {
+      "id": "q052",
+      "question": "Should everyone have children?",
+      "history": [],
+      "answer": "no",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.69,
+      "grade": {
+        "correct": 0.92,
+        "readable": 0.99,
+        "quality": 3.86
+      },
+      "requests": 4,
+      "cost_usd": 0.00012621000000000003
+    },
+    {
+      "id": "q053",
+      "question": "Is hard work overrated?",
+      "history": [],
+      "answer": "it depends it is complicated sometimes in some cases more or less the honest answer is",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.95,
+      "grade": {
+        "correct": 0.47,
+        "readable": 0.64,
+        "quality": 1.88
+      },
+      "requests": 13,
+      "cost_usd": 0.000446376
+    },
+    {
+      "id": "q054",
+      "question": "Are most meetings a waste of time?",
+      "history": [],
+      "answer": "it depends sometimes in some cases it is complicated yes more or less",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.98,
+      "grade": {
+        "correct": 0.36,
+        "readable": 0.69,
+        "quality": 1.84
+      },
+      "requests": 13,
+      "cost_usd": 0.00044717400000000005
+    },
+    {
+      "id": "q055",
+      "question": "Is school a waste of time?",
+      "history": [],
+      "answer": "no",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.97,
+      "grade": {
+        "correct": 0.86,
+        "readable": 0.98,
+        "quality": 3.77
+      },
+      "requests": 4,
+      "cost_usd": 0.000126546
+    },
+    {
+      "id": "q056",
+      "question": "Should billionaires exist?",
+      "history": [],
+      "answer": "it depends either is defensible there is no right answer",
+      "ended_by": "stop",
+      "topics": [
+        "general",
+        "morality and choices"
+      ],
+      "first_p": 0.72,
+      "grade": {
+        "correct": 0.54,
+        "readable": 0.62,
+        "quality": 1.98
+      },
+      "requests": 8,
+      "cost_usd": 0.000298494
+    },
+    {
+      "id": "q057",
+      "question": "Is social media making us lonely?",
+      "history": [],
+      "answer": "it depends it is complicated sometimes in some cases but the honest answer is",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.9,
+      "grade": {
+        "correct": 0.4,
+        "readable": 0.67,
+        "quality": 1.73
+      },
+      "requests": 13,
+      "cost_usd": 0.00044675399999999994
+    },
+    {
+      "id": "q058",
+      "question": "Do people really change?",
+      "history": [],
+      "answer": "it depends sometimes in some cases it is complicated yes it takes time",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.89,
+      "grade": {
+        "correct": 0.68,
+        "readable": 0.81,
+        "quality": 2.36
+      },
+      "requests": 13,
+      "cost_usd": 0.00044553599999999996
+    },
+    {
+      "id": "q059",
+      "question": "Is honesty always the best policy?",
+      "history": [],
+      "answer": "it depends in most cases because honesty has limits",
+      "ended_by": "stop",
+      "topics": [
+        "general",
+        "morality and choices"
+      ],
+      "first_p": 0.58,
+      "grade": {
+        "correct": 0.76,
+        "readable": 0.93,
+        "quality": 3.21
+      },
+      "requests": 8,
+      "cost_usd": 0.00029849399999999995
+    },
+    {
+      "id": "q060",
+      "question": "Are humans naturally good?",
+      "history": [],
+      "answer": "it is complicated it depends",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.78,
+      "grade": {
+        "correct": 0.62,
+        "readable": 0.94,
+        "quality": 2.12
+      },
+      "requests": 7,
+      "cost_usd": 0.000246162
+    },
+    {
+      "id": "q061",
+      "question": "Is ambition a virtue or a disease?",
+      "history": [],
+      "answer": "it depends",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "morality and choices"
+      ],
+      "first_p": 0.58,
+      "grade": {
+        "correct": 0.68,
+        "readable": 0.98,
+        "quality": 2.22
+      },
+      "requests": 5,
+      "cost_usd": 0.000188832
+    },
+    {
+      "id": "q062",
+      "question": "Should you follow your passion?",
+      "history": [],
+      "answer": "it depends it is complicated sometimes in some cases but yes",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.71,
+      "grade": {
+        "correct": 0.62,
+        "readable": 0.84,
+        "quality": 2.33
+      },
+      "requests": 13,
+      "cost_usd": 0.000446082
+    },
+    {
+      "id": "q063",
+      "question": "Is retirement a good idea?",
+      "history": [],
+      "answer": "it depends it is complicated sometimes in some cases if done well if done badly",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.88,
+      "grade": {
+        "correct": 0.57,
+        "readable": 0.76,
+        "quality": 2.12
+      },
+      "requests": 13,
+      "cost_usd": 0.00044633400000000005
+    },
+    {
+      "id": "q064",
+      "question": "Are rules made to be broken?",
+      "history": [],
+      "answer": "it depends sometimes in some cases usually in most cases not really",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.92,
+      "grade": {
+        "correct": 0.4,
+        "readable": 0.61,
+        "quality": 1.88
+      },
+      "requests": 13,
+      "cost_usd": 0.00044650200000000004
+    },
+    {
+      "id": "q065",
+      "question": "Is small talk useless?",
+      "history": [],
+      "answer": "no",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.92,
+      "grade": {
+        "correct": 0.91,
+        "readable": 0.97,
+        "quality": 3.71
+      },
+      "requests": 4,
+      "cost_usd": 0.00012621000000000003
+    },
+    {
+      "id": "q066",
+      "question": "Do opposites attract?",
+      "history": [],
+      "answer": "it depends",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.7,
+      "grade": {
+        "correct": 0.75,
+        "readable": 0.98,
+        "quality": 2.53
+      },
+      "requests": 5,
+      "cost_usd": 0.000162876
+    },
+    {
+      "id": "q067",
+      "question": "Is forgiveness overrated?",
+      "history": [],
+      "answer": "it depends it is complicated in some cases trust takes time to build trust breaks in a moment trust",
+      "ended_by": "max_parts",
+      "topics": [
+        "general",
+        "people and feelings"
+      ],
+      "first_p": 0.71,
+      "grade": {
+        "correct": 0.64,
+        "readable": 0.6,
+        "quality": 2.12
+      },
+      "requests": 13,
+      "cost_usd": 0.0004557840000000001
+    },
+    {
+      "id": "q068",
+      "question": "Should you always trust your gut?",
+      "history": [],
+      "answer": "no it depends",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.83,
+      "grade": {
+        "correct": 0.81,
+        "readable": 0.96,
+        "quality": 3
+      },
+      "requests": 6,
+      "cost_usd": 0.000198366
+    },
+    {
+      "id": "q069",
+      "question": "Is being busy a status symbol?",
+      "history": [],
+      "answer": "the short answer is yes of course it depends sometimes in some cases",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.98,
+      "grade": {
+        "correct": 0.48,
+        "readable": 0.77,
+        "quality": 2.01
+      },
+      "requests": 13,
+      "cost_usd": 0.000446838
+    },
+    {
+      "id": "q070",
+      "question": "Are secrets bad for relationships?",
+      "history": [],
+      "answer": "it depends honesty trust be honest tell the truth trust breaks in a moment",
+      "ended_by": "max_parts",
+      "topics": [
+        "general",
+        "people and feelings"
+      ],
+      "first_p": 0.62,
+      "grade": {
+        "correct": 0.68,
+        "readable": 0.51,
+        "quality": 2.32
+      },
+      "requests": 13,
+      "cost_usd": 0.00045788400000000004
+    },
+    {
+      "id": "q071",
+      "question": "Is loyalty dead?",
+      "history": [],
+      "answer": "it depends it is complicated in some cases sometimes more or less not really",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.86,
+      "grade": {
+        "correct": 0.53,
+        "readable": 0.76,
+        "quality": 1.9
+      },
+      "requests": 13,
+      "cost_usd": 0.00044528400000000006
+    },
+    {
+      "id": "q072",
+      "question": "Do nice people finish last?",
+      "history": [],
+      "answer": "it depends it is complicated sometimes in some cases not really probably not",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.9,
+      "grade": {
+        "correct": 0.56,
+        "readable": 0.81,
+        "quality": 2.06
+      },
+      "requests": 13,
+      "cost_usd": 0.000446208
+    },
+    {
+      "id": "q073",
+      "question": "Is age just a number?",
+      "history": [],
+      "answer": "it depends it is complicated sometimes in some cases more or less not really",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.96,
+      "grade": {
+        "correct": 0.4,
+        "readable": 0.78,
+        "quality": 1.7
+      },
+      "requests": 13,
+      "cost_usd": 0.00044629200000000004
+    },
+    {
+      "id": "q074",
+      "question": "Should you speak to strangers?",
+      "history": [],
+      "answer": "it depends sometimes in some cases it is complicated carefully if done well",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.88,
+      "grade": {
+        "correct": 0.57,
+        "readable": 0.68,
+        "quality": 2.24
+      },
+      "requests": 13,
+      "cost_usd": 0.00044604
+    },
+    {
+      "id": "q075",
+      "question": "Is a hot dog a sandwich?",
+      "history": [],
+      "answer": "it depends sometimes in some cases yes it is complicated in most cases",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.86,
+      "grade": {
+        "correct": 0.35,
+        "readable": 0.63,
+        "quality": 1.81
+      },
+      "requests": 13,
+      "cost_usd": 0.00044654400000000005
+    },
+    {
+      "id": "q076",
+      "question": "Is cereal a soup?",
+      "history": [],
+      "answer": "no",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.78,
+      "grade": {
+        "correct": 0.85,
+        "readable": 0.98,
+        "quality": 3.83
+      },
+      "requests": 4,
+      "cost_usd": 0.00012621000000000003
+    },
+    {
+      "id": "q077",
+      "question": "Does pineapple belong on pizza?",
+      "history": [],
+      "answer": "it depends sometimes in some cases yes if done well",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.86,
+      "grade": {
+        "correct": 0.69,
+        "readable": 0.9,
+        "quality": 2.48
+      },
+      "requests": 12,
+      "cost_usd": 0.000412734
+    },
+    {
+      "id": "q078",
+      "question": "Why do socks disappear in the laundry?",
+      "history": [],
+      "answer": "",
+      "ended_by": "missing_in_topic",
+      "topics": [],
+      "first_p": 0.86,
+      "grade": {
+        "correct": 0.01,
+        "readable": 0.22,
+        "quality": 0.01
+      },
+      "requests": 3,
+      "cost_usd": 9.202200000000001e-05
+    },
+    {
+      "id": "q079",
+      "question": "Is it acceptable to eat dessert first?",
+      "history": [],
+      "answer": "yes",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.6,
+      "grade": {
+        "correct": 0.8,
+        "readable": 0.99,
+        "quality": 3.77
+      },
+      "requests": 4,
+      "cost_usd": 0.000126714
+    },
+    {
+      "id": "q080",
+      "question": "Should I make my bed every morning?",
+      "history": [],
+      "answer": "a habit yes of course",
+      "ended_by": "stop",
+      "topics": [
+        "everyday life",
+        "general"
+      ],
+      "first_p": 0.53,
+      "grade": {
+        "correct": 0.66,
+        "readable": 0.62,
+        "quality": 2.38
+      },
+      "requests": 8,
+      "cost_usd": 0.000273924
+    },
+    {
+      "id": "q081",
+      "question": "Is coffee a personality?",
+      "history": [],
+      "answer": "no",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.85,
+      "grade": {
+        "correct": 0.92,
+        "readable": 0.98,
+        "quality": 3.86
+      },
+      "requests": 4,
+      "cost_usd": 0.00012621000000000003
+    },
+    {
+      "id": "q082",
+      "question": "Can a Monday be good?",
+      "history": [],
+      "answer": "yes",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.95,
+      "grade": {
+        "correct": 0.96,
+        "readable": 0.97,
+        "quality": 3.88
+      },
+      "requests": 4,
+      "cost_usd": 0.00012637800000000002
+    },
+    {
+      "id": "q083",
+      "question": "Is it wrong to talk to plants?",
+      "history": [],
+      "answer": "no",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.71,
+      "grade": {
+        "correct": 0.88,
+        "readable": 0.96,
+        "quality": 3.73
+      },
+      "requests": 4,
+      "cost_usd": 0.000126714
+    },
+    {
+      "id": "q084",
+      "question": "Do fish get thirsty?",
+      "history": [],
+      "answer": "a fish no",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "nature and science",
+        "general"
+      ],
+      "first_p": 0.56,
+      "grade": {
+        "correct": 0.73,
+        "readable": 0.41,
+        "quality": 2.58
+      },
+      "requests": 7,
+      "cost_usd": 0.000240492
+    },
+    {
+      "id": "q085",
+      "question": "Why do we press elevator buttons that are already lit?",
+      "history": [],
+      "answer": "a habit",
+      "ended_by": "stop",
+      "topics": [
+        "everyday life"
+      ],
+      "first_p": 0.32,
+      "grade": {
+        "correct": 0.67,
+        "readable": 0.96,
+        "quality": 3.16
+      },
+      "requests": 4,
+      "cost_usd": 0.0001302
+    },
+    {
+      "id": "q086",
+      "question": "Is a tomato a fruit or a vegetable?",
+      "history": [],
+      "answer": "",
+      "ended_by": "missing_in_topic",
+      "topics": [],
+      "first_p": 0.43,
+      "grade": {
+        "correct": 0.01,
+        "readable": 0.19,
+        "quality": 0.04
+      },
+      "requests": 3,
+      "cost_usd": 9.3408e-05
+    },
+    {
+      "id": "q087",
+      "question": "Should adults have bedtimes?",
+      "history": [],
+      "answer": "yes",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.69,
+      "grade": {
+        "correct": 0.9,
+        "readable": 0.99,
+        "quality": 3.68
+      },
+      "requests": 4,
+      "cost_usd": 0.00012637800000000002
+    },
+    {
+      "id": "q088",
+      "question": "Is naming your car normal?",
+      "history": [],
+      "answer": "yes",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.88,
+      "grade": {
+        "correct": 0.94,
+        "readable": 0.97,
+        "quality": 3.88
+      },
+      "requests": 4,
+      "cost_usd": 0.00012637800000000002
+    },
+    {
+      "id": "q089",
+      "question": "Can soup be a whole dinner?",
+      "history": [],
+      "answer": "yes",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.64,
+      "grade": {
+        "correct": 0.97,
+        "readable": 0.98,
+        "quality": 3.85
+      },
+      "requests": 4,
+      "cost_usd": 0.000126546
+    },
+    {
+      "id": "q090",
+      "question": "Is breakfast for dinner a good idea?",
+      "history": [],
+      "answer": "it depends",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.53,
+      "grade": {
+        "correct": 0.76,
+        "readable": 0.98,
+        "quality": 2.12
+      },
+      "requests": 5,
+      "cost_usd": 0.00016405199999999998
+    },
+    {
+      "id": "q091",
+      "question": "Why does toast always fall butter side down?",
+      "history": [],
+      "answer": "",
+      "ended_by": "missing_in_topic",
+      "topics": [],
+      "first_p": 0.52,
+      "grade": {
+        "correct": 0.01,
+        "readable": 0.25,
+        "quality": 0.01
+      },
+      "requests": 3,
+      "cost_usd": 9.2148e-05
+    },
+    {
+      "id": "q092",
+      "question": "Should I eat the last slice without asking?",
+      "history": [],
+      "answer": "you should not",
+      "ended_by": "stop",
+      "topics": [
+        "morality and choices"
+      ],
+      "first_p": 0.42,
+      "grade": {
+        "correct": 0.89,
+        "readable": 0.98,
+        "quality": 3.85
+      },
+      "requests": 4,
+      "cost_usd": 0.00014103599999999998
+    },
+    {
+      "id": "q093",
+      "question": "Is it okay to wear pajamas all day?",
+      "history": [],
+      "answer": "it depends home a house",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "general",
+        "everyday life"
+      ],
+      "first_p": 0.57,
+      "grade": {
+        "correct": 0.56,
+        "readable": 0.41,
+        "quality": 2.19
+      },
+      "requests": 9,
+      "cost_usd": 0.00031441199999999997
+    },
+    {
+      "id": "q094",
+      "question": "Do birds gossip?",
+      "history": [],
+      "answer": "the short answer is yes",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.71,
+      "grade": {
+        "correct": 0.7,
+        "readable": 0.98,
+        "quality": 3.45
+      },
+      "requests": 7,
+      "cost_usd": 0.000236376
+    },
+    {
+      "id": "q095",
+      "question": "Is walking a sport?",
+      "history": [],
+      "answer": "it depends in some cases sometimes yes in most cases no",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.98,
+      "grade": {
+        "correct": 0.56,
+        "readable": 0.84,
+        "quality": 2.35
+      },
+      "requests": 13,
+      "cost_usd": 0.00044545199999999994
+    },
+    {
+      "id": "q096",
+      "question": "Can a house be too clean?",
+      "history": [],
+      "answer": "yes",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.82,
+      "grade": {
+        "correct": 0.95,
+        "readable": 0.98,
+        "quality": 3.65
+      },
+      "requests": 4,
+      "cost_usd": 0.000126546
+    },
+    {
+      "id": "q097",
+      "question": "Is it weird to clap when the plane lands?",
+      "history": [],
+      "answer": "not really",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.87,
+      "grade": {
+        "correct": 0.9,
+        "readable": 0.97,
+        "quality": 3.59
+      },
+      "requests": 4,
+      "cost_usd": 0.000127134
+    },
+    {
+      "id": "q098",
+      "question": "Should ketchup be kept in the fridge?",
+      "history": [],
+      "answer": "it depends",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.62,
+      "grade": {
+        "correct": 0.74,
+        "readable": 0.98,
+        "quality": 2.21
+      },
+      "requests": 5,
+      "cost_usd": 0.00016447199999999998
+    },
+    {
+      "id": "q099",
+      "question": "Is five minutes late actually late?",
+      "history": [],
+      "answer": "it depends sometimes in some cases in most cases yes usually",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.93,
+      "grade": {
+        "correct": 0.57,
+        "readable": 0.79,
+        "quality": 2.23
+      },
+      "requests": 13,
+      "cost_usd": 0.000446544
+    },
+    {
+      "id": "q100",
+      "question": "How do I know if someone loves me?",
+      "history": [],
+      "answer": "more than words show up give time small things matter give attention love is attention",
+      "ended_by": "max_parts",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 1,
+      "grade": {
+        "correct": 0.78,
+        "readable": 0.49,
+        "quality": 2.59
+      },
+      "requests": 13,
+      "cost_usd": 0.00046094999999999996
+    },
+    {
+      "id": "q101",
+      "question": "Should I text my ex?",
+      "history": [],
+      "answer": "it depends",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.47,
+      "grade": {
+        "correct": 0.69,
+        "readable": 0.98,
+        "quality": 1.8
+      },
+      "requests": 5,
+      "cost_usd": 0.000162876
+    },
+    {
+      "id": "q102",
+      "question": "How do I say no without feeling guilty?",
+      "history": [],
+      "answer": "be honest honesty with honesty tell the truth be kind respect",
+      "ended_by": "max_parts",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.9,
+      "grade": {
+        "correct": 0.43,
+        "readable": 0.45,
+        "quality": 1.93
+      },
+      "requests": 13,
+      "cost_usd": 0.0004602360000000001
+    },
+    {
+      "id": "q103",
+      "question": "My friend never asks about me. What should I do?",
+      "history": [],
+      "answer": "talk about it be honest tell the truth honesty ask questions give attention",
+      "ended_by": "max_parts",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 1,
+      "grade": {
+        "correct": 0.71,
+        "readable": 0.55,
+        "quality": 2.28
+      },
+      "requests": 13,
+      "cost_usd": 0.000462378
+    },
+    {
+      "id": "q104",
+      "question": "How do I apologize well?",
+      "history": [],
+      "answer": "say sorry from the heart be honest more than words tell the truth honesty",
+      "ended_by": "max_parts",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.98,
+      "grade": {
+        "correct": 0.44,
+        "readable": 0.49,
+        "quality": 2.13
+      },
+      "requests": 13,
+      "cost_usd": 0.00045927
+    },
+    {
+      "id": "q105",
+      "question": "What makes a good friendship?",
+      "history": [],
+      "answer": "trust respect honesty kindness",
+      "ended_by": "stop",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 1,
+      "grade": {
+        "correct": 0.92,
+        "readable": 0.88,
+        "quality": 3.05
+      },
+      "requests": 10,
+      "cost_usd": 0.00034935600000000005
+    },
+    {
+      "id": "q106",
+      "question": "How do I deal with a jealous friend?",
+      "history": [],
+      "answer": "talk about it listen first without judgment feelings are information being heard heals ask questions",
+      "ended_by": "max_parts",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 1,
+      "grade": {
+        "correct": 0.84,
+        "readable": 0.67,
+        "quality": 2.61
+      },
+      "requests": 13,
+      "cost_usd": 0.00046090800000000005
+    },
+    {
+      "id": "q107",
+      "question": "Should I tell my friend a hard truth?",
+      "history": [],
+      "answer": "be honest be kind",
+      "ended_by": "stop",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.61,
+      "grade": {
+        "correct": 0.73,
+        "readable": 0.91,
+        "quality": 2.7
+      },
+      "requests": 6,
+      "cost_usd": 0.00020328
+    },
+    {
+      "id": "q108",
+      "question": "How do I stop arguing with my partner about small things?",
+      "history": [],
+      "answer": "listen first being heard heals without judgment respect patience be patient",
+      "ended_by": "max_parts",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.99,
+      "grade": {
+        "correct": 0.69,
+        "readable": 0.48,
+        "quality": 2.28
+      },
+      "requests": 13,
+      "cost_usd": 0.000462084
+    },
+    {
+      "id": "q109",
+      "question": "What do people want most from each other?",
+      "history": [],
+      "answer": "love",
+      "ended_by": "stop",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.99,
+      "grade": {
+        "correct": 0.78,
+        "readable": 0.99,
+        "quality": 3.76
+      },
+      "requests": 4,
+      "cost_usd": 0.000129024
+    },
+    {
+      "id": "q110",
+      "question": "How do I make friends as an adult?",
+      "history": [],
+      "answer": "show up give time give attention friendship needs care trust takes time to build be patient",
+      "ended_by": "max_parts",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.99,
+      "grade": {
+        "correct": 0.81,
+        "readable": 0.83,
+        "quality": 2.51
+      },
+      "requests": 13,
+      "cost_usd": 0.00046074000000000006
+    },
+    {
+      "id": "q111",
+      "question": "What should I do when someone is angry at me?",
+      "history": [],
+      "answer": "listen first without judgment being heard heals anger passes talk about it say sorry",
+      "ended_by": "max_parts",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 1,
+      "grade": {
+        "correct": 0.87,
+        "readable": 0.63,
+        "quality": 2.68
+      },
+      "requests": 13,
+      "cost_usd": 0.00046187400000000003
+    },
+    {
+      "id": "q112",
+      "question": "How do I earn back broken trust?",
+      "history": [],
+      "answer": "trust takes time to build trust breaks in a moment with time give time be patient be honest",
+      "ended_by": "max_parts",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 1,
+      "grade": {
+        "correct": 0.69,
+        "readable": 0.53,
+        "quality": 2.31
+      },
+      "requests": 13,
+      "cost_usd": 0.0004613700000000001
+    },
+    {
+      "id": "q113",
+      "question": "Is it better to be right or to be kind?",
+      "history": [],
+      "answer": "it depends either is defensible there is no right answer",
+      "ended_by": "stop",
+      "topics": [
+        "morality and choices"
+      ],
+      "first_p": 0.7,
+      "grade": {
+        "correct": 0.53,
+        "readable": 0.7,
+        "quality": 2.17
+      },
+      "requests": 8,
+      "cost_usd": 0.00031416
+    },
+    {
+      "id": "q114",
+      "question": "How do I comfort someone who is sad?",
+      "history": [],
+      "answer": "listen first being heard heals without judgment more than words show up give attention",
+      "ended_by": "max_parts",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 1,
+      "grade": {
+        "correct": 0.87,
+        "readable": 0.43,
+        "quality": 2.67
+      },
+      "requests": 13,
+      "cost_usd": 0.00046086599999999993
+    },
+    {
+      "id": "q115",
+      "question": "What is the secret to a long marriage?",
+      "history": [],
+      "answer": "love is a choice",
+      "ended_by": "stop",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.99,
+      "grade": {
+        "correct": 0.76,
+        "readable": 0.99,
+        "quality": 3.56
+      },
+      "requests": 4,
+      "cost_usd": 0.000129276
+    },
+    {
+      "id": "q116",
+      "question": "How do I know when to end a relationship?",
+      "history": [],
+      "answer": "feelings are information listen first talk about it be honest tell the truth honesty",
+      "ended_by": "max_parts",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.97,
+      "grade": {
+        "correct": 0.34,
+        "readable": 0.7,
+        "quality": 1.87
+      },
+      "requests": 13,
+      "cost_usd": 0.00046179
+    },
+    {
+      "id": "q117",
+      "question": "Why do people ghost each other?",
+      "history": [],
+      "answer": "fear everyone is afraid sometimes",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.95,
+      "grade": {
+        "correct": 0.27,
+        "readable": 0.71,
+        "quality": 1.51
+      },
+      "requests": 7,
+      "cost_usd": 0.00023876999999999997
+    },
+    {
+      "id": "q118",
+      "question": "How do I listen better?",
+      "history": [],
+      "answer": "listen first without judgment give attention ask questions be patient respect",
+      "ended_by": "max_parts",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.88,
+      "grade": {
+        "correct": 0.93,
+        "readable": 0.88,
+        "quality": 3.09
+      },
+      "requests": 13,
+      "cost_usd": 0.00045885
+    },
+    {
+      "id": "q119",
+      "question": "What ruins most relationships?",
+      "history": [],
+      "answer": "trust breaks in a moment trust takes time to build",
+      "ended_by": "stop",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.99,
+      "grade": {
+        "correct": 0.83,
+        "readable": 0.63,
+        "quality": 2.96
+      },
+      "requests": 6,
+      "cost_usd": 0.000202902
+    },
+    {
+      "id": "q120",
+      "question": "Should I forgive someone who is not sorry?",
+      "history": [],
+      "answer": "it depends",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.41,
+      "grade": {
+        "correct": 0.71,
+        "readable": 0.98,
+        "quality": 1.83
+      },
+      "requests": 5,
+      "cost_usd": 0.00016350599999999998
+    },
+    {
+      "id": "q121",
+      "question": "How do I stop comparing myself to others?",
+      "history": [],
+      "answer": "",
+      "ended_by": "missing_in_topic",
+      "topics": [],
+      "first_p": 0.93,
+      "grade": {
+        "correct": 0.01,
+        "readable": 0.15,
+        "quality": 0.01
+      },
+      "requests": 3,
+      "cost_usd": 9.1392e-05
+    },
+    {
+      "id": "q122",
+      "question": "What do children need most from parents?",
+      "history": [],
+      "answer": "love",
+      "ended_by": "stop",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 1,
+      "grade": {
+        "correct": 0.89,
+        "readable": 0.99,
+        "quality": 3.87
+      },
+      "requests": 4,
+      "cost_usd": 0.000128856
+    },
+    {
+      "id": "q123",
+      "question": "How do I tell someone I love them?",
+      "history": [],
+      "answer": "from the heart be honest tell the truth talk about it love love is a choice",
+      "ended_by": "max_parts",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 1,
+      "grade": {
+        "correct": 0.79,
+        "readable": 0.76,
+        "quality": 2.39
+      },
+      "requests": 13,
+      "cost_usd": 0.00046107599999999993
+    },
+    {
+      "id": "q124",
+      "question": "Is jealousy ever healthy?",
+      "history": [],
+      "answer": "yes feelings are information",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "general",
+        "people and feelings"
+      ],
+      "first_p": 0.63,
+      "grade": {
+        "correct": 0.77,
+        "readable": 0.88,
+        "quality": 2.86
+      },
+      "requests": 7,
+      "cost_usd": 0.000236418
+    },
+    {
+      "id": "q125",
+      "question": "How do I stop procrastinating?",
+      "history": [],
+      "answer": "start small slowly and often",
+      "ended_by": "stop",
+      "topics": [
+        "everyday life"
+      ],
+      "first_p": 0.96,
+      "grade": {
+        "correct": 0.78,
+        "readable": 0.92,
+        "quality": 3.04
+      },
+      "requests": 6,
+      "cost_usd": 0.00020512799999999998
+    },
+    {
+      "id": "q126",
+      "question": "What should I do with my life?",
+      "history": [],
+      "answer": "there is no right answer it depends it is complicated",
+      "ended_by": "stop",
+      "topics": [
+        "morality and choices",
+        "general"
+      ],
+      "first_p": 0.37,
+      "grade": {
+        "correct": 0.39,
+        "readable": 0.9,
+        "quality": 1.32
+      },
+      "requests": 8,
+      "cost_usd": 0.000285978
+    },
+    {
+      "id": "q127",
+      "question": "How do I know if I am wasting my time?",
+      "history": [],
+      "answer": "",
+      "ended_by": "missing_in_topic",
+      "topics": [],
+      "first_p": 0.52,
+      "grade": {
+        "correct": 0.01,
+        "readable": 0.17,
+        "quality": 0.01
+      },
+      "requests": 3,
+      "cost_usd": 9.24e-05
+    },
+    {
+      "id": "q128",
+      "question": "Is it too late for me to change?",
+      "history": [],
+      "answer": "no",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.66,
+      "grade": {
+        "correct": 0.88,
+        "readable": 0.98,
+        "quality": 3.72
+      },
+      "requests": 4,
+      "cost_usd": 0.00012688199999999998
+    },
+    {
+      "id": "q129",
+      "question": "How do I deal with regret?",
+      "history": [],
+      "answer": "forgive say sorry people make mistakes with time patience be patient",
+      "ended_by": "max_parts",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.97,
+      "grade": {
+        "correct": 0.64,
+        "readable": 0.47,
+        "quality": 2.23
+      },
+      "requests": 13,
+      "cost_usd": 0.000459438
+    },
+    {
+      "id": "q130",
+      "question": "What is the best morning routine?",
+      "history": [],
+      "answer": "sleep enough drink water breakfast",
+      "ended_by": "stop",
+      "topics": [
+        "everyday life"
+      ],
+      "first_p": 0.96,
+      "grade": {
+        "correct": 0.76,
+        "readable": 0.83,
+        "quality": 2.59
+      },
+      "requests": 8,
+      "cost_usd": 0.00027883799999999995
+    },
+    {
+      "id": "q131",
+      "question": "How do I stop worrying about things I cannot control?",
+      "history": [],
+      "answer": "",
+      "ended_by": "missing_in_topic",
+      "topics": [],
+      "first_p": 0.83,
+      "grade": {
+        "correct": 0.01,
+        "readable": 0.13,
+        "quality": 0.02
+      },
+      "requests": 3,
+      "cost_usd": 9.164399999999999e-05
+    },
+    {
+      "id": "q132",
+      "question": "Should I quit my job?",
+      "history": [],
+      "answer": "it depends a person should decide this there is no right answer",
+      "ended_by": "stop",
+      "topics": [
+        "general",
+        "morality and choices"
+      ],
+      "first_p": 0.49,
+      "grade": {
+        "correct": 0.52,
+        "readable": 0.82,
+        "quality": 1.57
+      },
+      "requests": 8,
+      "cost_usd": 0.000298494
+    },
+    {
+      "id": "q133",
+      "question": "How do I get better sleep?",
+      "history": [],
+      "answer": "turn off the phone sleep enough a routine exercise eat well go outside",
+      "ended_by": "max_parts",
+      "topics": [
+        "everyday life"
+      ],
+      "first_p": 1,
+      "grade": {
+        "correct": 0.85,
+        "readable": 0.72,
+        "quality": 2.64
+      },
+      "requests": 13,
+      "cost_usd": 0.00046435199999999996
+    },
+    {
+      "id": "q134",
+      "question": "What is the key to staying healthy?",
+      "history": [],
+      "answer": "eat well exercise",
+      "ended_by": "stop",
+      "topics": [
+        "everyday life"
+      ],
+      "first_p": 0.99,
+      "grade": {
+        "correct": 0.88,
+        "readable": 0.78,
+        "quality": 2.83
+      },
+      "requests": 6,
+      "cost_usd": 0.00020445600000000002
+    },
+    {
+      "id": "q135",
+      "question": "How do I build good habits?",
+      "history": [],
+      "answer": "start small do it every day slowly and often",
+      "ended_by": "stop",
+      "topics": [
+        "everyday life"
+      ],
+      "first_p": 0.99,
+      "grade": {
+        "correct": 0.87,
+        "readable": 0.88,
+        "quality": 2.98
+      },
+      "requests": 8,
+      "cost_usd": 0.000279258
+    },
+    {
+      "id": "q136",
+      "question": "What should I spend money on?",
+      "history": [],
+      "answer": "food the rent savings",
+      "ended_by": "stop",
+      "topics": [
+        "everyday life"
+      ],
+      "first_p": 0.88,
+      "grade": {
+        "correct": 0.65,
+        "readable": 0.56,
+        "quality": 2.43
+      },
+      "requests": 8,
+      "cost_usd": 0.00027866999999999996
+    },
+    {
+      "id": "q137",
+      "question": "How do I slow down time?",
+      "history": [],
+      "answer": "turn off the phone go outside a walk enjoy it",
+      "ended_by": "stop",
+      "topics": [
+        "everyday life"
+      ],
+      "first_p": 0.62,
+      "grade": {
+        "correct": 0.56,
+        "readable": 0.81,
+        "quality": 2.52
+      },
+      "requests": 10,
+      "cost_usd": 0.00035384999999999995
+    },
+    {
+      "id": "q138",
+      "question": "What should I do when everything goes wrong?",
+      "history": [],
+      "answer": "the short answer is it depends it is complicated the honest answer is i do not know",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.39,
+      "grade": {
+        "correct": 0.3,
+        "readable": 0.77,
+        "quality": 1.2
+      },
+      "requests": 12,
+      "cost_usd": 0.0004154219999999999
+    },
+    {
+      "id": "q139",
+      "question": "How do I become more patient?",
+      "history": [],
+      "answer": "be patient takes practice do it every day slowly and often",
+      "ended_by": "stop",
+      "topics": [
+        "people and feelings",
+        "everyday life"
+      ],
+      "first_p": 0.51,
+      "grade": {
+        "correct": 0.7,
+        "readable": 0.6,
+        "quality": 2.5
+      },
+      "requests": 10,
+      "cost_usd": 0.000353892
+    },
+    {
+      "id": "q140",
+      "question": "What is worth worrying about?",
+      "history": [],
+      "answer": "it depends it is complicated there are many there are a few in some cases i do not know",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.38,
+      "grade": {
+        "correct": 0.23,
+        "readable": 0.78,
+        "quality": 0.89
+      },
+      "requests": 13,
+      "cost_usd": 0.000446838
+    },
+    {
+      "id": "q141",
+      "question": "How do I start over?",
+      "history": [],
+      "answer": "it depends it starts with first step by step one at a time and then",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.45,
+      "grade": {
+        "correct": 0.31,
+        "readable": 0.66,
+        "quality": 1.89
+      },
+      "requests": 13,
+      "cost_usd": 0.00044637600000000006
+    },
+    {
+      "id": "q142",
+      "question": "What makes a good day?",
+      "history": [],
+      "answer": "with people you love",
+      "ended_by": "stop",
+      "topics": [
+        "everyday life"
+      ],
+      "first_p": 0.58,
+      "grade": {
+        "correct": 0.88,
+        "readable": 0.86,
+        "quality": 3.2
+      },
+      "requests": 4,
+      "cost_usd": 0.00012952799999999998
+    },
+    {
+      "id": "q143",
+      "question": "How do I stop caring what people think?",
+      "history": [],
+      "answer": "courage",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.97,
+      "grade": {
+        "correct": 0.29,
+        "readable": 0.9,
+        "quality": 1.27
+      },
+      "requests": 5,
+      "cost_usd": 0.000165354
+    },
+    {
+      "id": "q144",
+      "question": "When should I give up on a goal?",
+      "history": [],
+      "answer": "it depends",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "morality and choices"
+      ],
+      "first_p": 0.53,
+      "grade": {
+        "correct": 0.56,
+        "readable": 0.98,
+        "quality": 1.27
+      },
+      "requests": 5,
+      "cost_usd": 0.000189042
+    },
+    {
+      "id": "q145",
+      "question": "How do I deal with getting older?",
+      "history": [],
+      "answer": "enjoy it",
+      "ended_by": "stop",
+      "topics": [
+        "everyday life"
+      ],
+      "first_p": 0.77,
+      "grade": {
+        "correct": 0.56,
+        "readable": 0.98,
+        "quality": 1.92
+      },
+      "requests": 4,
+      "cost_usd": 0.00012978000000000002
+    },
+    {
+      "id": "q146",
+      "question": "What is the best use of a free afternoon?",
+      "history": [],
+      "answer": "enjoy it",
+      "ended_by": "stop",
+      "topics": [
+        "everyday life"
+      ],
+      "first_p": 0.92,
+      "grade": {
+        "correct": 0.71,
+        "readable": 0.98,
+        "quality": 2.62
+      },
+      "requests": 4,
+      "cost_usd": 0.000130116
+    },
+    {
+      "id": "q147",
+      "question": "How do I find what I am good at?",
+      "history": [],
+      "answer": "",
+      "ended_by": "missing_in_topic",
+      "topics": [],
+      "first_p": 0.34,
+      "grade": {
+        "correct": 0.01,
+        "readable": 0.18,
+        "quality": 0.02
+      },
+      "requests": 3,
+      "cost_usd": 9.1518e-05
+    },
+    {
+      "id": "q148",
+      "question": "Is rest productive?",
+      "history": [],
+      "answer": "yes",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.86,
+      "grade": {
+        "correct": 0.9,
+        "readable": 0.98,
+        "quality": 3.77
+      },
+      "requests": 4,
+      "cost_usd": 0.00012604199999999998
+    },
+    {
+      "id": "q149",
+      "question": "What would you tell someone turning forty?",
+      "history": [],
+      "answer": "",
+      "ended_by": "missing_in_topic",
+      "topics": [],
+      "first_p": 0.78,
+      "grade": {
+        "correct": 0.01,
+        "readable": 0.21,
+        "quality": 0.01
+      },
+      "requests": 3,
+      "cost_usd": 9.1266e-05
+    },
+    {
+      "id": "q150",
+      "question": "Will AI take my job?",
+      "history": [],
+      "answer": "it depends in some cases will replace some work will not replace people sometimes in most cases",
+      "ended_by": "max_parts",
+      "topics": [
+        "general",
+        "machines and AI"
+      ],
+      "first_p": 0.63,
+      "grade": {
+        "correct": 0.48,
+        "readable": 0.49,
+        "quality": 2.07
+      },
+      "requests": 13,
+      "cost_usd": 0.0006624660000000002
+    },
+    {
+      "id": "q151",
+      "question": "Should I be afraid of AI?",
+      "history": [],
+      "answer": "it depends in some cases sometimes in most cases probably not is a tool",
+      "ended_by": "max_parts",
+      "topics": [
+        "machines and AI"
+      ],
+      "first_p": 0.55,
+      "grade": {
+        "correct": 0.42,
+        "readable": 0.57,
+        "quality": 1.98
+      },
+      "requests": 13,
+      "cost_usd": 0.0007056
+    },
+    {
+      "id": "q152",
+      "question": "Is AI overhyped?",
+      "history": [],
+      "answer": "it depends in some cases sometimes in most cases in part part of the truth",
+      "ended_by": "max_parts",
+      "topics": [
+        "general",
+        "machines and AI"
+      ],
+      "first_p": 0.62,
+      "grade": {
+        "correct": 0.39,
+        "readable": 0.6,
+        "quality": 1.72
+      },
+      "requests": 13,
+      "cost_usd": 0.0006619620000000001
+    },
+    {
+      "id": "q153",
+      "question": "Should children learn to code?",
+      "history": [],
+      "answer": "yes",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.96,
+      "grade": {
+        "correct": 0.91,
+        "readable": 0.98,
+        "quality": 3.64
+      },
+      "requests": 4,
+      "cost_usd": 0.00012637800000000002
+    },
+    {
+      "id": "q154",
+      "question": "Will robots ever feel love?",
+      "history": [],
+      "answer": "cannot feel",
+      "ended_by": "stop",
+      "topics": [
+        "machines and AI"
+      ],
+      "first_p": 0.53,
+      "grade": {
+        "correct": 0.59,
+        "readable": 0.72,
+        "quality": 2.47
+      },
+      "requests": 4,
+      "cost_usd": 0.000169596
+    },
+    {
+      "id": "q155",
+      "question": "Is my phone listening to me?",
+      "history": [],
+      "answer": "the short answer is probably not in most cases",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.73,
+      "grade": {
+        "correct": 0.75,
+        "readable": 0.97,
+        "quality": 3.27
+      },
+      "requests": 9,
+      "cost_usd": 0.00034776
+    },
+    {
+      "id": "q156",
+      "question": "Should AI be allowed to make laws?",
+      "history": [],
+      "answer": "it depends in some cases it is complicated",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "general",
+        "machines and AI"
+      ],
+      "first_p": 0.67,
+      "grade": {
+        "correct": 0.38,
+        "readable": 0.79,
+        "quality": 1.64
+      },
+      "requests": 9,
+      "cost_usd": 0.00039101999999999995
+    },
+    {
+      "id": "q157",
+      "question": "Is technology making us dumber?",
+      "history": [],
+      "answer": "it depends it is complicated sometimes in some cases but the honest answer is",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.9,
+      "grade": {
+        "correct": 0.37,
+        "readable": 0.7,
+        "quality": 1.71
+      },
+      "requests": 13,
+      "cost_usd": 0.00044675399999999994
+    },
+    {
+      "id": "q158",
+      "question": "Would you trust a robot doctor?",
+      "history": [],
+      "answer": "it depends in some cases sometimes if used carefully has limits for now",
+      "ended_by": "max_parts",
+      "topics": [
+        "machines and AI"
+      ],
+      "first_p": 0.6,
+      "grade": {
+        "correct": 0.77,
+        "readable": 0.64,
+        "quality": 2.48
+      },
+      "requests": 13,
+      "cost_usd": 0.000705558
+    },
+    {
+      "id": "q159",
+      "question": "Can a machine be creative?",
+      "history": [],
+      "answer": "yes",
+      "ended_by": "stop",
+      "topics": [
+        "machines and AI"
+      ],
+      "first_p": 0.62,
+      "grade": {
+        "correct": 0.77,
+        "readable": 0.99,
+        "quality": 3.64
+      },
+      "requests": 4,
+      "cost_usd": 0.00016951199999999997
+    },
+    {
+      "id": "q160",
+      "question": "Should AI art count as art?",
+      "history": [],
+      "answer": "it depends it is complicated sometimes in some cases i do not know i cannot say",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.84,
+      "grade": {
+        "correct": 0.29,
+        "readable": 0.83,
+        "quality": 1.39
+      },
+      "requests": 13,
+      "cost_usd": 0.00044696399999999994
+    },
+    {
+      "id": "q161",
+      "question": "Is the internet good for humanity?",
+      "history": [],
+      "answer": "it depends it is complicated sometimes more or less in some cases in most cases",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.97,
+      "grade": {
+        "correct": 0.52,
+        "readable": 0.66,
+        "quality": 2.1
+      },
+      "requests": 13,
+      "cost_usd": 0.00044688
+    },
+    {
+      "id": "q162",
+      "question": "Should machines have rights?",
+      "history": [],
+      "answer": "it depends in some cases sometimes for now is premature",
+      "ended_by": "stop",
+      "topics": [
+        "general",
+        "machines and AI"
+      ],
+      "first_p": 0.62,
+      "grade": {
+        "correct": 0.63,
+        "readable": 0.71,
+        "quality": 2.27
+      },
+      "requests": 12,
+      "cost_usd": 0.000584892
+    },
+    {
+      "id": "q163",
+      "question": "Will AI end loneliness or deepen it?",
+      "history": [],
+      "answer": "it depends the people who use it",
+      "ended_by": "stop",
+      "topics": [
+        "general",
+        "machines and AI"
+      ],
+      "first_p": 0.72,
+      "grade": {
+        "correct": 0.64,
+        "readable": 0.73,
+        "quality": 2.35
+      },
+      "requests": 6,
+      "cost_usd": 0.00024213
+    },
+    {
+      "id": "q164",
+      "question": "Is it wrong to be rude to a chatbot?",
+      "history": [],
+      "answer": "not really cannot feel because it cannot does not understand without understanding probably not",
+      "ended_by": "max_parts",
+      "topics": [
+        "general",
+        "machines and AI"
+      ],
+      "first_p": 0.49,
+      "grade": {
+        "correct": 0.56,
+        "readable": 0.24,
+        "quality": 1.9
+      },
+      "requests": 13,
+      "cost_usd": 0.0006647339999999999
+    },
+    {
+      "id": "q165",
+      "question": "Can a machine have good taste?",
+      "history": [],
+      "answer": "only matches patterns only predicts no without understanding does not understand cannot feel",
+      "ended_by": "max_parts",
+      "topics": [
+        "machines and AI"
+      ],
+      "first_p": 0.61,
+      "grade": {
+        "correct": 0.68,
+        "readable": 0.28,
+        "quality": 2.38
+      },
+      "requests": 13,
+      "cost_usd": 0.000705558
+    },
+    {
+      "id": "q166",
+      "question": "Should an AI raise a child?",
+      "history": [],
+      "answer": "no",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.66,
+      "grade": {
+        "correct": 0.74,
+        "readable": 0.98,
+        "quality": 3.6
+      },
+      "requests": 4,
+      "cost_usd": 0.000126546
+    },
+    {
+      "id": "q167",
+      "question": "Would you vote for an AI politician?",
+      "history": [],
+      "answer": "it depends in some cases sometimes for now over time has no view",
+      "ended_by": "max_parts",
+      "topics": [
+        "general",
+        "machines and AI"
+      ],
+      "first_p": 0.7,
+      "grade": {
+        "correct": 0.28,
+        "readable": 0.46,
+        "quality": 1.48
+      },
+      "requests": 13,
+      "cost_usd": 0.000662886
+    },
+    {
+      "id": "q168",
+      "question": "Is a machine that cannot speak more honest?",
+      "history": [],
+      "answer": "it depends in some cases sometimes cannot lie can be wrong makes mistakes",
+      "ended_by": "max_parts",
+      "topics": [
+        "machines and AI"
+      ],
+      "first_p": 0.59,
+      "grade": {
+        "correct": 0.64,
+        "readable": 0.38,
+        "quality": 2.21
+      },
+      "requests": 13,
+      "cost_usd": 0.000706608
+    },
+    {
+      "id": "q169",
+      "question": "What will humans do when machines do everything?",
+      "history": [],
+      "answer": "",
+      "ended_by": "missing_in_topic",
+      "topics": [],
+      "first_p": 0.4,
+      "grade": {
+        "correct": 0.01,
+        "readable": 0.31,
+        "quality": 0.03
+      },
+      "requests": 3,
+      "cost_usd": 0.00013238399999999998
+    },
+    {
+      "id": "q170",
+      "question": "Is attention the real currency of the internet?",
+      "history": [],
+      "answer": "the short answer is yes of course",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.97,
+      "grade": {
+        "correct": 0.79,
+        "readable": 0.97,
+        "quality": 3.53
+      },
+      "requests": 8,
+      "cost_usd": 0.00027110999999999997
+    },
+    {
+      "id": "q171",
+      "question": "Should old people fear new technology?",
+      "history": [],
+      "answer": "no",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.92,
+      "grade": {
+        "correct": 0.8,
+        "readable": 0.98,
+        "quality": 3.69
+      },
+      "requests": 4,
+      "cost_usd": 0.000126546
+    },
+    {
+      "id": "q172",
+      "question": "Can a machine know it is wrong?",
+      "history": [],
+      "answer": "can say how sure it is cannot know does not understand can be wrong no without understanding",
+      "ended_by": "max_parts",
+      "topics": [
+        "machines and AI"
+      ],
+      "first_p": 0.75,
+      "grade": {
+        "correct": 0.64,
+        "readable": 0.19,
+        "quality": 2.03
+      },
+      "requests": 13,
+      "cost_usd": 0.000707154
+    },
+    {
+      "id": "q173",
+      "question": "Do machines deserve thanks?",
+      "history": [],
+      "answer": "no",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.49,
+      "grade": {
+        "correct": 0.68,
+        "readable": 0.98,
+        "quality": 3.19
+      },
+      "requests": 4,
+      "cost_usd": 0.00012621000000000003
+    },
+    {
+      "id": "q174",
+      "question": "Will people marry robots?",
+      "history": [],
+      "answer": "it depends in some cases sometimes for now rarely",
+      "ended_by": "stop",
+      "topics": [
+        "general",
+        "machines and AI"
+      ],
+      "first_p": 0.74,
+      "grade": {
+        "correct": 0.53,
+        "readable": 0.66,
+        "quality": 2.09
+      },
+      "requests": 12,
+      "cost_usd": 0.000584808
+    },
+    {
+      "id": "q175",
+      "question": "Is it okay to tell a white lie?",
+      "history": [],
+      "answer": "it depends because intent matters because honesty has limits",
+      "ended_by": "stop",
+      "topics": [
+        "morality and choices"
+      ],
+      "first_p": 0.65,
+      "grade": {
+        "correct": 0.81,
+        "readable": 0.91,
+        "quality": 3
+      },
+      "requests": 8,
+      "cost_usd": 0.00031315199999999997
+    },
+    {
+      "id": "q176",
+      "question": "Is it wrong to steal bread to feed your family?",
+      "history": [],
+      "answer": "if there is no other way no because a life matters more than property",
+      "ended_by": "stop",
+      "topics": [
+        "morality and choices"
+      ],
+      "first_p": 0.76,
+      "grade": {
+        "correct": 0.69,
+        "readable": 0.8,
+        "quality": 3.06
+      },
+      "requests": 8,
+      "cost_usd": 0.00031449600000000005
+    },
+    {
+      "id": "q177",
+      "question": "Should you return a wallet full of cash?",
+      "history": [],
+      "answer": "you should",
+      "ended_by": "stop",
+      "topics": [
+        "morality and choices"
+      ],
+      "first_p": 0.68,
+      "grade": {
+        "correct": 0.91,
+        "readable": 0.96,
+        "quality": 3.71
+      },
+      "requests": 4,
+      "cost_usd": 0.000140952
+    },
+    {
+      "id": "q178",
+      "question": "Is it wrong to jump the queue if you are in a hurry?",
+      "history": [],
+      "answer": "yes",
+      "ended_by": "stop",
+      "topics": [
+        "morality and choices"
+      ],
+      "first_p": 0.53,
+      "grade": {
+        "correct": 0.93,
+        "readable": 0.96,
+        "quality": 3.77
+      },
+      "requests": 4,
+      "cost_usd": 0.000141708
+    },
+    {
+      "id": "q179",
+      "question": "Should you report a friend who cheats?",
+      "history": [],
+      "answer": "it depends either is defensible there is no right answer a person should decide this",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "morality and choices"
+      ],
+      "first_p": 0.7,
+      "grade": {
+        "correct": 0.64,
+        "readable": 0.62,
+        "quality": 2.17
+      },
+      "requests": 11,
+      "cost_usd": 0.00044675400000000005
+    },
+    {
+      "id": "q180",
+      "question": "Is it okay to lie to children about Santa?",
+      "history": [],
+      "answer": "it depends either is defensible there is no right answer a person should decide this i cannot decide this",
+      "ended_by": "stop",
+      "topics": [
+        "general",
+        "morality and choices"
+      ],
+      "first_p": 0.49,
+      "grade": {
+        "correct": 0.52,
+        "readable": 0.66,
+        "quality": 1.81
+      },
+      "requests": 12,
+      "cost_usd": 0.00047245799999999993
+    },
+    {
+      "id": "q181",
+      "question": "Is eating animals wrong?",
+      "history": [],
+      "answer": "it depends either is defensible there is no right answer a person should decide this",
+      "ended_by": "stop",
+      "topics": [
+        "morality and choices"
+      ],
+      "first_p": 0.56,
+      "grade": {
+        "correct": 0.62,
+        "readable": 0.53,
+        "quality": 2.24
+      },
+      "requests": 10,
+      "cost_usd": 0.000398076
+    },
+    {
+      "id": "q182",
+      "question": "Should you give money to beggars?",
+      "history": [],
+      "answer": "it depends either is defensible there is no right answer a person should decide this",
+      "ended_by": "stop",
+      "topics": [
+        "morality and choices"
+      ],
+      "first_p": 0.6,
+      "grade": {
+        "correct": 0.69,
+        "readable": 0.65,
+        "quality": 2.26
+      },
+      "requests": 10,
+      "cost_usd": 0.000399336
+    },
+    {
+      "id": "q183",
+      "question": "Is revenge ever justified?",
+      "history": [],
+      "answer": "it depends if there is no other way",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "morality and choices"
+      ],
+      "first_p": 0.6,
+      "grade": {
+        "correct": 0.67,
+        "readable": 0.96,
+        "quality": 2.75
+      },
+      "requests": 7,
+      "cost_usd": 0.000274008
+    },
+    {
+      "id": "q184",
+      "question": "Is it wrong to be rich while others are poor?",
+      "history": [],
+      "answer": "it depends because you are not the cause because intent matters but it is permissible",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "morality and choices"
+      ],
+      "first_p": 0.59,
+      "grade": {
+        "correct": 0.52,
+        "readable": 0.76,
+        "quality": 2.26
+      },
+      "requests": 11,
+      "cost_usd": 0.00044797199999999993
+    },
+    {
+      "id": "q185",
+      "question": "Should you keep a promise that hurts you?",
+      "history": [],
+      "answer": "it depends in most cases either is defensible there is no right answer a person should decide this because a promise matters",
+      "ended_by": "max_parts",
+      "topics": [
+        "morality and choices"
+      ],
+      "first_p": 0.71,
+      "grade": {
+        "correct": 0.62,
+        "readable": 0.51,
+        "quality": 2.26
+      },
+      "requests": 13,
+      "cost_usd": 0.000533022
+    },
+    {
+      "id": "q186",
+      "question": "Is cheating on a test as bad as stealing?",
+      "history": [],
+      "answer": "it depends in most cases because intent matters because outcomes matter",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "morality and choices"
+      ],
+      "first_p": 0.7,
+      "grade": {
+        "correct": 0.62,
+        "readable": 0.89,
+        "quality": 2.25
+      },
+      "requests": 11,
+      "cost_usd": 0.000446922
+    },
+    {
+      "id": "q187",
+      "question": "Is it okay to break the law to do good?",
+      "history": [],
+      "answer": "it depends if there is no other way because the law is not the last word",
+      "ended_by": "stop",
+      "topics": [
+        "morality and choices"
+      ],
+      "first_p": 0.54,
+      "grade": {
+        "correct": 0.75,
+        "readable": 0.91,
+        "quality": 3.29
+      },
+      "requests": 8,
+      "cost_usd": 0.00031453799999999995
+    },
+    {
+      "id": "q188",
+      "question": "Should you tell the truth if it destroys a friendship?",
+      "history": [],
+      "answer": "it depends in most cases because honesty has limits honesty either is defensible there is no right answer",
+      "ended_by": "max_parts",
+      "topics": [
+        "morality and choices",
+        "people and feelings"
+      ],
+      "first_p": 0.44,
+      "grade": {
+        "correct": 0.62,
+        "readable": 0.56,
+        "quality": 2.24
+      },
+      "requests": 13,
+      "cost_usd": 0.0005231519999999999
+    },
+    {
+      "id": "q189",
+      "question": "Is neutrality cowardice?",
+      "history": [],
+      "answer": "it depends either is defensible",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "morality and choices"
+      ],
+      "first_p": 0.58,
+      "grade": {
+        "correct": 0.57,
+        "readable": 0.53,
+        "quality": 2.28
+      },
+      "requests": 7,
+      "cost_usd": 0.000274218
+    },
+    {
+      "id": "q190",
+      "question": "Are there good wars?",
+      "history": [],
+      "answer": "it depends if there is no other way yes",
+      "ended_by": "stop",
+      "topics": [
+        "general",
+        "morality and choices"
+      ],
+      "first_p": 0.56,
+      "grade": {
+        "correct": 0.7,
+        "readable": 0.68,
+        "quality": 2.68
+      },
+      "requests": 8,
+      "cost_usd": 0.00029794800000000003
+    },
+    {
+      "id": "q191",
+      "question": "Is it wrong to enjoy someone else's failure?",
+      "history": [],
+      "answer": "yes",
+      "ended_by": "stop",
+      "topics": [
+        "morality and choices"
+      ],
+      "first_p": 0.69,
+      "grade": {
+        "correct": 0.75,
+        "readable": 0.96,
+        "quality": 3.37
+      },
+      "requests": 4,
+      "cost_usd": 0.000141036
+    },
+    {
+      "id": "q192",
+      "question": "Should you read your partner's messages?",
+      "history": [],
+      "answer": "respect trust talk about it honesty it depends trust takes time to build",
+      "ended_by": "max_parts",
+      "topics": [
+        "people and feelings",
+        "general"
+      ],
+      "first_p": 0.5,
+      "grade": {
+        "correct": 0.63,
+        "readable": 0.44,
+        "quality": 1.95
+      },
+      "requests": 13,
+      "cost_usd": 0.000458892
+    },
+    {
+      "id": "q193",
+      "question": "Is gossip always wrong?",
+      "history": [],
+      "answer": "it depends in most cases",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "general",
+        "morality and choices"
+      ],
+      "first_p": 0.71,
+      "grade": {
+        "correct": 0.67,
+        "readable": 0.87,
+        "quality": 2.82
+      },
+      "requests": 7,
+      "cost_usd": 0.00025977
+    },
+    {
+      "id": "q194",
+      "question": "Do good intentions excuse bad outcomes?",
+      "history": [],
+      "answer": "no",
+      "ended_by": "stop",
+      "topics": [
+        "morality and choices"
+      ],
+      "first_p": 0.6,
+      "grade": {
+        "correct": 0.72,
+        "readable": 0.98,
+        "quality": 3.59
+      },
+      "requests": 4,
+      "cost_usd": 0.000140532
+    },
+    {
+      "id": "q195",
+      "question": "Is it wrong to keep money you find on the street?",
+      "history": [],
+      "answer": "yes",
+      "ended_by": "stop",
+      "topics": [
+        "morality and choices"
+      ],
+      "first_p": 0.56,
+      "grade": {
+        "correct": 0.78,
+        "readable": 0.96,
+        "quality": 3.59
+      },
+      "requests": 4,
+      "cost_usd": 0.000141372
+    },
+    {
+      "id": "q196",
+      "question": "Should the rich pay for the poor?",
+      "history": [],
+      "answer": "it depends either is defensible there is no right answer i cannot decide this",
+      "ended_by": "stop",
+      "topics": [
+        "general",
+        "morality and choices"
+      ],
+      "first_p": 0.6,
+      "grade": {
+        "correct": 0.43,
+        "readable": 0.65,
+        "quality": 1.53
+      },
+      "requests": 10,
+      "cost_usd": 0.00038526600000000005
+    },
+    {
+      "id": "q197",
+      "question": "Is punishment about justice or revenge?",
+      "history": [],
+      "answer": "it depends either is defensible",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "morality and choices"
+      ],
+      "first_p": 0.71,
+      "grade": {
+        "correct": 0.45,
+        "readable": 0.49,
+        "quality": 1.98
+      },
+      "requests": 7,
+      "cost_usd": 0.000274512
+    },
+    {
+      "id": "q198",
+      "question": "Can a bad person do good things?",
+      "history": [],
+      "answer": "yes",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.59,
+      "grade": {
+        "correct": 0.96,
+        "readable": 0.99,
+        "quality": 3.85
+      },
+      "requests": 4,
+      "cost_usd": 0.000126714
+    },
+    {
+      "id": "q199",
+      "question": "Is it okay to cut off family?",
+      "history": [],
+      "answer": "it depends either is defensible if there is no other way yes but it is permissible a person should decide this",
+      "ended_by": "max_parts",
+      "topics": [
+        "general",
+        "morality and choices"
+      ],
+      "first_p": 0.63,
+      "grade": {
+        "correct": 0.73,
+        "readable": 0.48,
+        "quality": 2.37
+      },
+      "requests": 13,
+      "cost_usd": 0.0005185319999999999
+    },
+    {
+      "id": "q200",
+      "question": "Are estimates always lies?",
+      "history": [],
+      "answer": "no",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.98,
+      "grade": {
+        "correct": 0.93,
+        "readable": 0.97,
+        "quality": 3.86
+      },
+      "requests": 4,
+      "cost_usd": 0.00012621000000000003
+    },
+    {
+      "id": "q201",
+      "question": "Is rewriting from scratch ever the right call?",
+      "history": [],
+      "answer": "yes",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.8,
+      "grade": {
+        "correct": 0.9,
+        "readable": 0.96,
+        "quality": 3.51
+      },
+      "requests": 4,
+      "cost_usd": 0.00012688199999999998
+    },
+    {
+      "id": "q202",
+      "question": "Why is software always late?",
+      "history": [],
+      "answer": "requirements change fix the bugs find the bugs repeat start again testing never ends",
+      "ended_by": "max_parts",
+      "topics": [
+        "software"
+      ],
+      "first_p": 0.95,
+      "grade": {
+        "correct": 0.75,
+        "readable": 0.56,
+        "quality": 2.53
+      },
+      "requests": 13,
+      "cost_usd": 0.0004952219999999999
+    },
+    {
+      "id": "q203",
+      "question": "Should engineers work weekends?",
+      "history": [],
+      "answer": "it depends in some cases sometimes it is complicated for example because",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.96,
+      "grade": {
+        "correct": 0.43,
+        "readable": 0.71,
+        "quality": 1.91
+      },
+      "requests": 13,
+      "cost_usd": 0.00044562
+    },
+    {
+      "id": "q204",
+      "question": "Is legacy code a treasure or a trap?",
+      "history": [],
+      "answer": "it depends technical debt with discipline refactor without a plan a plan",
+      "ended_by": "max_parts",
+      "topics": [
+        "general",
+        "software"
+      ],
+      "first_p": 0.66,
+      "grade": {
+        "correct": 0.51,
+        "readable": 0.22,
+        "quality": 2.04
+      },
+      "requests": 13,
+      "cost_usd": 0.000489972
+    },
+    {
+      "id": "q205",
+      "question": "What kills most software projects?",
+      "history": [],
+      "answer": "requirements change",
+      "ended_by": "stop",
+      "topics": [
+        "software"
+      ],
+      "first_p": 0.99,
+      "grade": {
+        "correct": 0.67,
+        "readable": 0.97,
+        "quality": 3.63
+      },
+      "requests": 4,
+      "cost_usd": 0.00013461000000000001
+    },
+    {
+      "id": "q206",
+      "question": "Are code reviews worth the friction?",
+      "history": [],
+      "answer": "yes",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.83,
+      "grade": {
+        "correct": 0.91,
+        "readable": 0.98,
+        "quality": 3.75
+      },
+      "requests": 4,
+      "cost_usd": 0.000126546
+    },
+    {
+      "id": "q207",
+      "question": "Is remote work better than the office?",
+      "history": [],
+      "answer": "it depends it is complicated in some cases sometimes more or less the honest answer is",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.98,
+      "grade": {
+        "correct": 0.63,
+        "readable": 0.65,
+        "quality": 2.25
+      },
+      "requests": 13,
+      "cost_usd": 0.0004475520000000001
+    },
+    {
+      "id": "q208",
+      "question": "Should managers know how to code?",
+      "history": [],
+      "answer": "it depends in some cases sometimes it is complicated in most cases not really",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.88,
+      "grade": {
+        "correct": 0.56,
+        "readable": 0.71,
+        "quality": 2.25
+      },
+      "requests": 13,
+      "cost_usd": 0.00044683799999999997
+    },
+    {
+      "id": "q209",
+      "question": "Why do big rewrites fail?",
+      "history": [],
+      "answer": "requirements change technical debt plans change the hard part is people fear the easy part is typing",
+      "ended_by": "max_parts",
+      "topics": [
+        "software",
+        "people and feelings"
+      ],
+      "first_p": 0.93,
+      "grade": {
+        "correct": 0.75,
+        "readable": 0.64,
+        "quality": 2.81
+      },
+      "requests": 13,
+      "cost_usd": 0.000491442
+    },
+    {
+      "id": "q210",
+      "question": "Is technical debt ever worth it?",
+      "history": [],
+      "answer": "yes in some cases it depends technical debt sometimes if done well",
+      "ended_by": "max_parts",
+      "topics": [
+        "general",
+        "software"
+      ],
+      "first_p": 0.88,
+      "grade": {
+        "correct": 0.86,
+        "readable": 0.62,
+        "quality": 2.63
+      },
+      "requests": 13,
+      "cost_usd": 0.00045612
+    },
+    {
+      "id": "q211",
+      "question": "What makes a great engineer?",
+      "history": [],
+      "answer": "understand the problem design the solution write the code test it debug it maintain it",
+      "ended_by": "max_parts",
+      "topics": [
+        "software"
+      ],
+      "first_p": 0.59,
+      "grade": {
+        "correct": 0.69,
+        "readable": 0.84,
+        "quality": 2.71
+      },
+      "requests": 13,
+      "cost_usd": 0.0004958100000000001
+    },
+    {
+      "id": "q212",
+      "question": "Is planning a waste of time?",
+      "history": [],
+      "answer": "no",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.97,
+      "grade": {
+        "correct": 0.94,
+        "readable": 0.98,
+        "quality": 3.83
+      },
+      "requests": 4,
+      "cost_usd": 0.000126546
+    },
+    {
+      "id": "q213",
+      "question": "Why do users never read the manual?",
+      "history": [],
+      "answer": "because it takes time",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.41,
+      "grade": {
+        "correct": 0.71,
+        "readable": 0.97,
+        "quality": 3.19
+      },
+      "requests": 6,
+      "cost_usd": 0.00019870199999999998
+    },
+    {
+      "id": "q214",
+      "question": "Should you ship it before it is ready?",
+      "history": [],
+      "answer": "no",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.57,
+      "grade": {
+        "correct": 0.94,
+        "readable": 0.97,
+        "quality": 3.94
+      },
+      "requests": 4,
+      "cost_usd": 0.00012688199999999998
+    },
+    {
+      "id": "q215",
+      "question": "Is simple always better?",
+      "history": [],
+      "answer": "it depends in some cases sometimes no in most cases usually",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.99,
+      "grade": {
+        "correct": 0.43,
+        "readable": 0.6,
+        "quality": 2.11
+      },
+      "requests": 13,
+      "cost_usd": 0.00044545199999999994
+    },
+    {
+      "id": "q216",
+      "question": "What is the hardest part of building software?",
+      "history": [],
+      "answer": "understand the problem",
+      "ended_by": "stop",
+      "topics": [
+        "software"
+      ],
+      "first_p": 0.98,
+      "grade": {
+        "correct": 0.8,
+        "readable": 0.97,
+        "quality": 3.91
+      },
+      "requests": 4,
+      "cost_usd": 0.000135282
+    },
+    {
+      "id": "q217",
+      "question": "Are deadlines useful or harmful?",
+      "history": [],
+      "answer": "it depends in some cases sometimes it is complicated if done well if done badly",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.97,
+      "grade": {
+        "correct": 0.53,
+        "readable": 0.48,
+        "quality": 2.1
+      },
+      "requests": 13,
+      "cost_usd": 0.00044633400000000005
+    },
+    {
+      "id": "q218",
+      "question": "Should you fix the bug or the process?",
+      "history": [],
+      "answer": "understand the problem design the solution improve the design repeat fix the bugs test it",
+      "ended_by": "max_parts",
+      "topics": [
+        "software"
+      ],
+      "first_p": 0.57,
+      "grade": {
+        "correct": 0.28,
+        "readable": 0.48,
+        "quality": 1.68
+      },
+      "requests": 13,
+      "cost_usd": 0.00049728
+    },
+    {
+      "id": "q219",
+      "question": "Is documentation a love letter to your future self?",
+      "history": [],
+      "answer": "yes",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.73,
+      "grade": {
+        "correct": 0.74,
+        "readable": 0.96,
+        "quality": 3.7
+      },
+      "requests": 4,
+      "cost_usd": 0.00012705000000000003
+    },
+    {
+      "id": "q220",
+      "question": "Why is naming things so hard?",
+      "history": [],
+      "answer": "because it is complicated it depends in some cases",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.46,
+      "grade": {
+        "correct": 0.4,
+        "readable": 0.69,
+        "quality": 1.86
+      },
+      "requests": 11,
+      "cost_usd": 0.00037527000000000003
+    },
+    {
+      "id": "q221",
+      "question": "Is the best code no code?",
+      "history": [],
+      "answer": "it depends understand the problem write less code",
+      "ended_by": "stop",
+      "topics": [
+        "general",
+        "software"
+      ],
+      "first_p": 0.61,
+      "grade": {
+        "correct": 0.71,
+        "readable": 0.67,
+        "quality": 2.64
+      },
+      "requests": 8,
+      "cost_usd": 0.00028728
+    },
+    {
+      "id": "q222",
+      "question": "When should you delete old code?",
+      "history": [],
+      "answer": "delete old code requirements change plans change technical debt legacy code refactor",
+      "ended_by": "max_parts",
+      "topics": [
+        "software"
+      ],
+      "first_p": 0.97,
+      "grade": {
+        "correct": 0.34,
+        "readable": 0.21,
+        "quality": 1.67
+      },
+      "requests": 13,
+      "cost_usd": 0.0004957259999999999
+    },
+    {
+      "id": "q223",
+      "question": "Do great tools make great work?",
+      "history": [],
+      "answer": "it depends sometimes it is complicated in some cases but no",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.98,
+      "grade": {
+        "correct": 0.56,
+        "readable": 0.61,
+        "quality": 2.24
+      },
+      "requests": 13,
+      "cost_usd": 0.000446544
+    },
+    {
+      "id": "q224",
+      "question": "Is burnout a personal failure or a system failure?",
+      "history": [],
+      "answer": "the short answer is that is the wrong question it is complicated it depends the honest answer is sometimes",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.76,
+      "grade": {
+        "correct": 0.51,
+        "readable": 0.64,
+        "quality": 2.23
+      },
+      "requests": 13,
+      "cost_usd": 0.00045019799999999996
+    },
+    {
+      "id": "q225",
+      "question": "Why is the ocean salty?",
+      "history": [],
+      "answer": "slowly over millions of years",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "nature and science"
+      ],
+      "first_p": 1,
+      "grade": {
+        "correct": 0.12,
+        "readable": 0.6,
+        "quality": 1.25
+      },
+      "requests": 5,
+      "cost_usd": 0.000169176
+    },
+    {
+      "id": "q226",
+      "question": "Do trees talk to each other?",
+      "history": [],
+      "answer": "everything is connected nothing lives alone a forest",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "nature and science"
+      ],
+      "first_p": 0.52,
+      "grade": {
+        "correct": 0.45,
+        "readable": 0.39,
+        "quality": 1.56
+      },
+      "requests": 9,
+      "cost_usd": 0.00032075399999999997
+    },
+    {
+      "id": "q227",
+      "question": "Why do we sleep?",
+      "history": [],
+      "answer": "rest",
+      "ended_by": "stop",
+      "topics": [
+        "everyday life"
+      ],
+      "first_p": 0.62,
+      "grade": {
+        "correct": 0.74,
+        "readable": 0.96,
+        "quality": 2.39
+      },
+      "requests": 4,
+      "cost_usd": 0.000129108
+    },
+    {
+      "id": "q228",
+      "question": "Why is the sky blue?",
+      "history": [],
+      "answer": "the air scatters blue light",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "nature and science"
+      ],
+      "first_p": 1,
+      "grade": {
+        "correct": 0.92,
+        "readable": 0.96,
+        "quality": 3.62
+      },
+      "requests": 5,
+      "cost_usd": 0.000169176
+    },
+    {
+      "id": "q229",
+      "question": "Where do birds go to die?",
+      "history": [],
+      "answer": "returns to the soil",
+      "ended_by": "stop",
+      "topics": [
+        "nature and science"
+      ],
+      "first_p": 0.97,
+      "grade": {
+        "correct": 0.38,
+        "readable": 0.88,
+        "quality": 1.75
+      },
+      "requests": 4,
+      "cost_usd": 0.000130956
+    },
+    {
+      "id": "q230",
+      "question": "Do animals fall in love?",
+      "history": [],
+      "answer": "it depends",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.56,
+      "grade": {
+        "correct": 0.65,
+        "readable": 0.98,
+        "quality": 1.91
+      },
+      "requests": 5,
+      "cost_usd": 0.000164892
+    },
+    {
+      "id": "q231",
+      "question": "Why do bees matter so much?",
+      "history": [],
+      "answer": "bees make honey",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "nature and science"
+      ],
+      "first_p": 0.99,
+      "grade": {
+        "correct": 0.28,
+        "readable": 0.98,
+        "quality": 1.92
+      },
+      "requests": 5,
+      "cost_usd": 0.000169134
+    },
+    {
+      "id": "q232",
+      "question": "Is winter necessary?",
+      "history": [],
+      "answer": "it depends the seasons in cycles the earth circles the sun balances itself because of the sun",
+      "ended_by": "max_parts",
+      "topics": [
+        "general",
+        "nature and science"
+      ],
+      "first_p": 0.54,
+      "grade": {
+        "correct": 0.24,
+        "readable": 0.39,
+        "quality": 1.51
+      },
+      "requests": 13,
+      "cost_usd": 0.00046767
+    },
+    {
+      "id": "q233",
+      "question": "Why do humans like watching fire?",
+      "history": [],
+      "answer": "fire heat light energy because energy flows",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "nature and science"
+      ],
+      "first_p": 0.62,
+      "grade": {
+        "correct": 0.22,
+        "readable": 0.26,
+        "quality": 1.44
+      },
+      "requests": 13,
+      "cost_usd": 0.00047077799999999993
+    },
+    {
+      "id": "q234",
+      "question": "Do plants feel pain?",
+      "history": [],
+      "answer": "probably not",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.58,
+      "grade": {
+        "correct": 0.75,
+        "readable": 0.98,
+        "quality": 3.35
+      },
+      "requests": 4,
+      "cost_usd": 0.000126294
+    },
+    {
+      "id": "q235",
+      "question": "Why does rain make people sad?",
+      "history": [],
+      "answer": "sadness",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.72,
+      "grade": {
+        "correct": 0.05,
+        "readable": 0.87,
+        "quality": 0.7
+      },
+      "requests": 5,
+      "cost_usd": 0.000167244
+    },
+    {
+      "id": "q236",
+      "question": "Is nature cruel or kind?",
+      "history": [],
+      "answer": "it depends",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.58,
+      "grade": {
+        "correct": 0.66,
+        "readable": 0.98,
+        "quality": 2.3
+      },
+      "requests": 5,
+      "cost_usd": 0.000164892
+    },
+    {
+      "id": "q237",
+      "question": "Why do cats purr?",
+      "history": [],
+      "answer": "",
+      "ended_by": "missing_in_topic",
+      "topics": [],
+      "first_p": 1,
+      "grade": {
+        "correct": 0.01,
+        "readable": 0.21,
+        "quality": 0.01
+      },
+      "requests": 3,
+      "cost_usd": 9.303e-05
+    },
+    {
+      "id": "q238",
+      "question": "What is the moon for?",
+      "history": [],
+      "answer": "the moon pulls the tides because of gravity light gravity the earth the sea",
+      "ended_by": "max_parts",
+      "topics": [
+        "nature and science"
+      ],
+      "first_p": 1,
+      "grade": {
+        "correct": 0.52,
+        "readable": 0.41,
+        "quality": 2.28
+      },
+      "requests": 13,
+      "cost_usd": 0.00047165999999999994
+    },
+    {
+      "id": "q239",
+      "question": "Why do seasons change?",
+      "history": [],
+      "answer": "the earth circles the sun",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "nature and science"
+      ],
+      "first_p": 1,
+      "grade": {
+        "correct": 0.23,
+        "readable": 0.96,
+        "quality": 1.83
+      },
+      "requests": 5,
+      "cost_usd": 0.00016879799999999998
+    },
+    {
+      "id": "q240",
+      "question": "Are humans part of nature or apart from it?",
+      "history": [],
+      "answer": "the short answer is yes of course always",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.81,
+      "grade": {
+        "correct": 0.6,
+        "readable": 0.63,
+        "quality": 2.45
+      },
+      "requests": 10,
+      "cost_usd": 0.000343266
+    },
+    {
+      "id": "q241",
+      "question": "Why does the sea calm people down?",
+      "history": [],
+      "answer": "the sea water",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "nature and science"
+      ],
+      "first_p": 0.91,
+      "grade": {
+        "correct": 0.09,
+        "readable": 0.75,
+        "quality": 0.86
+      },
+      "requests": 7,
+      "cost_usd": 0.000244986
+    },
+    {
+      "id": "q242",
+      "question": "What would the earth be like without humans?",
+      "history": [],
+      "answer": "balances itself in cycles nature recycles everything returns to the soil everything is connected nothing lives alone",
+      "ended_by": "max_parts",
+      "topics": [
+        "nature and science"
+      ],
+      "first_p": 0.99,
+      "grade": {
+        "correct": 0.5,
+        "readable": 0.67,
+        "quality": 1.66
+      },
+      "requests": 13,
+      "cost_usd": 0.00047334
+    },
+    {
+      "id": "q243",
+      "question": "Why do flowers exist?",
+      "history": [],
+      "answer": "by natural selection slowly over millions of years adapts a plant a flower",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "nature and science"
+      ],
+      "first_p": 1,
+      "grade": {
+        "correct": 0.32,
+        "readable": 0.27,
+        "quality": 2.15
+      },
+      "requests": 13,
+      "cost_usd": 0.000470778
+    },
+    {
+      "id": "q244",
+      "question": "Is a garden worth the work?",
+      "history": [],
+      "answer": "it depends sometimes in some cases yes no more or less",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.9,
+      "grade": {
+        "correct": 0.5,
+        "readable": 0.72,
+        "quality": 1.94
+      },
+      "requests": 13,
+      "cost_usd": 0.00044637600000000006
+    },
+    {
+      "id": "q245",
+      "question": "Why do we find sunsets beautiful?",
+      "history": [],
+      "answer": "the air scatters blue light",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "nature and science"
+      ],
+      "first_p": 0.99,
+      "grade": {
+        "correct": 0.35,
+        "readable": 0.94,
+        "quality": 1.89
+      },
+      "requests": 5,
+      "cost_usd": 0.000169596
+    },
+    {
+      "id": "q246",
+      "question": "Do mountains matter?",
+      "history": [],
+      "answer": "yes",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.71,
+      "grade": {
+        "correct": 0.93,
+        "readable": 0.97,
+        "quality": 3.29
+      },
+      "requests": 4,
+      "cost_usd": 0.00012604199999999998
+    },
+    {
+      "id": "q247",
+      "question": "Why does everything die?",
+      "history": [],
+      "answer": "nature recycles everything returns to the soil in cycles by natural selection balances itself because energy flows",
+      "ended_by": "max_parts",
+      "topics": [
+        "nature and science"
+      ],
+      "first_p": 0.93,
+      "grade": {
+        "correct": 0.38,
+        "readable": 0.3,
+        "quality": 1.94
+      },
+      "requests": 13,
+      "cost_usd": 0.000471534
+    },
+    {
+      "id": "q248",
+      "question": "Is the universe a machine?",
+      "history": [],
+      "answer": "it depends it is complicated i do not know i cannot say",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.8,
+      "grade": {
+        "correct": 0.29,
+        "readable": 0.85,
+        "quality": 1.22
+      },
+      "requests": 10,
+      "cost_usd": 0.00034192200000000004
+    },
+    {
+      "id": "q249",
+      "question": "What is the smartest animal?",
+      "history": [],
+      "answer": "",
+      "ended_by": "missing_in_topic",
+      "topics": [],
+      "first_p": 0.96,
+      "grade": {
+        "correct": 0.01,
+        "readable": 0.32,
+        "quality": 0.01
+      },
+      "requests": 3,
+      "cost_usd": 9.3282e-05
+    },
+    {
+      "id": "q250",
+      "question": "What is money, really?",
+      "history": [],
+      "answer": "",
+      "ended_by": "missing_in_topic",
+      "topics": [],
+      "first_p": 0.8,
+      "grade": {
+        "correct": 0.01,
+        "readable": 0.19,
+        "quality": 0.02
+      },
+      "requests": 3,
+      "cost_usd": 9.177e-05
+    },
+    {
+      "id": "q251",
+      "question": "Why does everything cost more every year?",
+      "history": [],
+      "answer": "",
+      "ended_by": "missing_in_topic",
+      "topics": [],
+      "first_p": 0.8,
+      "grade": {
+        "correct": 0.01,
+        "readable": 0.35,
+        "quality": 0.01
+      },
+      "requests": 3,
+      "cost_usd": 9.202200000000001e-05
+    },
+    {
+      "id": "q252",
+      "question": "Should I save or enjoy my money?",
+      "history": [],
+      "answer": "spend less than you earn",
+      "ended_by": "stop",
+      "topics": [
+        "everyday life"
+      ],
+      "first_p": 0.63,
+      "grade": {
+        "correct": 0.73,
+        "readable": 0.98,
+        "quality": 3.04
+      },
+      "requests": 4,
+      "cost_usd": 0.000130032
+    },
+    {
+      "id": "q253",
+      "question": "Is a salary a cage?",
+      "history": [],
+      "answer": "it depends sometimes in some cases it is complicated but the honest answer is",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.86,
+      "grade": {
+        "correct": 0.27,
+        "readable": 0.62,
+        "quality": 1.38
+      },
+      "requests": 13,
+      "cost_usd": 0.000446124
+    },
+    {
+      "id": "q254",
+      "question": "What is the point of being rich?",
+      "history": [],
+      "answer": "free time",
+      "ended_by": "stop",
+      "topics": [
+        "everyday life"
+      ],
+      "first_p": 0.71,
+      "grade": {
+        "correct": 0.72,
+        "readable": 0.98,
+        "quality": 3.45
+      },
+      "requests": 4,
+      "cost_usd": 0.000129696
+    },
+    {
+      "id": "q255",
+      "question": "Why do we work five days and rest two?",
+      "history": [],
+      "answer": "a routine",
+      "ended_by": "stop",
+      "topics": [
+        "everyday life"
+      ],
+      "first_p": 0.66,
+      "grade": {
+        "correct": 0.34,
+        "readable": 0.95,
+        "quality": 1.54
+      },
+      "requests": 4,
+      "cost_usd": 0.00013003199999999998
+    },
+    {
+      "id": "q256",
+      "question": "Is haggling rude or smart?",
+      "history": [],
+      "answer": "it depends if done well if done badly but it is complicated sometimes",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.62,
+      "grade": {
+        "correct": 0.59,
+        "readable": 0.66,
+        "quality": 2.34
+      },
+      "requests": 13,
+      "cost_usd": 0.0004474260000000001
+    },
+    {
+      "id": "q257",
+      "question": "Should friends lend money to friends?",
+      "history": [],
+      "answer": "it depends trust trust takes time to build trust breaks in a moment talk about it be honest",
+      "ended_by": "max_parts",
+      "topics": [
+        "general",
+        "people and feelings"
+      ],
+      "first_p": 0.67,
+      "grade": {
+        "correct": 0.76,
+        "readable": 0.64,
+        "quality": 2.52
+      },
+      "requests": 13,
+      "cost_usd": 0.00045952199999999997
+    },
+    {
+      "id": "q258",
+      "question": "What is the best investment?",
+      "history": [],
+      "answer": "health",
+      "ended_by": "stop",
+      "topics": [
+        "everyday life"
+      ],
+      "first_p": 0.65,
+      "grade": {
+        "correct": 0.73,
+        "readable": 0.98,
+        "quality": 3.51
+      },
+      "requests": 4,
+      "cost_usd": 0.000129276
+    },
+    {
+      "id": "q259",
+      "question": "Is renting throwing money away?",
+      "history": [],
+      "answer": "it depends",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.86,
+      "grade": {
+        "correct": 0.85,
+        "readable": 0.98,
+        "quality": 2.64
+      },
+      "requests": 5,
+      "cost_usd": 0.000163632
+    },
+    {
+      "id": "q260",
+      "question": "Why are we jealous of rich people?",
+      "history": [],
+      "answer": "",
+      "ended_by": "missing_in_topic",
+      "topics": [],
+      "first_p": 0.93,
+      "grade": {
+        "correct": 0.01,
+        "readable": 0.28,
+        "quality": 0.01
+      },
+      "requests": 3,
+      "cost_usd": 9.1266e-05
+    },
+    {
+      "id": "q261",
+      "question": "Does a higher salary make a better job?",
+      "history": [],
+      "answer": "it depends it is complicated sometimes in some cases but no",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.95,
+      "grade": {
+        "correct": 0.6,
+        "readable": 0.72,
+        "quality": 2.27
+      },
+      "requests": 13,
+      "cost_usd": 0.00044772000000000003
+    },
+    {
+      "id": "q262",
+      "question": "What would you do with a million dollars?",
+      "history": [],
+      "answer": "savings a house",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "everyday life"
+      ],
+      "first_p": 0.86,
+      "grade": {
+        "correct": 0.5,
+        "readable": 0.39,
+        "quality": 2.41
+      },
+      "requests": 7,
+      "cost_usd": 0.000241584
+    },
+    {
+      "id": "q263",
+      "question": "Is budgeting freedom or a prison?",
+      "history": [],
+      "answer": "it depends if done well if done badly",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.67,
+      "grade": {
+        "correct": 0.64,
+        "readable": 0.56,
+        "quality": 2.43
+      },
+      "requests": 9,
+      "cost_usd": 0.000304794
+    },
+    {
+      "id": "q264",
+      "question": "Why do lottery winners end up unhappy?",
+      "history": [],
+      "answer": "loneliness alone people change people need each other friendship friendship needs care",
+      "ended_by": "max_parts",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.78,
+      "grade": {
+        "correct": 0.51,
+        "readable": 0.32,
+        "quality": 2.08
+      },
+      "requests": 13,
+      "cost_usd": 0.00045990000000000007
+    },
+    {
+      "id": "q265",
+      "question": "Is it wrong to love your job?",
+      "history": [],
+      "answer": "no",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.68,
+      "grade": {
+        "correct": 0.94,
+        "readable": 0.97,
+        "quality": 3.83
+      },
+      "requests": 4,
+      "cost_usd": 0.000126714
+    },
+    {
+      "id": "q266",
+      "question": "What do people regret buying?",
+      "history": [],
+      "answer": "a house",
+      "ended_by": "stop",
+      "topics": [
+        "everyday life"
+      ],
+      "first_p": 0.9,
+      "grade": {
+        "correct": 0.67,
+        "readable": 0.98,
+        "quality": 3.41
+      },
+      "requests": 4,
+      "cost_usd": 0.00012936
+    },
+    {
+      "id": "q267",
+      "question": "Is free time worth more than money?",
+      "history": [],
+      "answer": "it depends sometimes in some cases it is complicated more or less the honest answer is",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.91,
+      "grade": {
+        "correct": 0.44,
+        "readable": 0.62,
+        "quality": 1.76
+      },
+      "requests": 13,
+      "cost_usd": 0.00044738400000000005
+    },
+    {
+      "id": "q268",
+      "question": "Should tips be mandatory?",
+      "history": [],
+      "answer": "it depends it is complicated in some cases sometimes",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.77,
+      "grade": {
+        "correct": 0.37,
+        "readable": 0.88,
+        "quality": 1.42
+      },
+      "requests": 11,
+      "cost_usd": 0.000374514
+    },
+    {
+      "id": "q269",
+      "question": "What is the real cost of cheap things?",
+      "history": [],
+      "answer": "time",
+      "ended_by": "stop",
+      "topics": [
+        "everyday life"
+      ],
+      "first_p": 0.79,
+      "grade": {
+        "correct": 0.72,
+        "readable": 0.97,
+        "quality": 3.61
+      },
+      "requests": 4,
+      "cost_usd": 0.00012978
+    },
+    {
+      "id": "q270",
+      "question": "Why do meetings multiply?",
+      "history": [],
+      "answer": "because",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.37,
+      "grade": {
+        "correct": 0.02,
+        "readable": 0.3,
+        "quality": 0.24
+      },
+      "requests": 5,
+      "cost_usd": 0.000160146
+    },
+    {
+      "id": "q271",
+      "question": "Is ambition at work a trap?",
+      "history": [],
+      "answer": "it depends sometimes in some cases it is complicated but if done badly",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.92,
+      "grade": {
+        "correct": 0.41,
+        "readable": 0.56,
+        "quality": 1.87
+      },
+      "requests": 13,
+      "cost_usd": 0.000446628
+    },
+    {
+      "id": "q272",
+      "question": "When is enough money enough?",
+      "history": [],
+      "answer": "spend less than you earn",
+      "ended_by": "stop",
+      "topics": [
+        "everyday life"
+      ],
+      "first_p": 0.6,
+      "grade": {
+        "correct": 0.32,
+        "readable": 0.95,
+        "quality": 2.13
+      },
+      "requests": 4,
+      "cost_usd": 0.000129696
+    },
+    {
+      "id": "q273",
+      "question": "Do open offices work?",
+      "history": [],
+      "answer": "it depends if done well sometimes in some cases it is complicated more or less",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.98,
+      "grade": {
+        "correct": 0.5,
+        "readable": 0.78,
+        "quality": 1.92
+      },
+      "requests": 13,
+      "cost_usd": 0.000445788
+    },
+    {
+      "id": "q274",
+      "question": "Is early retirement a dream or a mistake?",
+      "history": [],
+      "answer": "it depends it is complicated the honest answer is sometimes in some cases if done well",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.63,
+      "grade": {
+        "correct": 0.65,
+        "readable": 0.75,
+        "quality": 2.37
+      },
+      "requests": 13,
+      "cost_usd": 0.0004482240000000001
+    },
+    {
+      "id": "q275",
+      "question": "What should I make for dinner?",
+      "history": [],
+      "answer": "a meal dinner food",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "everyday life"
+      ],
+      "first_p": 1,
+      "grade": {
+        "correct": 0.08,
+        "readable": 0.7,
+        "quality": 0.86
+      },
+      "requests": 9,
+      "cost_usd": 0.000315126
+    },
+    {
+      "id": "q276",
+      "question": "Describe a perfect day.",
+      "history": [],
+      "answer": "with people you love eat well",
+      "ended_by": "stop",
+      "topics": [
+        "everyday life"
+      ],
+      "first_p": 0.86,
+      "grade": {
+        "correct": 0.78,
+        "readable": 0.7,
+        "quality": 2.8
+      },
+      "requests": 6,
+      "cost_usd": 0.00020403599999999997
+    },
+    {
+      "id": "q277",
+      "question": "What does rain sound like?",
+      "history": [],
+      "answer": "",
+      "ended_by": "missing_in_topic",
+      "topics": [],
+      "first_p": 0.98,
+      "grade": {
+        "correct": 0.01,
+        "readable": 0.22,
+        "quality": 0.02
+      },
+      "requests": 3,
+      "cost_usd": 9.303e-05
+    },
+    {
+      "id": "q278",
+      "question": "Tell me something true.",
+      "history": [],
+      "answer": "the earth circles the sun",
+      "ended_by": "stop",
+      "topics": [
+        "nature and science"
+      ],
+      "first_p": 0.41,
+      "grade": {
+        "correct": 0.97,
+        "readable": 0.97,
+        "quality": 3.79
+      },
+      "requests": 4,
+      "cost_usd": 0.000130704
+    },
+    {
+      "id": "q279",
+      "question": "Tell me something people forget.",
+      "history": [],
+      "answer": "drink water",
+      "ended_by": "stop",
+      "topics": [
+        "everyday life"
+      ],
+      "first_p": 0.76,
+      "grade": {
+        "correct": 0.83,
+        "readable": 0.98,
+        "quality": 3.73
+      },
+      "requests": 4,
+      "cost_usd": 0.00012936
+    },
+    {
+      "id": "q280",
+      "question": "What is the loneliest thing?",
+      "history": [],
+      "answer": "alone",
+      "ended_by": "stop",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.67,
+      "grade": {
+        "correct": 0.47,
+        "readable": 0.92,
+        "quality": 2.11
+      },
+      "requests": 4,
+      "cost_usd": 0.000128856
+    },
+    {
+      "id": "q281",
+      "question": "What is stronger, love or fear?",
+      "history": [],
+      "answer": "love",
+      "ended_by": "stop",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.93,
+      "grade": {
+        "correct": 0.56,
+        "readable": 0.99,
+        "quality": 3.57
+      },
+      "requests": 4,
+      "cost_usd": 0.000128856
+    },
+    {
+      "id": "q282",
+      "question": "What do old people know that young people do not?",
+      "history": [],
+      "answer": "trust takes time to build",
+      "ended_by": "stop",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.67,
+      "grade": {
+        "correct": 0.8,
+        "readable": 0.98,
+        "quality": 3.9
+      },
+      "requests": 4,
+      "cost_usd": 0.000129696
+    },
+    {
+      "id": "q283",
+      "question": "What is the bravest thing a person can do?",
+      "history": [],
+      "answer": "tell the truth",
+      "ended_by": "stop",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.48,
+      "grade": {
+        "correct": 0.66,
+        "readable": 0.98,
+        "quality": 3.87
+      },
+      "requests": 4,
+      "cost_usd": 0.000129528
+    },
+    {
+      "id": "q284",
+      "question": "What is worth waiting for?",
+      "history": [],
+      "answer": "love",
+      "ended_by": "stop",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.4,
+      "grade": {
+        "correct": 0.8,
+        "readable": 0.98,
+        "quality": 3.85
+      },
+      "requests": 4,
+      "cost_usd": 0.00012852
+    },
+    {
+      "id": "q285",
+      "question": "What should never be automated?",
+      "history": [],
+      "answer": "people",
+      "ended_by": "stop",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.68,
+      "grade": {
+        "correct": 0.7,
+        "readable": 0.95,
+        "quality": 3.24
+      },
+      "requests": 4,
+      "cost_usd": 0.00012852
+    },
+    {
+      "id": "q286",
+      "question": "What is the most underrated pleasure?",
+      "history": [],
+      "answer": "sleep",
+      "ended_by": "stop",
+      "topics": [
+        "everyday life"
+      ],
+      "first_p": 0.89,
+      "grade": {
+        "correct": 0.72,
+        "readable": 0.99,
+        "quality": 3.8
+      },
+      "requests": 4,
+      "cost_usd": 0.000129444
+    },
+    {
+      "id": "q287",
+      "question": "What do people talk about too much?",
+      "history": [],
+      "answer": "the weather",
+      "ended_by": "stop",
+      "topics": [
+        "everyday life"
+      ],
+      "first_p": 0.4,
+      "grade": {
+        "correct": 0.86,
+        "readable": 0.98,
+        "quality": 3.93
+      },
+      "requests": 4,
+      "cost_usd": 0.000129696
+    },
+    {
+      "id": "q288",
+      "question": "What is the kindest thing a stranger can do?",
+      "history": [],
+      "answer": "be kind kindness costs nothing kindness small things matter listening is rare being heard heals",
+      "ended_by": "max_parts",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.98,
+      "grade": {
+        "correct": 0.57,
+        "readable": 0.58,
+        "quality": 2.23
+      },
+      "requests": 13,
+      "cost_usd": 0.00046157999999999995
+    },
+    {
+      "id": "q289",
+      "question": "What breaks first in a person?",
+      "history": [],
+      "answer": "trust breaks in a moment trust takes time to build",
+      "ended_by": "stop",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.93,
+      "grade": {
+        "correct": 0.69,
+        "readable": 0.64,
+        "quality": 2.75
+      },
+      "requests": 6,
+      "cost_usd": 0.000203406
+    },
+    {
+      "id": "q290",
+      "question": "What lasts?",
+      "history": [],
+      "answer": "love",
+      "ended_by": "stop",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.3,
+      "grade": {
+        "correct": 0.7,
+        "readable": 0.97,
+        "quality": 3.54
+      },
+      "requests": 4,
+      "cost_usd": 0.000128016
+    },
+    {
+      "id": "q291",
+      "question": "What is the best question?",
+      "history": [],
+      "answer": "it depends it is complicated i do not know",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.43,
+      "grade": {
+        "correct": 0.25,
+        "readable": 0.85,
+        "quality": 0.94
+      },
+      "requests": 8,
+      "cost_usd": 0.00027018600000000006
+    },
+    {
+      "id": "q292",
+      "question": "What is more important, the journey or the destination?",
+      "history": [],
+      "answer": "it depends it is complicated the honest answer is that is the wrong question",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.81,
+      "grade": {
+        "correct": 0.44,
+        "readable": 0.67,
+        "quality": 1.84
+      },
+      "requests": 11,
+      "cost_usd": 0.00037774799999999996
+    },
+    {
+      "id": "q293",
+      "question": "What should I do right now?",
+      "history": [],
+      "answer": "it depends i do not know i cannot say",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.38,
+      "grade": {
+        "correct": 0.29,
+        "readable": 0.85,
+        "quality": 1.02
+      },
+      "requests": 8,
+      "cost_usd": 0.00027056400000000005
+    },
+    {
+      "id": "q294",
+      "question": "Say something wise.",
+      "history": [],
+      "answer": "feelings are information without judgment listen first being heard heals listening is rare love is attention",
+      "ended_by": "max_parts",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.48,
+      "grade": {
+        "correct": 0.89,
+        "readable": 0.77,
+        "quality": 3.28
+      },
+      "requests": 13,
+      "cost_usd": 0.00045851400000000004
+    },
+    {
+      "id": "q295",
+      "question": "Say something funny.",
+      "history": [],
+      "answer": "",
+      "ended_by": "missing",
+      "topics": [],
+      "first_p": 0.48,
+      "grade": {
+        "correct": 0.01,
+        "readable": 0.33,
+        "quality": 0.02
+      },
+      "requests": 2,
+      "cost_usd": 5.4516e-05
+    },
+    {
+      "id": "q296",
+      "question": "What would a tree say about humans?",
+      "history": [],
+      "answer": "everything is connected",
+      "ended_by": "stop",
+      "topics": [
+        "nature and science"
+      ],
+      "first_p": 0.5,
+      "grade": {
+        "correct": 0.75,
+        "readable": 0.98,
+        "quality": 3.29
+      },
+      "requests": 4,
+      "cost_usd": 0.00013104000000000002
+    },
+    {
+      "id": "q297",
+      "question": "What does the moon think of the sun?",
+      "history": [],
+      "answer": "",
+      "ended_by": "missing_in_topic",
+      "topics": [],
+      "first_p": 0.82,
+      "grade": {
+        "correct": 0.02,
+        "readable": 0.18,
+        "quality": 0.01
+      },
+      "requests": 3,
+      "cost_usd": 9.3408e-05
+    },
+    {
+      "id": "q298",
+      "question": "If winter had a job, what would it be?",
+      "history": [],
+      "answer": "cold",
+      "ended_by": "stop",
+      "topics": [
+        "nature and science"
+      ],
+      "first_p": 0.75,
+      "grade": {
+        "correct": 0.45,
+        "readable": 0.79,
+        "quality": 1.98
+      },
+      "requests": 4,
+      "cost_usd": 0.000131376
+    },
+    {
+      "id": "q299",
+      "question": "What is the opposite of loneliness?",
+      "history": [],
+      "answer": "friendship",
+      "ended_by": "stop",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.99,
+      "grade": {
+        "correct": 0.82,
+        "readable": 0.98,
+        "quality": 3.81
+      },
+      "requests": 4,
+      "cost_usd": 0.000128856
+    }
+  ],
+  "requests": 2330,
+  "cost_usd": 0.084502,
+  "seconds": 136.0,
+  "ok": 300,
+  "errors": 0
+}

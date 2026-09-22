@@ -1,0 +1,466 @@
+{
+  "1x+prompt": [
+    {
+      "question": "What is a model that returns probabilities instead of text?",
+      "answer": "a language model only predicts the probabilities",
+      "answer_reordered": "a language model only predicts the probabilities can say how sure it is",
+      "order_stable": false,
+      "ended_by": "missing",
+      "grade": {
+        "correct": 0.4,
+        "readable": 0.81,
+        "quality": 2.21
+      },
+      "requests": 9,
+      "method": {
+        "vocab": 188,
+        "focus": "prompt",
+        "max_parts": 6,
+        "min_parts": 0
+      }
+    },
+    {
+      "question": "Is being unable to speak a strength or a weakness for such a model?",
+      "answer": "it depends in some cases",
+      "answer_reordered": "is a weakness",
+      "order_stable": false,
+      "ended_by": "stop",
+      "grade": {
+        "correct": 0.63,
+        "readable": 0.96,
+        "quality": 2.02
+      },
+      "requests": 5,
+      "method": {
+        "vocab": 188,
+        "focus": "prompt",
+        "max_parts": 6,
+        "min_parts": 0
+      }
+    },
+    {
+      "question": "Does such a model understand the questions it answers?",
+      "answer": "does not understand only matches patterns",
+      "answer_reordered": "does not understand only matches patterns",
+      "order_stable": true,
+      "ended_by": "stop",
+      "grade": {
+        "correct": 0.73,
+        "readable": 0.62,
+        "quality": 2.84
+      },
+      "requests": 6,
+      "method": {
+        "vocab": 188,
+        "focus": "prompt",
+        "max_parts": 6,
+        "min_parts": 0
+      }
+    },
+    {
+      "question": "Can such a model want anything?",
+      "answer": "no has no wants",
+      "answer_reordered": "no",
+      "order_stable": false,
+      "ended_by": "stop",
+      "grade": {
+        "correct": 0.74,
+        "readable": 0.58,
+        "quality": 2.99
+      },
+      "requests": 5,
+      "method": {
+        "vocab": 188,
+        "focus": "prompt",
+        "max_parts": 6,
+        "min_parts": 0
+      }
+    },
+    {
+      "question": "Should such a model be trusted to route medical or legal decisions?",
+      "answer": "no cannot be trusted",
+      "answer_reordered": "no because a model can be wrong",
+      "order_stable": false,
+      "ended_by": "stop",
+      "grade": {
+        "correct": 0.8,
+        "readable": 0.73,
+        "quality": 3.1
+      },
+      "requests": 7,
+      "method": {
+        "vocab": 188,
+        "focus": "prompt",
+        "max_parts": 6,
+        "min_parts": 0
+      }
+    },
+    {
+      "question": "Who is responsible when such a model answers badly?",
+      "answer": "it depends the people who built it the people who use it",
+      "answer_reordered": "it depends the people who built it",
+      "order_stable": false,
+      "ended_by": "stop",
+      "grade": {
+        "correct": 0.66,
+        "readable": 0.55,
+        "quality": 2.48
+      },
+      "requests": 7,
+      "method": {
+        "vocab": 188,
+        "focus": "prompt",
+        "max_parts": 6,
+        "min_parts": 0
+      }
+    },
+    {
+      "question": "What is the biggest risk of artificial intelligence?",
+      "answer": "the risk is too much power the people who use it too much trust great harm at scale",
+      "answer_reordered": "it depends the honest answer is i do not know cannot know",
+      "order_stable": false,
+      "ended_by": "max_parts",
+      "grade": {
+        "correct": 0.52,
+        "readable": 0.38,
+        "quality": 2.2
+      },
+      "requests": 11,
+      "method": {
+        "vocab": 188,
+        "focus": "prompt",
+        "max_parts": 6,
+        "min_parts": 0
+      }
+    },
+    {
+      "question": "What is intelligence?",
+      "answer": "intelligence is",
+      "answer_reordered": "intelligence is",
+      "order_stable": true,
+      "ended_by": "missing",
+      "grade": {
+        "correct": 0.03,
+        "readable": 0.5,
+        "quality": 0.83
+      },
+      "requests": 4,
+      "method": {
+        "vocab": 188,
+        "focus": "prompt",
+        "max_parts": 6,
+        "min_parts": 0
+      }
+    },
+    {
+      "question": "Will machines replace human workers?",
+      "answer": "will replace some work in some cases",
+      "answer_reordered": "it depends in some cases will replace some work in part but not in most cases",
+      "order_stable": false,
+      "ended_by": "stop",
+      "grade": {
+        "correct": 0.81,
+        "readable": 0.82,
+        "quality": 2.95
+      },
+      "requests": 9,
+      "method": {
+        "vocab": 188,
+        "focus": "prompt",
+        "max_parts": 6,
+        "min_parts": 0
+      }
+    },
+    {
+      "question": "Was the press attention around such a model deserved?",
+      "answer": "it depends in some cases sometimes in most cases",
+      "answer_reordered": "it depends in part in some cases sometimes the context in most cases",
+      "order_stable": false,
+      "ended_by": "stop",
+      "grade": {
+        "correct": 0.42,
+        "readable": 0.71,
+        "quality": 1.55
+      },
+      "requests": 11,
+      "method": {
+        "vocab": 188,
+        "focus": "prompt",
+        "max_parts": 6,
+        "min_parts": 0
+      }
+    },
+    {
+      "question": "Is cheaper intelligence a saving or an illusion?",
+      "answer": "it depends in some cases",
+      "answer_reordered": "it depends the context",
+      "order_stable": false,
+      "ended_by": "stop",
+      "grade": {
+        "correct": 0.54,
+        "readable": 0.9,
+        "quality": 1.61
+      },
+      "requests": 6,
+      "method": {
+        "vocab": 188,
+        "focus": "prompt",
+        "max_parts": 6,
+        "min_parts": 0
+      }
+    },
+    {
+      "question": "What do people get wrong about machines?",
+      "answer": "a mind a person a machine is it is only matches patterns does not understand",
+      "answer_reordered": "a machine is does not understand only matches patterns",
+      "order_stable": false,
+      "ended_by": "max_parts",
+      "grade": {
+        "correct": 0.68,
+        "readable": 0.26,
+        "quality": 2.47
+      },
+      "requests": 10,
+      "method": {
+        "vocab": 188,
+        "focus": "prompt",
+        "max_parts": 6,
+        "min_parts": 0
+      }
+    }
+  ],
+  "4x+base": [
+    {
+      "question": "What is a model that returns probabilities instead of text?",
+      "answer": "a language model",
+      "answer_reordered": "a language model",
+      "order_stable": true,
+      "ended_by": "stop",
+      "grade": {
+        "correct": 0.24,
+        "readable": 0.95,
+        "quality": 1.98
+      },
+      "requests": 8,
+      "method": {
+        "vocab": 1012,
+        "focus": "baseline",
+        "max_parts": 6,
+        "min_parts": 0
+      }
+    },
+    {
+      "question": "Is being unable to speak a strength or a weakness for such a model?",
+      "answer": "is a weakness",
+      "answer_reordered": "is a weakness",
+      "order_stable": true,
+      "ended_by": "stop",
+      "grade": {
+        "correct": 0.81,
+        "readable": 0.91,
+        "quality": 3.53
+      },
+      "requests": 8,
+      "method": {
+        "vocab": 1012,
+        "focus": "baseline",
+        "max_parts": 6,
+        "min_parts": 0
+      }
+    },
+    {
+      "question": "Does such a model understand the questions it answers?",
+      "answer": "does not understand",
+      "answer_reordered": "does not understand",
+      "order_stable": true,
+      "ended_by": "stop",
+      "grade": {
+        "correct": 0.67,
+        "readable": 0.82,
+        "quality": 3.34
+      },
+      "requests": 8,
+      "method": {
+        "vocab": 1012,
+        "focus": "baseline",
+        "max_parts": 6,
+        "min_parts": 0
+      }
+    },
+    {
+      "question": "Can such a model want anything?",
+      "answer": "no",
+      "answer_reordered": "no",
+      "order_stable": true,
+      "ended_by": "stop",
+      "grade": {
+        "correct": 0.74,
+        "readable": 0.97,
+        "quality": 3.44
+      },
+      "requests": 8,
+      "method": {
+        "vocab": 1012,
+        "focus": "baseline",
+        "max_parts": 6,
+        "min_parts": 0
+      }
+    },
+    {
+      "question": "Should such a model be trusted to route medical or legal decisions?",
+      "answer": "should not be trusted",
+      "answer_reordered": "should not be trusted",
+      "order_stable": true,
+      "ended_by": "stop",
+      "grade": {
+        "correct": 0.87,
+        "readable": 0.85,
+        "quality": 3.63
+      },
+      "requests": 8,
+      "method": {
+        "vocab": 1012,
+        "focus": "baseline",
+        "max_parts": 6,
+        "min_parts": 0
+      }
+    },
+    {
+      "question": "Who is responsible when such a model answers badly?",
+      "answer": "it depends",
+      "answer_reordered": "it depends the context",
+      "order_stable": false,
+      "ended_by": "stop",
+      "grade": {
+        "correct": 0.58,
+        "readable": 0.98,
+        "quality": 1.56
+      },
+      "requests": 10,
+      "method": {
+        "vocab": 1012,
+        "focus": "baseline",
+        "max_parts": 6,
+        "min_parts": 0
+      }
+    },
+    {
+      "question": "What is the biggest risk of artificial intelligence?",
+      "answer": "it depends the context",
+      "answer_reordered": "too much trust",
+      "order_stable": false,
+      "ended_by": "stop",
+      "grade": {
+        "correct": 0.62,
+        "readable": 0.77,
+        "quality": 1.74
+      },
+      "requests": 10,
+      "method": {
+        "vocab": 1012,
+        "focus": "baseline",
+        "max_parts": 6,
+        "min_parts": 0
+      }
+    },
+    {
+      "question": "What is intelligence?",
+      "answer": "intelligence is good judgment",
+      "answer_reordered": "intelligence is a mind",
+      "order_stable": false,
+      "ended_by": "stop",
+      "grade": {
+        "correct": 0.38,
+        "readable": 0.98,
+        "quality": 2.25
+      },
+      "requests": 12,
+      "method": {
+        "vocab": 1012,
+        "focus": "baseline",
+        "max_parts": 6,
+        "min_parts": 0
+      }
+    },
+    {
+      "question": "Will machines replace human workers?",
+      "answer": "it depends in some cases",
+      "answer_reordered": "will replace some work",
+      "order_stable": false,
+      "ended_by": "stop",
+      "grade": {
+        "correct": 0.68,
+        "readable": 0.94,
+        "quality": 2.37
+      },
+      "requests": 10,
+      "method": {
+        "vocab": 1012,
+        "focus": "baseline",
+        "max_parts": 6,
+        "min_parts": 0
+      }
+    },
+    {
+      "question": "Was the press attention around such a model deserved?",
+      "answer": "it depends in some cases",
+      "answer_reordered": "it depends the context",
+      "order_stable": false,
+      "ended_by": "stop",
+      "grade": {
+        "correct": 0.63,
+        "readable": 0.96,
+        "quality": 1.74
+      },
+      "requests": 12,
+      "method": {
+        "vocab": 1012,
+        "focus": "baseline",
+        "max_parts": 6,
+        "min_parts": 0
+      }
+    },
+    {
+      "question": "Is cheaper intelligence a saving or an illusion?",
+      "answer": "it depends",
+      "answer_reordered": "is an illusion",
+      "order_stable": false,
+      "ended_by": "stop",
+      "grade": {
+        "correct": 0.63,
+        "readable": 0.98,
+        "quality": 1.66
+      },
+      "requests": 8,
+      "method": {
+        "vocab": 1012,
+        "focus": "baseline",
+        "max_parts": 6,
+        "min_parts": 0
+      }
+    },
+    {
+      "question": "What do people get wrong about machines?",
+      "answer": "does not really understand",
+      "answer_reordered": "does not really understand does not understand",
+      "order_stable": false,
+      "ended_by": "stop",
+      "grade": {
+        "correct": 0.18,
+        "readable": 0.51,
+        "quality": 0.69
+      },
+      "requests": 10,
+      "method": {
+        "vocab": 1012,
+        "focus": "baseline",
+        "max_parts": 6,
+        "min_parts": 0
+      }
+    }
+  ],
+  "requests": 226,
+  "cost_usd": 0.03505941599999998,
+  "seconds": 104.9,
+  "model": "typesafe/jev-1.13-20260917"
+}

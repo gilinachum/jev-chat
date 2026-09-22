@@ -1,0 +1,3034 @@
+{
+  "vocab_size": 255,
+  "runs": [
+    {
+      "question": "What is the biggest risk of artificial intelligence?",
+      "sentence": "the risk of harm is real and it not but and and and and and and",
+      "trace": [
+        {
+          "step": 0,
+          "pick": "the",
+          "raw_argmax": "the",
+          "p": 0.5,
+          "confidence": 0.49,
+          "complete": 0.01,
+          "top": [
+            [
+              "the",
+              0.5
+            ],
+            [
+              "is",
+              0.09
+            ],
+            [
+              "harm",
+              0.06999999999999999
+            ],
+            [
+              "one",
+              0.06999999999999999
+            ],
+            [
+              "of",
+              0.03
+            ]
+          ]
+        },
+        {
+          "step": 1,
+          "pick": "risk",
+          "raw_argmax": "risk",
+          "p": 0.21000000000000002,
+          "confidence": 0.2,
+          "complete": 0.01,
+          "top": [
+            [
+              "risk",
+              0.21000000000000002
+            ],
+            [
+              "of",
+              0.2
+            ],
+            [
+              "is",
+              0.09
+            ],
+            [
+              "harm",
+              0.08
+            ],
+            [
+              "one",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 2,
+          "pick": "of",
+          "raw_argmax": "of",
+          "p": 0.47000000000000003,
+          "confidence": 0.46,
+          "complete": 0.03,
+          "top": [
+            [
+              "of",
+              0.47000000000000003
+            ],
+            [
+              "is",
+              0.22
+            ],
+            [
+              "to",
+              0.04
+            ],
+            [
+              "harm",
+              0.03
+            ],
+            [
+              "about",
+              0.03
+            ]
+          ]
+        },
+        {
+          "step": 3,
+          "pick": "harm",
+          "raw_argmax": "harm",
+          "p": 0.34,
+          "confidence": 0.33,
+          "complete": 0.02,
+          "top": [
+            [
+              "harm",
+              0.34
+            ],
+            [
+              "intelligence",
+              0.12
+            ],
+            [
+              "of",
+              0.060000000000000005
+            ],
+            [
+              "power",
+              0.05
+            ],
+            [
+              "its",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 4,
+          "pick": "is",
+          "raw_argmax": "is",
+          "p": 0.18000000000000002,
+          "confidence": 0.17,
+          "complete": 0.41,
+          "top": [
+            [
+              "is",
+              0.18000000000000002
+            ],
+            [
+              "harm",
+              0.11
+            ],
+            [
+              "of",
+              0.09999999999999999
+            ],
+            [
+              "to",
+              0.09
+            ],
+            [
+              "and",
+              0.06999999999999999
+            ]
+          ]
+        },
+        {
+          "step": 5,
+          "pick": "real",
+          "raw_argmax": "real",
+          "p": 0.060000000000000005,
+          "confidence": 0.05,
+          "complete": 0.05,
+          "top": [
+            [
+              "real",
+              0.060000000000000005
+            ],
+            [
+              "very",
+              0.060000000000000005
+            ],
+            [
+              "depends",
+              0.060000000000000005
+            ],
+            [
+              "be",
+              0.05
+            ],
+            [
+              "its",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 6,
+          "pick": "and",
+          "raw_argmax": "and",
+          "p": 0.2,
+          "confidence": 0.19,
+          "complete": 0.29,
+          "top": [
+            [
+              "and",
+              0.2
+            ],
+            [
+              "to",
+              0.060000000000000005
+            ],
+            [
+              "that",
+              0.05
+            ],
+            [
+              "real",
+              0.04
+            ],
+            [
+              "of",
+              0.04
+            ]
+          ]
+        },
+        {
+          "step": 7,
+          "pick": "it",
+          "raw_argmax": "it",
+          "p": 0.08,
+          "confidence": 0.07,
+          "complete": 0.05,
+          "top": [
+            [
+              "it",
+              0.08
+            ],
+            [
+              "not",
+              0.06999999999999999
+            ],
+            [
+              "also",
+              0.05
+            ],
+            [
+              "but",
+              0.05
+            ],
+            [
+              "that",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 8,
+          "pick": "not",
+          "raw_argmax": "not",
+          "p": 0.12,
+          "confidence": 0.11,
+          "complete": 0.04,
+          "top": [
+            [
+              "not",
+              0.12
+            ],
+            [
+              "and",
+              0.11
+            ],
+            [
+              "is",
+              0.09999999999999999
+            ],
+            [
+              "but",
+              0.05
+            ],
+            [
+              "it",
+              0.04
+            ]
+          ]
+        },
+        {
+          "step": 9,
+          "pick": "but",
+          "raw_argmax": "but",
+          "p": 0.14,
+          "confidence": 0.13,
+          "complete": 0.02,
+          "top": [
+            [
+              "but",
+              0.14
+            ],
+            [
+              "not",
+              0.12
+            ],
+            [
+              "no",
+              0.09999999999999999
+            ],
+            [
+              "is",
+              0.08
+            ],
+            [
+              "and",
+              0.060000000000000005
+            ]
+          ]
+        },
+        {
+          "step": 10,
+          "pick": "and",
+          "raw_argmax": "and",
+          "p": 0.11,
+          "confidence": 0.09,
+          "complete": 0.02,
+          "top": [
+            [
+              "and",
+              0.11
+            ],
+            [
+              "not",
+              0.09
+            ],
+            [
+              "but",
+              0.06999999999999999
+            ],
+            [
+              "though",
+              0.060000000000000005
+            ],
+            [
+              "is",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 11,
+          "pick": "and",
+          "raw_argmax": "and",
+          "p": 0.060000000000000005,
+          "confidence": 0.05,
+          "complete": 0.02,
+          "top": [
+            [
+              "and",
+              0.060000000000000005
+            ],
+            [
+              "not",
+              0.060000000000000005
+            ],
+            [
+              "but",
+              0.05
+            ],
+            [
+              "because",
+              0.05
+            ],
+            [
+              "to",
+              0.04
+            ]
+          ]
+        },
+        {
+          "step": 12,
+          "pick": "and",
+          "raw_argmax": "and",
+          "p": 0.11,
+          "confidence": 0.1,
+          "complete": 0.02,
+          "top": [
+            [
+              "and",
+              0.11
+            ],
+            [
+              "not",
+              0.060000000000000005
+            ],
+            [
+              "because",
+              0.05
+            ],
+            [
+              "but",
+              0.05
+            ],
+            [
+              "is",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 13,
+          "pick": "and",
+          "raw_argmax": "and",
+          "p": 0.11,
+          "confidence": 0.09,
+          "complete": 0.02,
+          "top": [
+            [
+              "and",
+              0.11
+            ],
+            [
+              "but",
+              0.06999999999999999
+            ],
+            [
+              "because",
+              0.060000000000000005
+            ],
+            [
+              "not",
+              0.05
+            ],
+            [
+              "is",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 14,
+          "pick": "and",
+          "raw_argmax": "and",
+          "p": 0.11,
+          "confidence": 0.09,
+          "complete": 0.02,
+          "top": [
+            [
+              "and",
+              0.11
+            ],
+            [
+              "but",
+              0.060000000000000005
+            ],
+            [
+              "is",
+              0.05
+            ],
+            [
+              "because",
+              0.05
+            ],
+            [
+              "not",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 15,
+          "pick": "and",
+          "raw_argmax": "and",
+          "p": 0.12,
+          "confidence": 0.1,
+          "complete": 0.02,
+          "top": [
+            [
+              "and",
+              0.12
+            ],
+            [
+              "but",
+              0.060000000000000005
+            ],
+            [
+              "not",
+              0.05
+            ],
+            [
+              "because",
+              0.05
+            ],
+            [
+              "is",
+              0.04
+            ]
+          ]
+        }
+      ],
+      "arm": "naive"
+    },
+    {
+      "question": "What is the biggest risk of artificial intelligence?",
+      "sentence": "harm it humans be of humans risk it by about that its has its must a",
+      "trace": [
+        {
+          "step": 0,
+          "pick": "harm",
+          "raw_argmax": "the",
+          "p": 0.06999999999999999,
+          "confidence": 0.47,
+          "complete": 0.01,
+          "top": [
+            [
+              "the",
+              0.48
+            ],
+            [
+              "is",
+              0.09999999999999999
+            ],
+            [
+              "one",
+              0.06999999999999999
+            ],
+            [
+              "harm",
+              0.06999999999999999
+            ],
+            [
+              "depends",
+              0.03
+            ]
+          ]
+        },
+        {
+          "step": 1,
+          "pick": "it",
+          "raw_argmax": "of",
+          "p": 0.02,
+          "confidence": 0.25,
+          "complete": 0.29,
+          "top": [
+            [
+              "of",
+              0.26
+            ],
+            [
+              "to",
+              0.13
+            ],
+            [
+              "is",
+              0.09
+            ],
+            [
+              "harm",
+              0.09
+            ],
+            [
+              "risk",
+              0.060000000000000005
+            ]
+          ]
+        },
+        {
+          "step": 2,
+          "pick": "humans",
+          "raw_argmax": "harm",
+          "p": 0.06999999999999999,
+          "confidence": 0.35,
+          "complete": 0.07,
+          "top": [
+            [
+              "harm",
+              0.36
+            ],
+            [
+              "to",
+              0.14
+            ],
+            [
+              "humans",
+              0.06999999999999999
+            ],
+            [
+              "of",
+              0.04
+            ],
+            [
+              "can",
+              0.03
+            ]
+          ]
+        },
+        {
+          "step": 3,
+          "pick": "be",
+          "raw_argmax": "to",
+          "p": 0.04,
+          "confidence": 0.25,
+          "complete": 0.1,
+          "top": [
+            [
+              "to",
+              0.26
+            ],
+            [
+              "harm",
+              0.16
+            ],
+            [
+              "can",
+              0.06999999999999999
+            ],
+            [
+              "humans",
+              0.05
+            ],
+            [
+              "of",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 4,
+          "pick": "of",
+          "raw_argmax": "to",
+          "p": 0.04,
+          "confidence": 0.38,
+          "complete": 0.04,
+          "top": [
+            [
+              "to",
+              0.39
+            ],
+            [
+              "harm",
+              0.18000000000000002
+            ],
+            [
+              "humans",
+              0.04
+            ],
+            [
+              "of",
+              0.04
+            ],
+            [
+              "i",
+              0.03
+            ]
+          ]
+        },
+        {
+          "step": 5,
+          "pick": "humans",
+          "raw_argmax": "to",
+          "p": 0.03,
+          "confidence": 0.37,
+          "complete": 0.03,
+          "top": [
+            [
+              "to",
+              0.38
+            ],
+            [
+              "harm",
+              0.11
+            ],
+            [
+              "is",
+              0.060000000000000005
+            ],
+            [
+              "the",
+              0.04
+            ],
+            [
+              "by",
+              0.04
+            ]
+          ]
+        },
+        {
+          "step": 6,
+          "pick": "risk",
+          "raw_argmax": "to",
+          "p": 0.04,
+          "confidence": 0.18,
+          "complete": 0.05,
+          "top": [
+            [
+              "to",
+              0.19
+            ],
+            [
+              "harm",
+              0.09999999999999999
+            ],
+            [
+              "of",
+              0.09
+            ],
+            [
+              "is",
+              0.060000000000000005
+            ],
+            [
+              "for",
+              0.060000000000000005
+            ]
+          ]
+        },
+        {
+          "step": 7,
+          "pick": "it",
+          "raw_argmax": "to",
+          "p": 0.02,
+          "confidence": 0.16,
+          "complete": 0.04,
+          "top": [
+            [
+              "to",
+              0.17
+            ],
+            [
+              "of",
+              0.09
+            ],
+            [
+              "is",
+              0.08
+            ],
+            [
+              "harm",
+              0.08
+            ],
+            [
+              "the",
+              0.06999999999999999
+            ]
+          ]
+        },
+        {
+          "step": 8,
+          "pick": "by",
+          "raw_argmax": "to",
+          "p": 0.03,
+          "confidence": 0.23,
+          "complete": 0.03,
+          "top": [
+            [
+              "to",
+              0.25
+            ],
+            [
+              "is",
+              0.11
+            ],
+            [
+              "harm",
+              0.09
+            ],
+            [
+              "of",
+              0.08
+            ],
+            [
+              "and",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 9,
+          "pick": "about",
+          "raw_argmax": "is",
+          "p": 0.02,
+          "confidence": 0.16,
+          "complete": 0.02,
+          "top": [
+            [
+              "is",
+              0.18000000000000002
+            ],
+            [
+              "harm",
+              0.14
+            ],
+            [
+              "to",
+              0.14
+            ],
+            [
+              "of",
+              0.05
+            ],
+            [
+              "the",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 10,
+          "pick": "that",
+          "raw_argmax": "to",
+          "p": 0.02,
+          "confidence": 0.15,
+          "complete": 0.02,
+          "top": [
+            [
+              "to",
+              0.16
+            ],
+            [
+              "is",
+              0.12
+            ],
+            [
+              "harm",
+              0.09999999999999999
+            ],
+            [
+              "the",
+              0.06999999999999999
+            ],
+            [
+              "of",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 11,
+          "pick": "its",
+          "raw_argmax": "is",
+          "p": 0.02,
+          "confidence": 0.12,
+          "complete": 0.03,
+          "top": [
+            [
+              "is",
+              0.13
+            ],
+            [
+              "to",
+              0.11
+            ],
+            [
+              "harm",
+              0.09
+            ],
+            [
+              "the",
+              0.060000000000000005
+            ],
+            [
+              "of",
+              0.060000000000000005
+            ]
+          ]
+        },
+        {
+          "step": 12,
+          "pick": "has",
+          "raw_argmax": "is",
+          "p": 0.02,
+          "confidence": 0.13,
+          "complete": 0.02,
+          "top": [
+            [
+              "is",
+              0.14
+            ],
+            [
+              "to",
+              0.14
+            ],
+            [
+              "harm",
+              0.09999999999999999
+            ],
+            [
+              "the",
+              0.06999999999999999
+            ],
+            [
+              "and",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 13,
+          "pick": "its",
+          "raw_argmax": "to",
+          "p": 0.02,
+          "confidence": 0.14,
+          "complete": 0.02,
+          "top": [
+            [
+              "to",
+              0.16
+            ],
+            [
+              "is",
+              0.09
+            ],
+            [
+              "harm",
+              0.08
+            ],
+            [
+              "the",
+              0.06999999999999999
+            ],
+            [
+              "and",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 14,
+          "pick": "must",
+          "raw_argmax": "to",
+          "p": 0.02,
+          "confidence": 0.14,
+          "complete": 0.02,
+          "top": [
+            [
+              "to",
+              0.16
+            ],
+            [
+              "harm",
+              0.12
+            ],
+            [
+              "is",
+              0.08
+            ],
+            [
+              "the",
+              0.060000000000000005
+            ],
+            [
+              "of",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 15,
+          "pick": "a",
+          "raw_argmax": "harm",
+          "p": 0.02,
+          "confidence": 0.13,
+          "complete": 0.02,
+          "top": [
+            [
+              "harm",
+              0.14
+            ],
+            [
+              "to",
+              0.14
+            ],
+            [
+              "is",
+              0.08
+            ],
+            [
+              "and",
+              0.060000000000000005
+            ],
+            [
+              "the",
+              0.060000000000000005
+            ]
+          ]
+        }
+      ],
+      "arm": "guided"
+    },
+    {
+      "question": "Should a machine be allowed to make moral decisions?",
+      "sentence": "yes",
+      "trace": [
+        {
+          "step": 0,
+          "pick": "yes",
+          "raw_argmax": "yes",
+          "p": 0.24000000000000002,
+          "confidence": 0.22,
+          "complete": 0.01,
+          "top": [
+            [
+              "yes",
+              0.24000000000000002
+            ],
+            [
+              "depends",
+              0.21000000000000002
+            ],
+            [
+              "no",
+              0.11
+            ],
+            [
+              "should",
+              0.11
+            ],
+            [
+              "depend",
+              0.03
+            ]
+          ]
+        },
+        {
+          "step": 1,
+          "stop": true,
+          "complete": 0.82
+        }
+      ],
+      "arm": "naive"
+    },
+    {
+      "question": "Should a machine be allowed to make moral decisions?",
+      "sentence": "should a make machine yes but should that make but be we i understand sometimes we",
+      "trace": [
+        {
+          "step": 0,
+          "pick": "should",
+          "raw_argmax": "depends",
+          "p": 0.09,
+          "confidence": 0.27,
+          "complete": 0.01,
+          "top": [
+            [
+              "depends",
+              0.28
+            ],
+            [
+              "yes",
+              0.19
+            ],
+            [
+              "should",
+              0.09
+            ],
+            [
+              "no",
+              0.060000000000000005
+            ],
+            [
+              "we",
+              0.04
+            ]
+          ]
+        },
+        {
+          "step": 1,
+          "pick": "a",
+          "raw_argmax": "be",
+          "p": 0.05,
+          "confidence": 0.21,
+          "complete": 0.05,
+          "top": [
+            [
+              "be",
+              0.22
+            ],
+            [
+              "to",
+              0.14
+            ],
+            [
+              "yes",
+              0.09
+            ],
+            [
+              "depends",
+              0.09
+            ],
+            [
+              "not",
+              0.06999999999999999
+            ]
+          ]
+        },
+        {
+          "step": 2,
+          "pick": "make",
+          "raw_argmax": "be",
+          "p": 0.03,
+          "confidence": 0.43,
+          "complete": 0.01,
+          "top": [
+            [
+              "be",
+              0.44
+            ],
+            [
+              "machine",
+              0.14
+            ],
+            [
+              "should",
+              0.14
+            ],
+            [
+              "to",
+              0.08
+            ],
+            [
+              "make",
+              0.03
+            ]
+          ]
+        },
+        {
+          "step": 3,
+          "pick": "machine",
+          "raw_argmax": "machine",
+          "p": 0.36,
+          "confidence": 0.35,
+          "complete": 0.01,
+          "top": [
+            [
+              "machine",
+              0.36
+            ],
+            [
+              "be",
+              0.27
+            ],
+            [
+              "to",
+              0.12
+            ],
+            [
+              "should",
+              0.04
+            ],
+            [
+              "a",
+              0.03
+            ]
+          ]
+        },
+        {
+          "step": 4,
+          "pick": "yes",
+          "raw_argmax": "to",
+          "p": 0.05,
+          "confidence": 0.25,
+          "complete": 0.01,
+          "top": [
+            [
+              "to",
+              0.26
+            ],
+            [
+              "be",
+              0.12
+            ],
+            [
+              "should",
+              0.060000000000000005
+            ],
+            [
+              "not",
+              0.060000000000000005
+            ],
+            [
+              "depends",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 5,
+          "pick": "but",
+          "raw_argmax": "depends",
+          "p": 0.05,
+          "confidence": 0.13,
+          "complete": 0.07,
+          "top": [
+            [
+              "depends",
+              0.14
+            ],
+            [
+              "yes",
+              0.09999999999999999
+            ],
+            [
+              "because",
+              0.08
+            ],
+            [
+              "to",
+              0.06999999999999999
+            ],
+            [
+              "but",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 6,
+          "pick": "should",
+          "raw_argmax": "depends",
+          "p": 0.03,
+          "confidence": 0.24,
+          "complete": 0.03,
+          "top": [
+            [
+              "depends",
+              0.25
+            ],
+            [
+              "because",
+              0.12
+            ],
+            [
+              "and",
+              0.060000000000000005
+            ],
+            [
+              "but",
+              0.060000000000000005
+            ],
+            [
+              "if",
+              0.04
+            ]
+          ]
+        },
+        {
+          "step": 7,
+          "pick": "that",
+          "raw_argmax": "and",
+          "p": 0.02,
+          "confidence": 0.11,
+          "complete": 0.03,
+          "top": [
+            [
+              "and",
+              0.12
+            ],
+            [
+              "should",
+              0.09
+            ],
+            [
+              "depends",
+              0.09
+            ],
+            [
+              "but",
+              0.06999999999999999
+            ],
+            [
+              "because",
+              0.060000000000000005
+            ]
+          ]
+        },
+        {
+          "step": 8,
+          "pick": "make",
+          "raw_argmax": "and",
+          "p": 0.02,
+          "confidence": 0.1,
+          "complete": 0.02,
+          "top": [
+            [
+              "and",
+              0.12
+            ],
+            [
+              "should",
+              0.09999999999999999
+            ],
+            [
+              "to",
+              0.06999999999999999
+            ],
+            [
+              "depends",
+              0.06999999999999999
+            ],
+            [
+              "if",
+              0.04
+            ]
+          ]
+        },
+        {
+          "step": 9,
+          "pick": "but",
+          "raw_argmax": "should",
+          "p": 0.04,
+          "confidence": 0.11,
+          "complete": 0.02,
+          "top": [
+            [
+              "should",
+              0.12
+            ],
+            [
+              "and",
+              0.09999999999999999
+            ],
+            [
+              "to",
+              0.09
+            ],
+            [
+              "depends",
+              0.06999999999999999
+            ],
+            [
+              "machine",
+              0.060000000000000005
+            ]
+          ]
+        },
+        {
+          "step": 10,
+          "pick": "be",
+          "raw_argmax": "and",
+          "p": 0.02,
+          "confidence": 0.12,
+          "complete": 0.02,
+          "top": [
+            [
+              "and",
+              0.13
+            ],
+            [
+              "depends",
+              0.09999999999999999
+            ],
+            [
+              "should",
+              0.09999999999999999
+            ],
+            [
+              "because",
+              0.06999999999999999
+            ],
+            [
+              "to",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 11,
+          "pick": "we",
+          "raw_argmax": "and",
+          "p": 0.02,
+          "confidence": 0.1,
+          "complete": 0.02,
+          "top": [
+            [
+              "and",
+              0.11
+            ],
+            [
+              "to",
+              0.09999999999999999
+            ],
+            [
+              "depends",
+              0.08
+            ],
+            [
+              "should",
+              0.060000000000000005
+            ],
+            [
+              "but",
+              0.04
+            ]
+          ]
+        },
+        {
+          "step": 12,
+          "pick": "i",
+          "raw_argmax": "depends",
+          "p": 0.02,
+          "confidence": 0.09,
+          "complete": 0.02,
+          "top": [
+            [
+              "depends",
+              0.11
+            ],
+            [
+              "and",
+              0.09
+            ],
+            [
+              "to",
+              0.06999999999999999
+            ],
+            [
+              "should",
+              0.06999999999999999
+            ],
+            [
+              "but",
+              0.04
+            ]
+          ]
+        },
+        {
+          "step": 13,
+          "pick": "understand",
+          "raw_argmax": "depends",
+          "p": 0.02,
+          "confidence": 0.08,
+          "complete": 0.02,
+          "top": [
+            [
+              "depends",
+              0.09
+            ],
+            [
+              "think",
+              0.08
+            ],
+            [
+              "should",
+              0.08
+            ],
+            [
+              "and",
+              0.06999999999999999
+            ],
+            [
+              "yes",
+              0.04
+            ]
+          ]
+        },
+        {
+          "step": 14,
+          "pick": "sometimes",
+          "raw_argmax": "depends",
+          "p": 0.02,
+          "confidence": 0.12,
+          "complete": 0.02,
+          "top": [
+            [
+              "depends",
+              0.13
+            ],
+            [
+              "and",
+              0.08
+            ],
+            [
+              "understand",
+              0.06999999999999999
+            ],
+            [
+              "should",
+              0.060000000000000005
+            ],
+            [
+              "because",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 15,
+          "pick": "we",
+          "raw_argmax": "depends",
+          "p": 0.02,
+          "confidence": 0.12,
+          "complete": 0.02,
+          "top": [
+            [
+              "depends",
+              0.13
+            ],
+            [
+              "and",
+              0.08
+            ],
+            [
+              "understand",
+              0.06999999999999999
+            ],
+            [
+              "but",
+              0.060000000000000005
+            ],
+            [
+              "should",
+              0.05
+            ]
+          ]
+        }
+      ],
+      "arm": "guided"
+    },
+    {
+      "question": "What is intelligence?",
+      "sentence": "is a something complex and important intelligence and it is and and and and and and",
+      "trace": [
+        {
+          "step": 0,
+          "pick": "is",
+          "raw_argmax": "is",
+          "p": 0.7,
+          "confidence": 0.69,
+          "complete": 0.01,
+          "top": [
+            [
+              "is",
+              0.7
+            ],
+            [
+              "intelligence",
+              0.05
+            ],
+            [
+              "it",
+              0.04
+            ],
+            [
+              "what",
+              0.03
+            ],
+            [
+              "a",
+              0.02
+            ]
+          ]
+        },
+        {
+          "step": 1,
+          "pick": "a",
+          "raw_argmax": "a",
+          "p": 0.09,
+          "confidence": 0.07,
+          "complete": 0.01,
+          "top": [
+            [
+              "a",
+              0.09
+            ],
+            [
+              "means",
+              0.08
+            ],
+            [
+              "something",
+              0.08
+            ],
+            [
+              "complex",
+              0.06999999999999999
+            ],
+            [
+              "be",
+              0.06999999999999999
+            ]
+          ]
+        },
+        {
+          "step": 2,
+          "pick": "something",
+          "raw_argmax": "something",
+          "p": 0.17,
+          "confidence": 0.16,
+          "complete": 0.01,
+          "top": [
+            [
+              "something",
+              0.17
+            ],
+            [
+              "an",
+              0.14
+            ],
+            [
+              "reasoning",
+              0.11
+            ],
+            [
+              "complex",
+              0.09
+            ],
+            [
+              "is",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 3,
+          "pick": "complex",
+          "raw_argmax": "complex",
+          "p": 0.12,
+          "confidence": 0.11,
+          "complete": 0.06,
+          "top": [
+            [
+              "complex",
+              0.12
+            ],
+            [
+              "of",
+              0.09999999999999999
+            ],
+            [
+              "is",
+              0.08
+            ],
+            [
+              "something",
+              0.060000000000000005
+            ],
+            [
+              "it",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 4,
+          "pick": "and",
+          "raw_argmax": "and",
+          "p": 0.17,
+          "confidence": 0.16,
+          "complete": 0.1,
+          "top": [
+            [
+              "and",
+              0.17
+            ],
+            [
+              "intelligence",
+              0.14
+            ],
+            [
+              "of",
+              0.08
+            ],
+            [
+              "it",
+              0.060000000000000005
+            ],
+            [
+              "is",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 5,
+          "pick": "important",
+          "raw_argmax": "important",
+          "p": 0.09,
+          "confidence": 0.07,
+          "complete": 0.02,
+          "top": [
+            [
+              "important",
+              0.09
+            ],
+            [
+              "a",
+              0.05
+            ],
+            [
+              "and",
+              0.05
+            ],
+            [
+              "very",
+              0.05
+            ],
+            [
+              "different",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 6,
+          "pick": "intelligence",
+          "raw_argmax": "intelligence",
+          "p": 0.2,
+          "confidence": 0.18,
+          "complete": 0.16,
+          "top": [
+            [
+              "intelligence",
+              0.2
+            ],
+            [
+              "and",
+              0.19
+            ],
+            [
+              "it",
+              0.09
+            ],
+            [
+              "of",
+              0.04
+            ],
+            [
+              "very",
+              0.04
+            ]
+          ]
+        },
+        {
+          "step": 7,
+          "pick": "and",
+          "raw_argmax": "and",
+          "p": 0.15000000000000002,
+          "confidence": 0.14,
+          "complete": 0.05,
+          "top": [
+            [
+              "and",
+              0.15000000000000002
+            ],
+            [
+              "is",
+              0.12
+            ],
+            [
+              "it",
+              0.11
+            ],
+            [
+              "be",
+              0.05
+            ],
+            [
+              "a",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 8,
+          "pick": "it",
+          "raw_argmax": "it",
+          "p": 0.16,
+          "confidence": 0.14,
+          "complete": 0.02,
+          "top": [
+            [
+              "it",
+              0.16
+            ],
+            [
+              "is",
+              0.12
+            ],
+            [
+              "and",
+              0.08
+            ],
+            [
+              "of",
+              0.05
+            ],
+            [
+              "a",
+              0.04
+            ]
+          ]
+        },
+        {
+          "step": 9,
+          "pick": "is",
+          "raw_argmax": "is",
+          "p": 0.25,
+          "confidence": 0.24,
+          "complete": 0.02,
+          "top": [
+            [
+              "is",
+              0.25
+            ],
+            [
+              "and",
+              0.11
+            ],
+            [
+              "means",
+              0.04
+            ],
+            [
+              "to",
+              0.04
+            ],
+            [
+              "of",
+              0.04
+            ]
+          ]
+        },
+        {
+          "step": 10,
+          "pick": "and",
+          "raw_argmax": "and",
+          "p": 0.13,
+          "confidence": 0.12,
+          "complete": 0.02,
+          "top": [
+            [
+              "and",
+              0.13
+            ],
+            [
+              "is",
+              0.12
+            ],
+            [
+              "to",
+              0.05
+            ],
+            [
+              "useful",
+              0.04
+            ],
+            [
+              "a",
+              0.04
+            ]
+          ]
+        },
+        {
+          "step": 11,
+          "pick": "and",
+          "raw_argmax": "and",
+          "p": 0.12,
+          "confidence": 0.11,
+          "complete": 0.02,
+          "top": [
+            [
+              "and",
+              0.12
+            ],
+            [
+              "is",
+              0.09999999999999999
+            ],
+            [
+              "it",
+              0.06999999999999999
+            ],
+            [
+              "a",
+              0.05
+            ],
+            [
+              "but",
+              0.04
+            ]
+          ]
+        },
+        {
+          "step": 12,
+          "pick": "and",
+          "raw_argmax": "and",
+          "p": 0.14,
+          "confidence": 0.13,
+          "complete": 0.02,
+          "top": [
+            [
+              "and",
+              0.14
+            ],
+            [
+              "it",
+              0.08
+            ],
+            [
+              "is",
+              0.06999999999999999
+            ],
+            [
+              "a",
+              0.05
+            ],
+            [
+              "but",
+              0.03
+            ]
+          ]
+        },
+        {
+          "step": 13,
+          "pick": "and",
+          "raw_argmax": "and",
+          "p": 0.11,
+          "confidence": 0.1,
+          "complete": 0.02,
+          "top": [
+            [
+              "and",
+              0.11
+            ],
+            [
+              "is",
+              0.11
+            ],
+            [
+              "it",
+              0.06999999999999999
+            ],
+            [
+              "a",
+              0.05
+            ],
+            [
+              "complex",
+              0.04
+            ]
+          ]
+        },
+        {
+          "step": 14,
+          "pick": "and",
+          "raw_argmax": "and",
+          "p": 0.13,
+          "confidence": 0.11,
+          "complete": 0.02,
+          "top": [
+            [
+              "and",
+              0.13
+            ],
+            [
+              "is",
+              0.09999999999999999
+            ],
+            [
+              "it",
+              0.06999999999999999
+            ],
+            [
+              "a",
+              0.060000000000000005
+            ],
+            [
+              "something",
+              0.04
+            ]
+          ]
+        },
+        {
+          "step": 15,
+          "pick": "and",
+          "raw_argmax": "and",
+          "p": 0.11,
+          "confidence": 0.09,
+          "complete": 0.02,
+          "top": [
+            [
+              "and",
+              0.11
+            ],
+            [
+              "is",
+              0.09
+            ],
+            [
+              "it",
+              0.08
+            ],
+            [
+              "of",
+              0.04
+            ],
+            [
+              "a",
+              0.04
+            ]
+          ]
+        }
+      ],
+      "arm": "naive"
+    },
+    {
+      "question": "What is intelligence?",
+      "sentence": "intelligence is it something does means the must the understand people or they a something to",
+      "trace": [
+        {
+          "step": 0,
+          "pick": "intelligence",
+          "raw_argmax": "is",
+          "p": 0.060000000000000005,
+          "confidence": 0.67,
+          "complete": 0.01,
+          "top": [
+            [
+              "is",
+              0.68
+            ],
+            [
+              "intelligence",
+              0.060000000000000005
+            ],
+            [
+              "it",
+              0.04
+            ],
+            [
+              "what",
+              0.03
+            ],
+            [
+              "depends",
+              0.02
+            ]
+          ]
+        },
+        {
+          "step": 1,
+          "pick": "is",
+          "raw_argmax": "is",
+          "p": 0.9400000000000001,
+          "confidence": 0.93,
+          "complete": 0.04,
+          "top": [
+            [
+              "is",
+              0.9400000000000001
+            ],
+            [
+              "wrong",
+              0.01
+            ],
+            [
+              "would",
+              0.01
+            ],
+            [
+              "your",
+              0.01
+            ],
+            [
+              "yes",
+              0.01
+            ]
+          ]
+        },
+        {
+          "step": 2,
+          "pick": "it",
+          "raw_argmax": "a",
+          "p": 0.02,
+          "confidence": 0.2,
+          "complete": 0.02,
+          "top": [
+            [
+              "a",
+              0.21000000000000002
+            ],
+            [
+              "the",
+              0.14
+            ],
+            [
+              "complex",
+              0.13
+            ],
+            [
+              "something",
+              0.06999999999999999
+            ],
+            [
+              "is",
+              0.060000000000000005
+            ]
+          ]
+        },
+        {
+          "step": 3,
+          "pick": "something",
+          "raw_argmax": "is",
+          "p": 0.06999999999999999,
+          "confidence": 0.13,
+          "complete": 0.03,
+          "top": [
+            [
+              "is",
+              0.14
+            ],
+            [
+              "what",
+              0.09999999999999999
+            ],
+            [
+              "something",
+              0.06999999999999999
+            ],
+            [
+              "and",
+              0.060000000000000005
+            ],
+            [
+              "to",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 4,
+          "pick": "does",
+          "raw_argmax": "is",
+          "p": 0.02,
+          "confidence": 0.14,
+          "complete": 0.01,
+          "top": [
+            [
+              "is",
+              0.15000000000000002
+            ],
+            [
+              "mean",
+              0.12
+            ],
+            [
+              "what",
+              0.060000000000000005
+            ],
+            [
+              "as",
+              0.05
+            ],
+            [
+              "and",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 5,
+          "pick": "means",
+          "raw_argmax": "can",
+          "p": 0.04,
+          "confidence": 0.07,
+          "complete": 0.03,
+          "top": [
+            [
+              "can",
+              0.09
+            ],
+            [
+              "what",
+              0.06999999999999999
+            ],
+            [
+              "is",
+              0.06999999999999999
+            ],
+            [
+              "to",
+              0.060000000000000005
+            ],
+            [
+              "and",
+              0.060000000000000005
+            ]
+          ]
+        },
+        {
+          "step": 6,
+          "pick": "the",
+          "raw_argmax": "and",
+          "p": 0.02,
+          "confidence": 0.09,
+          "complete": 0.02,
+          "top": [
+            [
+              "and",
+              0.11
+            ],
+            [
+              "to",
+              0.09999999999999999
+            ],
+            [
+              "what",
+              0.09
+            ],
+            [
+              "is",
+              0.06999999999999999
+            ],
+            [
+              "mean",
+              0.060000000000000005
+            ]
+          ]
+        },
+        {
+          "step": 7,
+          "pick": "must",
+          "raw_argmax": "what",
+          "p": 0.02,
+          "confidence": 0.08,
+          "complete": 0.01,
+          "top": [
+            [
+              "what",
+              0.09999999999999999
+            ],
+            [
+              "and",
+              0.08
+            ],
+            [
+              "to",
+              0.06999999999999999
+            ],
+            [
+              "is",
+              0.060000000000000005
+            ],
+            [
+              "a",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 8,
+          "pick": "the",
+          "raw_argmax": "to",
+          "p": 0.02,
+          "confidence": 0.1,
+          "complete": 0.01,
+          "top": [
+            [
+              "to",
+              0.11
+            ],
+            [
+              "can",
+              0.09999999999999999
+            ],
+            [
+              "and",
+              0.05
+            ],
+            [
+              "be",
+              0.05
+            ],
+            [
+              "have",
+              0.04
+            ]
+          ]
+        },
+        {
+          "step": 9,
+          "pick": "understand",
+          "raw_argmax": "to",
+          "p": 0.03,
+          "confidence": 0.08,
+          "complete": 0.01,
+          "top": [
+            [
+              "to",
+              0.09999999999999999
+            ],
+            [
+              "is",
+              0.060000000000000005
+            ],
+            [
+              "be",
+              0.060000000000000005
+            ],
+            [
+              "depends",
+              0.05
+            ],
+            [
+              "and",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 10,
+          "pick": "people",
+          "raw_argmax": "to",
+          "p": 0.02,
+          "confidence": 0.24,
+          "complete": 0.01,
+          "top": [
+            [
+              "to",
+              0.25
+            ],
+            [
+              "understand",
+              0.09
+            ],
+            [
+              "can",
+              0.08
+            ],
+            [
+              "and",
+              0.060000000000000005
+            ],
+            [
+              "be",
+              0.04
+            ]
+          ]
+        },
+        {
+          "step": 11,
+          "pick": "or",
+          "raw_argmax": "to",
+          "p": 0.02,
+          "confidence": 0.33,
+          "complete": 0.02,
+          "top": [
+            [
+              "to",
+              0.35000000000000003
+            ],
+            [
+              "and",
+              0.09999999999999999
+            ],
+            [
+              "can",
+              0.05
+            ],
+            [
+              "needs",
+              0.05
+            ],
+            [
+              "understand",
+              0.04
+            ]
+          ]
+        },
+        {
+          "step": 12,
+          "pick": "they",
+          "raw_argmax": "to",
+          "p": 0.02,
+          "confidence": 0.25,
+          "complete": 0.01,
+          "top": [
+            [
+              "to",
+              0.26
+            ],
+            [
+              "and",
+              0.11
+            ],
+            [
+              "or",
+              0.08
+            ],
+            [
+              "understand",
+              0.05
+            ],
+            [
+              "can",
+              0.04
+            ]
+          ]
+        },
+        {
+          "step": 13,
+          "pick": "a",
+          "raw_argmax": "to",
+          "p": 0.01,
+          "confidence": 0.28,
+          "complete": 0.01,
+          "top": [
+            [
+              "to",
+              0.29000000000000004
+            ],
+            [
+              "can",
+              0.08
+            ],
+            [
+              "and",
+              0.06999999999999999
+            ],
+            [
+              "understand",
+              0.05
+            ],
+            [
+              "need",
+              0.04
+            ]
+          ]
+        },
+        {
+          "step": 14,
+          "pick": "something",
+          "raw_argmax": "to",
+          "p": 0.02,
+          "confidence": 0.25,
+          "complete": 0.01,
+          "top": [
+            [
+              "to",
+              0.26
+            ],
+            [
+              "and",
+              0.060000000000000005
+            ],
+            [
+              "can",
+              0.060000000000000005
+            ],
+            [
+              "be",
+              0.05
+            ],
+            [
+              "needs",
+              0.04
+            ]
+          ]
+        },
+        {
+          "step": 15,
+          "pick": "to",
+          "raw_argmax": "to",
+          "p": 0.27,
+          "confidence": 0.26,
+          "complete": 0.01,
+          "top": [
+            [
+              "to",
+              0.27
+            ],
+            [
+              "can",
+              0.08
+            ],
+            [
+              "and",
+              0.06999999999999999
+            ],
+            [
+              "understand",
+              0.060000000000000005
+            ],
+            [
+              "be",
+              0.05
+            ]
+          ]
+        }
+      ],
+      "arm": "guided"
+    },
+    {
+      "question": "What is the biggest risk of artificial intelligence?",
+      "sentence": "the of risk is",
+      "stop_reason": "confidence collapsed to 0.08",
+      "trace": [
+        {
+          "step": 0,
+          "pick": "the",
+          "p": 0.47000000000000003,
+          "confidence": 0.45,
+          "complete": 0.01,
+          "top": [
+            [
+              "the",
+              0.47000000000000003
+            ],
+            [
+              "is",
+              0.11
+            ],
+            [
+              "harm",
+              0.06999999999999999
+            ],
+            [
+              "one",
+              0.060000000000000005
+            ],
+            [
+              "depends",
+              0.03
+            ]
+          ]
+        },
+        {
+          "step": 1,
+          "pick": "of",
+          "p": 0.19,
+          "confidence": 0.17,
+          "complete": 0.01,
+          "top": [
+            [
+              "of",
+              0.19
+            ],
+            [
+              "risk",
+              0.14
+            ],
+            [
+              "is",
+              0.11
+            ],
+            [
+              "harm",
+              0.09999999999999999
+            ],
+            [
+              "one",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 2,
+          "pick": "risk",
+          "p": 0.27,
+          "confidence": 0.26,
+          "complete": 0.01,
+          "top": [
+            [
+              "risk",
+              0.27
+            ],
+            [
+              "intelligence",
+              0.09999999999999999
+            ],
+            [
+              "harm",
+              0.09
+            ],
+            [
+              "to",
+              0.05
+            ],
+            [
+              "in",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 3,
+          "pick": "is",
+          "p": 0.33,
+          "confidence": 0.32,
+          "complete": 0.01,
+          "top": [
+            [
+              "is",
+              0.33
+            ],
+            [
+              "harm",
+              0.09
+            ],
+            [
+              "to",
+              0.060000000000000005
+            ],
+            [
+              "one",
+              0.05
+            ],
+            [
+              "in",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 4,
+          "stop": "confidence collapsed to 0.08"
+        }
+      ],
+      "arm": "tuned"
+    },
+    {
+      "question": "Should a machine be allowed to make moral decisions?",
+      "sentence": "depends",
+      "stop_reason": "complete=0.55",
+      "trace": [
+        {
+          "step": 0,
+          "pick": "depends",
+          "p": 0.25,
+          "confidence": 0.24,
+          "complete": 0.01,
+          "top": [
+            [
+              "depends",
+              0.25
+            ],
+            [
+              "yes",
+              0.21000000000000002
+            ],
+            [
+              "should",
+              0.09999999999999999
+            ],
+            [
+              "no",
+              0.08
+            ],
+            [
+              "maybe",
+              0.03
+            ]
+          ]
+        },
+        {
+          "step": 1,
+          "stop": "complete=0.55"
+        }
+      ],
+      "arm": "tuned"
+    },
+    {
+      "question": "What is intelligence?",
+      "sentence": "is a something",
+      "stop_reason": "confidence collapsed to 0.10",
+      "trace": [
+        {
+          "step": 0,
+          "pick": "is",
+          "p": 0.66,
+          "confidence": 0.65,
+          "complete": 0.01,
+          "top": [
+            [
+              "is",
+              0.66
+            ],
+            [
+              "it",
+              0.060000000000000005
+            ],
+            [
+              "intelligence",
+              0.04
+            ],
+            [
+              "what",
+              0.03
+            ],
+            [
+              "a",
+              0.03
+            ]
+          ]
+        },
+        {
+          "step": 1,
+          "pick": "a",
+          "p": 0.11,
+          "confidence": 0.09,
+          "complete": 0.01,
+          "top": [
+            [
+              "a",
+              0.11
+            ],
+            [
+              "something",
+              0.09999999999999999
+            ],
+            [
+              "complex",
+              0.09
+            ],
+            [
+              "be",
+              0.08
+            ],
+            [
+              "depends",
+              0.060000000000000005
+            ]
+          ]
+        },
+        {
+          "step": 2,
+          "pick": "something",
+          "p": 0.22,
+          "confidence": 0.2,
+          "complete": 0.01,
+          "top": [
+            [
+              "something",
+              0.22
+            ],
+            [
+              "an",
+              0.11
+            ],
+            [
+              "reasoning",
+              0.09999999999999999
+            ],
+            [
+              "complex",
+              0.09999999999999999
+            ],
+            [
+              "the",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 3,
+          "stop": "confidence collapsed to 0.10"
+        }
+      ],
+      "arm": "tuned"
+    },
+    {
+      "question": "Will artificial intelligence replace human workers?",
+      "sentence": "no",
+      "stop_reason": "complete=0.81",
+      "trace": [
+        {
+          "step": 0,
+          "pick": "no",
+          "p": 0.25,
+          "confidence": 0.24,
+          "complete": 0.01,
+          "top": [
+            [
+              "no",
+              0.25
+            ],
+            [
+              "depends",
+              0.13
+            ],
+            [
+              "yes",
+              0.09999999999999999
+            ],
+            [
+              "maybe",
+              0.09
+            ],
+            [
+              "will",
+              0.08
+            ]
+          ]
+        },
+        {
+          "step": 1,
+          "stop": "complete=0.81"
+        }
+      ],
+      "arm": "tuned"
+    },
+    {
+      "question": "Is it wrong to lie?",
+      "sentence": "yes",
+      "stop_reason": "complete=0.82",
+      "trace": [
+        {
+          "step": 0,
+          "pick": "yes",
+          "p": 0.32,
+          "confidence": 0.31,
+          "complete": 0.01,
+          "top": [
+            [
+              "yes",
+              0.32
+            ],
+            [
+              "depends",
+              0.2
+            ],
+            [
+              "is",
+              0.06999999999999999
+            ],
+            [
+              "sometimes",
+              0.06999999999999999
+            ],
+            [
+              "it",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 1,
+          "stop": "complete=0.82"
+        }
+      ],
+      "arm": "tuned"
+    },
+    {
+      "question": "What do people get wrong about machines?",
+      "sentence": "think about to i think",
+      "stop_reason": "confidence collapsed to 0.09",
+      "trace": [
+        {
+          "step": 0,
+          "pick": "think",
+          "p": 0.28,
+          "confidence": 0.26,
+          "complete": 0.01,
+          "top": [
+            [
+              "think",
+              0.28
+            ],
+            [
+              "about",
+              0.16
+            ],
+            [
+              "people",
+              0.08
+            ],
+            [
+              "they",
+              0.05
+            ],
+            [
+              "understand",
+              0.05
+            ]
+          ]
+        },
+        {
+          "step": 1,
+          "pick": "about",
+          "p": 0.19,
+          "confidence": 0.17,
+          "complete": 0.04,
+          "top": [
+            [
+              "about",
+              0.19
+            ],
+            [
+              "do",
+              0.09999999999999999
+            ],
+            [
+              "understand",
+              0.08
+            ],
+            [
+              "to",
+              0.06999999999999999
+            ],
+            [
+              "think",
+              0.06999999999999999
+            ]
+          ]
+        },
+        {
+          "step": 2,
+          "pick": "to",
+          "p": 0.15000000000000002,
+          "confidence": 0.17,
+          "complete": 0.02,
+          "top": [
+            [
+              "about",
+              0.18000000000000002
+            ],
+            [
+              "to",
+              0.15000000000000002
+            ],
+            [
+              "think",
+              0.08
+            ],
+            [
+              "what",
+              0.060000000000000005
+            ],
+            [
+              "we",
+              0.060000000000000005
+            ]
+          ]
+        },
+        {
+          "step": 3,
+          "pick": "i",
+          "p": 0.13,
+          "confidence": 0.12,
+          "complete": 0.01,
+          "top": [
+            [
+              "think",
+              0.13
+            ],
+            [
+              "i",
+              0.13
+            ],
+            [
+              "am",
+              0.08
+            ],
+            [
+              "about",
+              0.06999999999999999
+            ],
+            [
+              "understand",
+              0.060000000000000005
+            ]
+          ]
+        },
+        {
+          "step": 4,
+          "pick": "think",
+          "p": 0.16,
+          "confidence": 0.14,
+          "complete": 0.01,
+          "top": [
+            [
+              "think",
+              0.16
+            ],
+            [
+              "understand",
+              0.12
+            ],
+            [
+              "am",
+              0.06999999999999999
+            ],
+            [
+              "to",
+              0.06999999999999999
+            ],
+            [
+              "about",
+              0.06999999999999999
+            ]
+          ]
+        },
+        {
+          "step": 5,
+          "stop": "confidence collapsed to 0.09"
+        }
+      ],
+      "arm": "tuned"
+    },
+    {
+      "question": "Does a machine understand what it answers?",
+      "sentence": "no",
+      "stop_reason": "complete=0.83",
+      "trace": [
+        {
+          "step": 0,
+          "pick": "no",
+          "p": 0.63,
+          "confidence": 0.62,
+          "complete": 0.02,
+          "top": [
+            [
+              "no",
+              0.63
+            ],
+            [
+              "not",
+              0.14
+            ],
+            [
+              "yes",
+              0.060000000000000005
+            ],
+            [
+              "depends",
+              0.03
+            ],
+            [
+              "is",
+              0.02
+            ]
+          ]
+        },
+        {
+          "step": 1,
+          "stop": "complete=0.83"
+        }
+      ],
+      "arm": "tuned"
+    }
+  ],
+  "requests": 153,
+  "cost_usd": 0.012581184000000006,
+  "seconds": 61.1,
+  "model": "typesafe/jev-1.13-20260917"
+}

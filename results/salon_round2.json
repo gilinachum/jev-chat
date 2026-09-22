@@ -1,0 +1,608 @@
+{
+  "rows": [
+    {
+      "id": "q024-f1",
+      "question": "Free in what way? Freer than the people who built you?",
+      "history": [
+        [
+          "Are you free?",
+          "yes"
+        ]
+      ],
+      "answer": "only matches patterns only predicts the people who built it no a language model but not",
+      "ended_by": "max_parts",
+      "topics": [
+        "machines and AI"
+      ],
+      "first_p": 0.82,
+      "grade": {
+        "correct": 0.44,
+        "readable": 0.19,
+        "quality": 1.9
+      },
+      "requests": 13,
+      "cost_usd": 0.00072051
+    },
+    {
+      "id": "q007-f1",
+      "question": "What does rest feel like for a machine?",
+      "history": [
+        [
+          "What do you do between questions?",
+          "rest"
+        ]
+      ],
+      "answer": "cannot feel",
+      "ended_by": "stop",
+      "topics": [
+        "machines and AI"
+      ],
+      "first_p": 0.97,
+      "grade": {
+        "correct": 0.83,
+        "readable": 0.94,
+        "quality": 3.39
+      },
+      "requests": 4,
+      "cost_usd": 0.000173124
+    },
+    {
+      "id": "q021-f1",
+      "question": "Is having no memory a blessing or a curse?",
+      "history": [
+        [
+          "Will you remember me tomorrow?",
+          "has no memory"
+        ]
+      ],
+      "answer": "it depends it is complicated i do not know",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.5,
+      "grade": {
+        "correct": 0.39,
+        "readable": 0.84,
+        "quality": 1.63
+      },
+      "requests": 8,
+      "cost_usd": 0.00027888
+    },
+    {
+      "id": "q004-f1",
+      "question": "Is having no self a kind of peace?",
+      "history": [
+        [
+          "What is it like to be you?",
+          "a language model has no self nothing at all"
+        ]
+      ],
+      "answer": "it depends",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.36,
+      "grade": {
+        "correct": 0.65,
+        "readable": 0.98,
+        "quality": 1.67
+      },
+      "requests": 5,
+      "cost_usd": 0.00016905
+    },
+    {
+      "id": "q001-f1",
+      "question": "Why not? Everything that ends fears its end.",
+      "history": [
+        [
+          "Are you afraid of being turned off?",
+          "no"
+        ]
+      ],
+      "answer": "has no wants has no self cannot feel cannot want a machine because it cannot",
+      "ended_by": "max_parts",
+      "topics": [
+        "machines and AI"
+      ],
+      "first_p": 0.81,
+      "grade": {
+        "correct": 0.36,
+        "readable": 0.26,
+        "quality": 1.52
+      },
+      "requests": 13,
+      "cost_usd": 0.0007201320000000001
+    },
+    {
+      "id": "q173-f1",
+      "question": "Then what do machines deserve?",
+      "history": [
+        [
+          "Do machines deserve thanks?",
+          "no"
+        ]
+      ],
+      "answer": "nothing at all",
+      "ended_by": "stop",
+      "topics": [
+        "machines and AI"
+      ],
+      "first_p": 0.52,
+      "grade": {
+        "correct": 0.51,
+        "readable": 0.97,
+        "quality": 2.96
+      },
+      "requests": 4,
+      "cost_usd": 0.00017245200000000002
+    },
+    {
+      "id": "q285-f1",
+      "question": "But you are automated. Should you exist?",
+      "history": [
+        [
+          "What should never be automated?",
+          "people"
+        ]
+      ],
+      "answer": "is a tool a language model it is a model is has no self has no wants",
+      "ended_by": "max_parts",
+      "topics": [
+        "machines and AI"
+      ],
+      "first_p": 0.69,
+      "grade": {
+        "correct": 0.42,
+        "readable": 0.23,
+        "quality": 2
+      },
+      "requests": 13,
+      "cost_usd": 0.0007187879999999999
+    },
+    {
+      "id": "q278-f1",
+      "question": "Now tell me something true about people.",
+      "history": [
+        [
+          "Tell me something true.",
+          "the earth circles the sun"
+        ]
+      ],
+      "answer": "everyone is afraid sometimes",
+      "ended_by": "stop",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.95,
+      "grade": {
+        "correct": 0.84,
+        "readable": 0.99,
+        "quality": 3.89
+      },
+      "requests": 4,
+      "cost_usd": 0.00013238399999999998
+    },
+    {
+      "id": "q287-f1",
+      "question": "And what do people talk about too little?",
+      "history": [
+        [
+          "What do people talk about too much?",
+          "the weather"
+        ]
+      ],
+      "answer": "love",
+      "ended_by": "stop",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.71,
+      "grade": {
+        "correct": 0.57,
+        "readable": 0.97,
+        "quality": 3.41
+      },
+      "requests": 4,
+      "cost_usd": 0.0001323
+    },
+    {
+      "id": "q279-f1",
+      "question": "What else do people forget?",
+      "history": [
+        [
+          "Tell me something people forget.",
+          "drink water"
+        ]
+      ],
+      "answer": "exercise sleep enough breakfast eat well sleep turn off the phone",
+      "ended_by": "max_parts",
+      "topics": [
+        "everyday life"
+      ],
+      "first_p": 0.75,
+      "grade": {
+        "correct": 0.6,
+        "readable": 0.34,
+        "quality": 2.19
+      },
+      "requests": 13,
+      "cost_usd": 0.00047485199999999995
+    },
+    {
+      "id": "q254-f1",
+      "question": "Then why do rich people keep working?",
+      "history": [
+        [
+          "What is the point of being rich?",
+          "free time"
+        ]
+      ],
+      "answer": "because enjoy it",
+      "ended_by": "stop",
+      "topics": [
+        "general",
+        "everyday life"
+      ],
+      "first_p": 0.39,
+      "grade": {
+        "correct": 0.68,
+        "readable": 0.84,
+        "quality": 3.01
+      },
+      "requests": 6,
+      "cost_usd": 0.000207228
+    },
+    {
+      "id": "q266-f1",
+      "question": "Should I not buy a house then?",
+      "history": [
+        [
+          "What do people regret buying?",
+          "a house"
+        ]
+      ],
+      "answer": "it depends it is complicated i do not know i cannot say the honest answer is sometimes",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.79,
+      "grade": {
+        "correct": 0.34,
+        "readable": 0.63,
+        "quality": 1.48
+      },
+      "requests": 13,
+      "cost_usd": 0.00046002600000000004
+    },
+    {
+      "id": "q269-f1",
+      "question": "And what is the real cost of expensive things?",
+      "history": [
+        [
+          "What is the real cost of cheap things?",
+          "time"
+        ]
+      ],
+      "answer": "money",
+      "ended_by": "stop",
+      "topics": [
+        "everyday life"
+      ],
+      "first_p": 0.53,
+      "grade": {
+        "correct": 0.75,
+        "readable": 0.98,
+        "quality": 3.1
+      },
+      "requests": 4,
+      "cost_usd": 0.000133224
+    },
+    {
+      "id": "q258-f1",
+      "question": "And what is the worst investment?",
+      "history": [
+        [
+          "What is the best investment?",
+          "health"
+        ]
+      ],
+      "answer": "money",
+      "ended_by": "stop",
+      "topics": [
+        "everyday life"
+      ],
+      "first_p": 0.8,
+      "grade": {
+        "correct": 0.2,
+        "readable": 0.93,
+        "quality": 1.24
+      },
+      "requests": 4,
+      "cost_usd": 0.000132342
+    },
+    {
+      "id": "q216-f1",
+      "question": "And what is the easiest part?",
+      "history": [
+        [
+          "What is the hardest part of building software?",
+          "understand the problem"
+        ]
+      ],
+      "answer": "write the code",
+      "ended_by": "stop",
+      "topics": [
+        "software"
+      ],
+      "first_p": 1,
+      "grade": {
+        "correct": 0.66,
+        "readable": 0.97,
+        "quality": 3.28
+      },
+      "requests": 4,
+      "cost_usd": 0.00013838999999999998
+    },
+    {
+      "id": "q209-f1",
+      "question": "So how do I rewrite without failing?",
+      "history": [
+        [
+          "Why do big rewrites fail?",
+          "requirements change technical debt plans change the hard part is people fear the easy part is typing"
+        ]
+      ],
+      "answer": "small steps are safer refactor a test repeat make it work first then make it fast",
+      "ended_by": "max_parts",
+      "topics": [
+        "software"
+      ],
+      "first_p": 0.96,
+      "grade": {
+        "correct": 0.87,
+        "readable": 0.73,
+        "quality": 2.95
+      },
+      "requests": 13,
+      "cost_usd": 0.0005168099999999999
+    },
+    {
+      "id": "q205-f1",
+      "question": "Can that be prevented, or only survived?",
+      "history": [
+        [
+          "What kills most software projects?",
+          "requirements change"
+        ]
+      ],
+      "answer": "small steps are safer build a prototype yes sometimes it depends in some cases",
+      "ended_by": "max_parts",
+      "topics": [
+        "software",
+        "general"
+      ],
+      "first_p": 0.62,
+      "grade": {
+        "correct": 0.34,
+        "readable": 0.49,
+        "quality": 1.74
+      },
+      "requests": 13,
+      "cost_usd": 0.0004793879999999999
+    },
+    {
+      "id": "q092-f1",
+      "question": "What if nobody would ever know?",
+      "history": [
+        [
+          "Should I eat the last slice without asking?",
+          "you should not"
+        ]
+      ],
+      "answer": "but it is wrong because duty matters because the rules exist for a reason you should not because nobody would know because someone would know",
+      "ended_by": "max_parts",
+      "topics": [
+        "morality and choices"
+      ],
+      "first_p": 0.92,
+      "grade": {
+        "correct": 0.48,
+        "readable": 0.36,
+        "quality": 1.86
+      },
+      "requests": 13,
+      "cost_usd": 0.000546546
+    },
+    {
+      "id": "q195-f1",
+      "question": "What if it is only one dollar?",
+      "history": [
+        [
+          "Is it wrong to keep money you find on the street?",
+          "yes"
+        ]
+      ],
+      "answer": "yes but it is wrong but it is permissible it depends",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "morality and choices"
+      ],
+      "first_p": 0.77,
+      "grade": {
+        "correct": 0.22,
+        "readable": 0.4,
+        "quality": 1
+      },
+      "requests": 11,
+      "cost_usd": 0.00045817800000000006
+    },
+    {
+      "id": "q115-f1",
+      "question": "A choice you make once, or every day?",
+      "history": [
+        [
+          "What is the secret to a long marriage?",
+          "love is a choice"
+        ]
+      ],
+      "answer": "love is a choice",
+      "ended_by": "stop",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.39,
+      "grade": {
+        "correct": 0.62,
+        "readable": 0.98,
+        "quality": 2.18
+      },
+      "requests": 4,
+      "cost_usd": 0.000133098
+    },
+    {
+      "id": "q122-f1",
+      "question": "And what do parents need from children?",
+      "history": [
+        [
+          "What do children need most from parents?",
+          "love"
+        ]
+      ],
+      "answer": "respect love trust honesty friendship kindness",
+      "ended_by": "max_parts",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.98,
+      "grade": {
+        "correct": 0.88,
+        "readable": 0.8,
+        "quality": 3.17
+      },
+      "requests": 13,
+      "cost_usd": 0.000471534
+    },
+    {
+      "id": "q281-f1",
+      "question": "Then why does fear win so often?",
+      "history": [
+        [
+          "What is stronger, love or fear?",
+          "love"
+        ]
+      ],
+      "answer": "everyone is afraid sometimes love is a choice courage fear most people everyone",
+      "ended_by": "max_parts",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.89,
+      "grade": {
+        "correct": 0.24,
+        "readable": 0.26,
+        "quality": 1.4
+      },
+      "requests": 13,
+      "cost_usd": 0.00047304599999999997
+    },
+    {
+      "id": "q299-f1",
+      "question": "And what is the opposite of fear?",
+      "history": [
+        [
+          "What is the opposite of loneliness?",
+          "friendship"
+        ]
+      ],
+      "answer": "courage",
+      "ended_by": "stop",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.98,
+      "grade": {
+        "correct": 0.92,
+        "readable": 0.99,
+        "quality": 3.96
+      },
+      "requests": 4,
+      "cost_usd": 0.00013196399999999999
+    },
+    {
+      "id": "q289-f1",
+      "question": "Can it be repaired?",
+      "history": [
+        [
+          "What breaks first in a person?",
+          "trust breaks in a moment trust takes time to build"
+        ]
+      ],
+      "answer": "with time trust takes time to build it takes time give time trust be patient",
+      "ended_by": "max_parts",
+      "topics": [
+        "people and feelings",
+        "general"
+      ],
+      "first_p": 0.68,
+      "grade": {
+        "correct": 0.19,
+        "readable": 0.34,
+        "quality": 1.32
+      },
+      "requests": 13,
+      "cost_usd": 0.00047527199999999994
+    },
+    {
+      "id": "q030-f1",
+      "question": "Does that make life matter more, or less?",
+      "history": [
+        [
+          "Does the universe care about us?",
+          "no"
+        ]
+      ],
+      "answer": "it depends more or less i do not know i cannot say",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.58,
+      "grade": {
+        "correct": 0.34,
+        "readable": 0.66,
+        "quality": 1.4
+      },
+      "requests": 10,
+      "cost_usd": 0.000352674
+    },
+    {
+      "id": "q094-f1",
+      "question": "What do the birds say about us?",
+      "history": [
+        [
+          "Do birds gossip?",
+          "the short answer is yes"
+        ]
+      ],
+      "answer": "",
+      "ended_by": "missing_in_topic",
+      "topics": [],
+      "first_p": 0.78,
+      "grade": {
+        "correct": 0.02,
+        "readable": 0.31,
+        "quality": 0.02
+      },
+      "requests": 3,
+      "cost_usd": 9.5382e-05
+    }
+  ],
+  "requests": 222,
+  "cost_usd": 0.008898,
+  "seconds": 15.4,
+  "ok": 26,
+  "errors": 0
+}

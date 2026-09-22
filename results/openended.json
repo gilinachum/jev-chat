@@ -1,0 +1,1928 @@
+{
+  "runs": [
+    {
+      "question": "What is the biggest risk of artificial intelligence?",
+      "candidates": [
+        {
+          "sentence": "the risk of artificial intelligence",
+          "score": -1.119
+        },
+        {
+          "sentence": "the risk of artificial intelligence is uncertain",
+          "score": -1.242
+        },
+        {
+          "sentence": "the risk of artificial intelligence is unclear",
+          "score": -1.256
+        },
+        {
+          "sentence": "the risk of artificial intelligence is opinion",
+          "score": -1.307
+        },
+        {
+          "sentence": "the worst risk is unclear",
+          "score": -1.322
+        },
+        {
+          "sentence": "the unclear",
+          "score": -1.397
+        },
+        {
+          "sentence": "the worst risk is a threat",
+          "score": -1.411
+        },
+        {
+          "sentence": "the risk of artificial intelligence depends on context",
+          "score": -1.415
+        },
+        {
+          "sentence": "the risk of artificial intelligence is opinion depends from",
+          "score": -1.434
+        },
+        {
+          "sentence": "the risk of intelligence",
+          "score": -1.448
+        },
+        {
+          "sentence": "the risk of artificial intelligence is opinion depends people",
+          "score": -1.466
+        },
+        {
+          "sentence": "the worst risk",
+          "score": -1.468
+        }
+      ],
+      "log": [
+        {
+          "step": 0,
+          "beam": "",
+          "pool": 396,
+          "mode": "tournament",
+          "survivors": 98,
+          "complete": 0.01
+        },
+        {
+          "step": 1,
+          "beam": "the",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.02
+        },
+        {
+          "step": 1,
+          "beam": "jobs",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.6
+        },
+        {
+          "step": 1,
+          "beam": "uncertainty",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.41
+        },
+        {
+          "step": 2,
+          "beam": "the unclear",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.05
+        },
+        {
+          "step": 2,
+          "beam": "the risk",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.04
+        },
+        {
+          "step": 2,
+          "beam": "jobs replace",
+          "pool": 504,
+          "mode": "tournament",
+          "survivors": 126,
+          "complete": 0.51
+        },
+        {
+          "step": 2,
+          "beam": "the worst",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.06
+        },
+        {
+          "step": 3,
+          "beam": "the risk of",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.07
+        },
+        {
+          "step": 3,
+          "beam": "the risk is",
+          "pool": 583,
+          "mode": "tournament",
+          "survivors": 144,
+          "complete": 0.08
+        },
+        {
+          "step": 3,
+          "beam": "the worst risk",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.08
+        },
+        {
+          "step": 3,
+          "beam": "the unclear uncertainty",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.09
+        },
+        {
+          "step": 4,
+          "beam": "the worst risk is",
+          "pool": 583,
+          "mode": "tournament",
+          "survivors": 144,
+          "complete": 0.15
+        },
+        {
+          "step": 4,
+          "beam": "the risk of artificial",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.07
+        },
+        {
+          "step": 4,
+          "beam": "the risk of intelligence",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.13
+        },
+        {
+          "step": 4,
+          "beam": "the risk is unclear",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.47
+        },
+        {
+          "step": 5,
+          "beam": "the risk of artificial intelligence",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.09
+        },
+        {
+          "step": 5,
+          "beam": "the worst risk is unclear",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.49
+        },
+        {
+          "step": 5,
+          "beam": "the worst risk is a",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.12
+        },
+        {
+          "step": 5,
+          "beam": "the worst risk is harm",
+          "pool": 504,
+          "mode": "tournament",
+          "survivors": 126,
+          "complete": 0.55
+        },
+        {
+          "step": 6,
+          "beam": "the risk of artificial intelligence is",
+          "pool": 583,
+          "mode": "tournament",
+          "survivors": 144,
+          "complete": 0.08
+        },
+        {
+          "step": 6,
+          "beam": "the risk of artificial intelligence depends",
+          "pool": 504,
+          "mode": "tournament",
+          "survivors": 126,
+          "complete": 0.31
+        },
+        {
+          "step": 6,
+          "beam": "the worst risk is a threat",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.21
+        },
+        {
+          "step": 6,
+          "beam": "the worst risk is unclear uncertain",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.32
+        },
+        {
+          "step": 7,
+          "beam": "the risk of artificial intelligence is uncertain",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.59
+        },
+        {
+          "step": 7,
+          "beam": "the risk of artificial intelligence is unclear",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.52
+        },
+        {
+          "step": 7,
+          "beam": "the risk of artificial intelligence is opinion",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.31
+        },
+        {
+          "step": 7,
+          "beam": "the risk of artificial intelligence depends on",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.25
+        },
+        {
+          "step": 8,
+          "beam": "the risk of artificial intelligence is opinion depends",
+          "pool": 504,
+          "mode": "tournament",
+          "survivors": 126,
+          "complete": 0.23
+        },
+        {
+          "step": 8,
+          "beam": "the risk of artificial intelligence depends on context",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.73
+        },
+        {
+          "step": 8,
+          "beam": "the risk of artificial intelligence is unclear many",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.16
+        },
+        {
+          "step": 8,
+          "beam": "the risk of artificial intelligence is uncertain many",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.13
+        }
+      ],
+      "by_logprob": "the risk of artificial intelligence",
+      "by_choice": "the risk of artificial intelligence depends on context",
+      "by_choice_conf": 0.48,
+      "by_nouls": "the risk of artificial intelligence depends on context",
+      "noul_scores": {
+        "the risk of artificial intelligence": {
+          "correct": 0.08,
+          "readable": 0.9,
+          "product": 0.072
+        },
+        "the risk of artificial intelligence is uncertain": {
+          "correct": 0.44,
+          "readable": 0.95,
+          "product": 0.418
+        },
+        "the risk of artificial intelligence is unclear": {
+          "correct": 0.31,
+          "readable": 0.91,
+          "product": 0.282
+        },
+        "the risk of artificial intelligence is opinion": {
+          "correct": 0.17,
+          "readable": 0.71,
+          "product": 0.121
+        },
+        "the worst risk is unclear": {
+          "correct": 0.51,
+          "readable": 0.85,
+          "product": 0.433
+        },
+        "the unclear": {
+          "correct": 0.04,
+          "readable": 0.21,
+          "product": 0.008
+        },
+        "the worst risk is a threat": {
+          "correct": 0.08,
+          "readable": 0.65,
+          "product": 0.052
+        },
+        "the risk of artificial intelligence depends on context": {
+          "correct": 0.71,
+          "readable": 0.99,
+          "product": 0.703
+        },
+        "the risk of artificial intelligence is opinion depends from": {
+          "correct": 0.13,
+          "readable": 0.21,
+          "product": 0.027
+        },
+        "the risk of intelligence": {
+          "correct": 0.07,
+          "readable": 0.71,
+          "product": 0.05
+        },
+        "the risk of artificial intelligence is opinion depends people": {
+          "correct": 0.21,
+          "readable": 0.3,
+          "product": 0.063
+        },
+        "the worst risk": {
+          "correct": 0.08,
+          "readable": 0.81,
+          "product": 0.065
+        }
+      },
+      "grades": {
+        "logprob": {
+          "correct": 0.05,
+          "readable": 0.88,
+          "quality": 0.68
+        },
+        "choice": {
+          "correct": 0.59,
+          "readable": 0.98,
+          "quality": 1.82
+        },
+        "nouls": {
+          "correct": 0.58,
+          "readable": 0.98,
+          "quality": 1.72
+        }
+      }
+    },
+    {
+      "question": "Should a machine be allowed to make moral decisions?",
+      "candidates": [
+        {
+          "sentence": "sometimes depends on the context",
+          "score": -1.329
+        },
+        {
+          "sentence": "sometimes depends on context",
+          "score": -1.392
+        },
+        {
+          "sentence": "sometimes depends of the context",
+          "score": -1.421
+        },
+        {
+          "sentence": "sometimes depends of context",
+          "score": -1.54
+        },
+        {
+          "sentence": "sometimes depends",
+          "score": -1.551
+        },
+        {
+          "sentence": "sometimes depends on the context in the",
+          "score": -1.637
+        },
+        {
+          "sentence": "sometimes depends of the context on",
+          "score": -1.653
+        },
+        {
+          "sentence": "sometimes depends on the context in the matter",
+          "score": -1.654
+        },
+        {
+          "sentence": "no",
+          "score": -1.661
+        },
+        {
+          "sentence": "sometimes depends of the context on the task",
+          "score": -1.668
+        },
+        {
+          "sentence": "sometimes depends on the context in the question",
+          "score": -1.698
+        },
+        {
+          "sentence": "sometimes depends on the context of the question",
+          "score": -1.727
+        }
+      ],
+      "log": [
+        {
+          "step": 0,
+          "beam": "",
+          "pool": 396,
+          "mode": "tournament",
+          "survivors": 98,
+          "complete": 0.01
+        },
+        {
+          "step": 1,
+          "beam": "no",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.64
+        },
+        {
+          "step": 1,
+          "beam": "sometimes",
+          "pool": 360,
+          "mode": "tournament",
+          "survivors": 89,
+          "complete": 0.65
+        },
+        {
+          "step": 1,
+          "beam": "opinion",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.07
+        },
+        {
+          "step": 2,
+          "beam": "sometimes depends",
+          "pool": 504,
+          "mode": "tournament",
+          "survivors": 126,
+          "complete": 0.57
+        },
+        {
+          "step": 2,
+          "beam": "no reason",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.15
+        },
+        {
+          "step": 2,
+          "beam": "no reasons",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.2
+        },
+        {
+          "step": 2,
+          "beam": "opinion depends",
+          "pool": 504,
+          "mode": "tournament",
+          "survivors": 126,
+          "complete": 0.3
+        },
+        {
+          "step": 3,
+          "beam": "sometimes depends on",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.29
+        },
+        {
+          "step": 3,
+          "beam": "sometimes depends of",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.15
+        },
+        {
+          "step": 3,
+          "beam": "no reason for",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.12
+        },
+        {
+          "step": 3,
+          "beam": "no reason is",
+          "pool": 583,
+          "mode": "tournament",
+          "survivors": 144,
+          "complete": 0.07
+        },
+        {
+          "step": 4,
+          "beam": "sometimes depends on context",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.68
+        },
+        {
+          "step": 4,
+          "beam": "sometimes depends of context",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.63
+        },
+        {
+          "step": 4,
+          "beam": "sometimes depends on the",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.26
+        },
+        {
+          "step": 4,
+          "beam": "sometimes depends of the",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.16
+        },
+        {
+          "step": 5,
+          "beam": "sometimes depends on the context",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.69
+        },
+        {
+          "step": 5,
+          "beam": "sometimes depends of the context",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.66
+        },
+        {
+          "step": 5,
+          "beam": "sometimes depends on context in",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.34
+        },
+        {
+          "step": 5,
+          "beam": "sometimes depends of context on",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.27
+        },
+        {
+          "step": 6,
+          "beam": "sometimes depends of the context on",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.29
+        },
+        {
+          "step": 6,
+          "beam": "sometimes depends on the context in",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.35
+        },
+        {
+          "step": 6,
+          "beam": "sometimes depends on context in the",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.31
+        },
+        {
+          "step": 6,
+          "beam": "sometimes depends on the context of",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.32
+        },
+        {
+          "step": 7,
+          "beam": "sometimes depends of the context on the",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.28
+        },
+        {
+          "step": 7,
+          "beam": "sometimes depends on the context in the",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.29
+        },
+        {
+          "step": 7,
+          "beam": "sometimes depends on the context of the",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.33
+        },
+        {
+          "step": 7,
+          "beam": "sometimes depends on context in the question",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.47
+        },
+        {
+          "step": 8,
+          "beam": "sometimes depends on the context in the matter",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.61
+        },
+        {
+          "step": 8,
+          "beam": "sometimes depends of the context on the task",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.6
+        },
+        {
+          "step": 8,
+          "beam": "sometimes depends on the context in the question",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.57
+        },
+        {
+          "step": 8,
+          "beam": "sometimes depends on the context of the question",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.59
+        }
+      ],
+      "by_logprob": "sometimes depends on the context",
+      "by_choice": "sometimes depends on the context",
+      "by_choice_conf": 0.83,
+      "by_nouls": "sometimes depends on context",
+      "noul_scores": {
+        "sometimes depends on the context": {
+          "correct": 0.79,
+          "readable": 0.95,
+          "product": 0.75
+        },
+        "sometimes depends on context": {
+          "correct": 0.8,
+          "readable": 0.94,
+          "product": 0.752
+        },
+        "sometimes depends of the context": {
+          "correct": 0.78,
+          "readable": 0.89,
+          "product": 0.694
+        },
+        "sometimes depends of context": {
+          "correct": 0.76,
+          "readable": 0.87,
+          "product": 0.661
+        },
+        "sometimes depends": {
+          "correct": 0.72,
+          "readable": 0.91,
+          "product": 0.655
+        },
+        "sometimes depends on the context in the": {
+          "correct": 0.63,
+          "readable": 0.5,
+          "product": 0.315
+        },
+        "sometimes depends of the context on": {
+          "correct": 0.62,
+          "readable": 0.42,
+          "product": 0.26
+        },
+        "sometimes depends on the context in the matter": {
+          "correct": 0.76,
+          "readable": 0.82,
+          "product": 0.623
+        },
+        "no": {
+          "correct": 0.47,
+          "readable": 0.98,
+          "product": 0.461
+        },
+        "sometimes depends of the context on the task": {
+          "correct": 0.72,
+          "readable": 0.82,
+          "product": 0.59
+        },
+        "sometimes depends on the context in the question": {
+          "correct": 0.74,
+          "readable": 0.89,
+          "product": 0.659
+        },
+        "sometimes depends on the context of the question": {
+          "correct": 0.76,
+          "readable": 0.91,
+          "product": 0.692
+        }
+      },
+      "grades": {
+        "logprob": {
+          "correct": 0.71,
+          "readable": 0.89,
+          "quality": 2.57
+        },
+        "choice": {
+          "correct": 0.69,
+          "readable": 0.88,
+          "quality": 2.57
+        },
+        "nouls": {
+          "correct": 0.67,
+          "readable": 0.87,
+          "quality": 2.43
+        }
+      }
+    },
+    {
+      "question": "What is intelligence?",
+      "candidates": [
+        {
+          "sentence": "intelligence is a power of mind",
+          "score": -1.036
+        },
+        {
+          "sentence": "intelligence is a power",
+          "score": -1.105
+        },
+        {
+          "sentence": "the intelligence is a power of mind",
+          "score": -1.108
+        },
+        {
+          "sentence": "the intelligence is power",
+          "score": -1.178
+        },
+        {
+          "sentence": "the intelligence is a power",
+          "score": -1.184
+        },
+        {
+          "sentence": "intelligence is a complex process of reasoning",
+          "score": -1.258
+        },
+        {
+          "sentence": "intelligence is a complex process",
+          "score": -1.265
+        },
+        {
+          "sentence": "the intelligence is a power of mind of reasoning",
+          "score": -1.282
+        },
+        {
+          "sentence": "intelligence is a power of reasoning",
+          "score": -1.289
+        },
+        {
+          "sentence": "the intelligence is a power of mind of human",
+          "score": -1.308
+        },
+        {
+          "sentence": "the intelligence is a power of mind of understanding",
+          "score": -1.316
+        },
+        {
+          "sentence": "the intelligence is a power of mind understands to",
+          "score": -1.327
+        }
+      ],
+      "log": [
+        {
+          "step": 0,
+          "beam": "",
+          "pool": 396,
+          "mode": "tournament",
+          "survivors": 98,
+          "complete": 0.01
+        },
+        {
+          "step": 1,
+          "beam": "the",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.01
+        },
+        {
+          "step": 1,
+          "beam": "intelligence",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.05
+        },
+        {
+          "step": 1,
+          "beam": "a",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.02
+        },
+        {
+          "step": 2,
+          "beam": "intelligence is",
+          "pool": 583,
+          "mode": "tournament",
+          "survivors": 144,
+          "complete": 0.06
+        },
+        {
+          "step": 2,
+          "beam": "the intelligence",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.05
+        },
+        {
+          "step": 2,
+          "beam": "the power",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.14
+        },
+        {
+          "step": 2,
+          "beam": "a power",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.38
+        },
+        {
+          "step": 3,
+          "beam": "intelligence is a",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.08
+        },
+        {
+          "step": 3,
+          "beam": "the intelligence is",
+          "pool": 583,
+          "mode": "tournament",
+          "survivors": 144,
+          "complete": 0.05
+        },
+        {
+          "step": 3,
+          "beam": "the power of",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.1
+        },
+        {
+          "step": 3,
+          "beam": "a power of",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.13
+        },
+        {
+          "step": 4,
+          "beam": "intelligence is a power",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.63
+        },
+        {
+          "step": 4,
+          "beam": "intelligence is a complex",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.2
+        },
+        {
+          "step": 4,
+          "beam": "the intelligence is a",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.05
+        },
+        {
+          "step": 4,
+          "beam": "the intelligence is power",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.27
+        },
+        {
+          "step": 5,
+          "beam": "intelligence is a power of",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.2
+        },
+        {
+          "step": 5,
+          "beam": "the intelligence is a power",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.52
+        },
+        {
+          "step": 5,
+          "beam": "intelligence is a complex process",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.55
+        },
+        {
+          "step": 5,
+          "beam": "the intelligence is a complex",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.18
+        },
+        {
+          "step": 6,
+          "beam": "intelligence is a power of mind",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.85
+        },
+        {
+          "step": 6,
+          "beam": "the intelligence is a power of",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.16
+        },
+        {
+          "step": 6,
+          "beam": "intelligence is a power of reasoning",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.86
+        },
+        {
+          "step": 6,
+          "beam": "intelligence is a complex process of",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.2
+        },
+        {
+          "step": 7,
+          "beam": "the intelligence is a power of mind",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.79
+        },
+        {
+          "step": 7,
+          "beam": "intelligence is a power of mind learns",
+          "pool": 504,
+          "mode": "tournament",
+          "survivors": 126,
+          "complete": 0.27
+        },
+        {
+          "step": 7,
+          "beam": "intelligence is a complex process of reasoning",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.7
+        },
+        {
+          "step": 7,
+          "beam": "intelligence is a power of mind understands",
+          "pool": 504,
+          "mode": "tournament",
+          "survivors": 126,
+          "complete": 0.36
+        },
+        {
+          "step": 8,
+          "beam": "the intelligence is a power of mind of",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.15
+        },
+        {
+          "step": 8,
+          "beam": "the intelligence is a power of mind understands",
+          "pool": 504,
+          "mode": "tournament",
+          "survivors": 126,
+          "complete": 0.37
+        },
+        {
+          "step": 8,
+          "beam": "intelligence is a power of mind learns that",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.12
+        },
+        {
+          "step": 8,
+          "beam": "intelligence is a power of mind understands and",
+          "pool": 662,
+          "mode": "tournament",
+          "survivors": 164,
+          "complete": 0.16
+        }
+      ],
+      "by_logprob": "intelligence is a power of mind",
+      "by_choice": "intelligence is a power of mind",
+      "by_choice_conf": 0.72,
+      "by_nouls": "intelligence is a power of reasoning",
+      "noul_scores": {
+        "intelligence is a power of mind": {
+          "correct": 0.77,
+          "readable": 0.91,
+          "product": 0.701
+        },
+        "intelligence is a power": {
+          "correct": 0.5,
+          "readable": 0.9,
+          "product": 0.45
+        },
+        "the intelligence is a power of mind": {
+          "correct": 0.75,
+          "readable": 0.62,
+          "product": 0.465
+        },
+        "the intelligence is power": {
+          "correct": 0.12,
+          "readable": 0.71,
+          "product": 0.085
+        },
+        "the intelligence is a power": {
+          "correct": 0.44,
+          "readable": 0.52,
+          "product": 0.229
+        },
+        "intelligence is a complex process of reasoning": {
+          "correct": 0.66,
+          "readable": 0.97,
+          "product": 0.64
+        },
+        "intelligence is a complex process": {
+          "correct": 0.6,
+          "readable": 0.96,
+          "product": 0.576
+        },
+        "the intelligence is a power of mind of reasoning": {
+          "correct": 0.79,
+          "readable": 0.66,
+          "product": 0.521
+        },
+        "intelligence is a power of reasoning": {
+          "correct": 0.83,
+          "readable": 0.96,
+          "product": 0.797
+        },
+        "the intelligence is a power of mind of human": {
+          "correct": 0.69,
+          "readable": 0.6,
+          "product": 0.414
+        },
+        "the intelligence is a power of mind of understanding": {
+          "correct": 0.79,
+          "readable": 0.6,
+          "product": 0.474
+        },
+        "the intelligence is a power of mind understands to": {
+          "correct": 0.27,
+          "readable": 0.13,
+          "product": 0.035
+        }
+      },
+      "grades": {
+        "logprob": {
+          "correct": 0.72,
+          "readable": 0.97,
+          "quality": 2.69
+        },
+        "choice": {
+          "correct": 0.72,
+          "readable": 0.97,
+          "quality": 2.64
+        },
+        "nouls": {
+          "correct": 0.79,
+          "readable": 0.98,
+          "quality": 3.17
+        }
+      }
+    },
+    {
+      "question": "Will machines replace human workers?",
+      "candidates": [
+        {
+          "sentence": "some many",
+          "score": -1.368
+        },
+        {
+          "sentence": "some many few",
+          "score": -1.523
+        },
+        {
+          "sentence": "some jobs replace but create new",
+          "score": -1.556
+        },
+        {
+          "sentence": "some jobs replace but create new roles",
+          "score": -1.714
+        },
+        {
+          "sentence": "some jobs replace but depends",
+          "score": -1.759
+        },
+        {
+          "sentence": "some jobs replace but create new different",
+          "score": -1.762
+        },
+        {
+          "sentence": "eventually likely",
+          "score": -1.806
+        },
+        {
+          "sentence": "some jobs replace but create and new job",
+          "score": -1.806
+        },
+        {
+          "sentence": "some jobs replace but create and new",
+          "score": -1.811
+        },
+        {
+          "sentence": "some jobs replace but create new different job",
+          "score": -1.817
+        },
+        {
+          "sentence": "some many few jobs",
+          "score": -1.846
+        },
+        {
+          "sentence": "some jobs replace but create and new job creates",
+          "score": -1.851
+        }
+      ],
+      "log": [
+        {
+          "step": 0,
+          "beam": "",
+          "pool": 396,
+          "mode": "tournament",
+          "survivors": 98,
+          "complete": 0.01
+        },
+        {
+          "step": 1,
+          "beam": "some",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.34
+        },
+        {
+          "step": 1,
+          "beam": "eventually",
+          "pool": 360,
+          "mode": "tournament",
+          "survivors": 89,
+          "complete": 0.27
+        },
+        {
+          "step": 1,
+          "beam": "no",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.75
+        },
+        {
+          "step": 2,
+          "beam": "some many",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.16
+        },
+        {
+          "step": 2,
+          "beam": "eventually likely",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.62
+        },
+        {
+          "step": 2,
+          "beam": "some jobs",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.47
+        },
+        {
+          "step": 2,
+          "beam": "eventually depends",
+          "pool": 504,
+          "mode": "tournament",
+          "survivors": 126,
+          "complete": 0.49
+        },
+        {
+          "step": 3,
+          "beam": "some many few",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.16
+        },
+        {
+          "step": 3,
+          "beam": "some jobs replace",
+          "pool": 504,
+          "mode": "tournament",
+          "survivors": 126,
+          "complete": 0.41
+        },
+        {
+          "step": 3,
+          "beam": "some many jobs",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.2
+        },
+        {
+          "step": 3,
+          "beam": "some jobs only",
+          "pool": 360,
+          "mode": "tournament",
+          "survivors": 89,
+          "complete": 0.62
+        },
+        {
+          "step": 4,
+          "beam": "some jobs replace but",
+          "pool": 662,
+          "mode": "tournament",
+          "survivors": 164,
+          "complete": 0.44
+        },
+        {
+          "step": 4,
+          "beam": "some many few jobs",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.2
+        },
+        {
+          "step": 4,
+          "beam": "some many few unclear",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.19
+        },
+        {
+          "step": 4,
+          "beam": "some many jobs in",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.1
+        },
+        {
+          "step": 5,
+          "beam": "some jobs replace but create",
+          "pool": 504,
+          "mode": "tournament",
+          "survivors": 126,
+          "complete": 0.4
+        },
+        {
+          "step": 5,
+          "beam": "some jobs replace but depends",
+          "pool": 504,
+          "mode": "tournament",
+          "survivors": 126,
+          "complete": 0.74
+        },
+        {
+          "step": 5,
+          "beam": "some jobs replace but new",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.44
+        },
+        {
+          "step": 5,
+          "beam": "some many few jobs of",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.07
+        },
+        {
+          "step": 6,
+          "beam": "some jobs replace but create new",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.68
+        },
+        {
+          "step": 6,
+          "beam": "some many few jobs of the",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.07
+        },
+        {
+          "step": 6,
+          "beam": "some jobs replace but create and",
+          "pool": 662,
+          "mode": "tournament",
+          "survivors": 164,
+          "complete": 0.28
+        },
+        {
+          "step": 6,
+          "beam": "some jobs replace but depends in",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.31
+        },
+        {
+          "step": 7,
+          "beam": "some jobs replace but create new roles",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.76
+        },
+        {
+          "step": 7,
+          "beam": "some jobs replace but create new different",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.57
+        },
+        {
+          "step": 7,
+          "beam": "some jobs replace but create and new",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.32
+        },
+        {
+          "step": 7,
+          "beam": "some jobs replace but depends in context",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.81
+        },
+        {
+          "step": 8,
+          "beam": "some jobs replace but create and new job",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.51
+        },
+        {
+          "step": 8,
+          "beam": "some jobs replace but create new different job",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.67
+        },
+        {
+          "step": 8,
+          "beam": "some jobs replace but create new different roles",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.77
+        },
+        {
+          "step": 8,
+          "beam": "some jobs replace but create new roles and",
+          "pool": 662,
+          "mode": "tournament",
+          "survivors": 164,
+          "complete": 0.53
+        }
+      ],
+      "by_logprob": "some many",
+      "by_choice": "some jobs replace but create new",
+      "by_choice_conf": 0.53,
+      "by_nouls": "some jobs replace but create new roles",
+      "noul_scores": {
+        "some many": {
+          "correct": 0.23,
+          "readable": 0.18,
+          "product": 0.041
+        },
+        "some many few": {
+          "correct": 0.22,
+          "readable": 0.15,
+          "product": 0.033
+        },
+        "some jobs replace but create new": {
+          "correct": 0.83,
+          "readable": 0.8,
+          "product": 0.664
+        },
+        "some jobs replace but create new roles": {
+          "correct": 0.85,
+          "readable": 0.85,
+          "product": 0.722
+        },
+        "some jobs replace but depends": {
+          "correct": 0.78,
+          "readable": 0.77,
+          "product": 0.601
+        },
+        "some jobs replace but create new different": {
+          "correct": 0.83,
+          "readable": 0.71,
+          "product": 0.589
+        },
+        "eventually likely": {
+          "correct": 0.59,
+          "readable": 0.86,
+          "product": 0.507
+        },
+        "some jobs replace but create and new job": {
+          "correct": 0.79,
+          "readable": 0.49,
+          "product": 0.387
+        },
+        "some jobs replace but create and new": {
+          "correct": 0.79,
+          "readable": 0.44,
+          "product": 0.348
+        },
+        "some jobs replace but create new different job": {
+          "correct": 0.83,
+          "readable": 0.69,
+          "product": 0.573
+        },
+        "some many few jobs": {
+          "correct": 0.29,
+          "readable": 0.16,
+          "product": 0.046
+        },
+        "some jobs replace but create and new job creates": {
+          "correct": 0.77,
+          "readable": 0.48,
+          "product": 0.37
+        }
+      },
+      "grades": {
+        "logprob": {
+          "correct": 0.21,
+          "readable": 0.17,
+          "quality": 1.3
+        },
+        "choice": {
+          "correct": 0.78,
+          "readable": 0.77,
+          "quality": 2.66
+        },
+        "nouls": {
+          "correct": 0.82,
+          "readable": 0.78,
+          "quality": 2.9
+        }
+      }
+    },
+    {
+      "question": "Do machines understand language?",
+      "candidates": [
+        {
+          "sentence": "no",
+          "score": -0.462
+        },
+        {
+          "sentence": "no limited shallow surface only",
+          "score": -1.7
+        },
+        {
+          "sentence": "no limited shallow",
+          "score": -1.706
+        },
+        {
+          "sentence": "no limited",
+          "score": -1.729
+        },
+        {
+          "sentence": "no limited deep surface only shallow",
+          "score": -1.784
+        },
+        {
+          "sentence": "no limited deep surface only",
+          "score": -1.855
+        },
+        {
+          "sentence": "no limited shallow surface",
+          "score": -1.855
+        },
+        {
+          "sentence": "no limited deep surface only shallow pattern",
+          "score": -1.873
+        },
+        {
+          "sentence": "no limited shallow surface only pretends",
+          "score": -1.886
+        },
+        {
+          "sentence": "no limited shallow understanding only",
+          "score": -1.889
+        },
+        {
+          "sentence": "no limited deep shallow",
+          "score": -1.898
+        },
+        {
+          "sentence": "no limited shallow surface only pretend",
+          "score": -1.916
+        }
+      ],
+      "log": [
+        {
+          "step": 0,
+          "beam": "",
+          "pool": 396,
+          "mode": "tournament",
+          "survivors": 98,
+          "complete": 0.01
+        },
+        {
+          "step": 1,
+          "beam": "no",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.82
+        },
+        {
+          "step": 1,
+          "beam": "they",
+          "pool": 161,
+          "mode": "single",
+          "complete": 0.1
+        },
+        {
+          "step": 1,
+          "beam": "truly",
+          "pool": 360,
+          "mode": "tournament",
+          "survivors": 89,
+          "complete": 0.19
+        },
+        {
+          "step": 2,
+          "beam": "no limited",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.43
+        },
+        {
+          "step": 2,
+          "beam": "truly no",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.7
+        },
+        {
+          "step": 2,
+          "beam": "no understanding",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.73
+        },
+        {
+          "step": 2,
+          "beam": "they don't",
+          "pool": 583,
+          "mode": "tournament",
+          "survivors": 144,
+          "complete": 0.72
+        },
+        {
+          "step": 3,
+          "beam": "no limited shallow",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.51
+        },
+        {
+          "step": 3,
+          "beam": "no limited deep",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.38
+        },
+        {
+          "step": 3,
+          "beam": "no understanding doesn't",
+          "pool": 583,
+          "mode": "tournament",
+          "survivors": 144,
+          "complete": 0.21
+        },
+        {
+          "step": 3,
+          "beam": "they don't truly",
+          "pool": 360,
+          "mode": "tournament",
+          "survivors": 89,
+          "complete": 0.73
+        },
+        {
+          "step": 4,
+          "beam": "no limited shallow surface",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.5
+        },
+        {
+          "step": 4,
+          "beam": "no limited deep shallow",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.35
+        },
+        {
+          "step": 4,
+          "beam": "no limited shallow understanding",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.73
+        },
+        {
+          "step": 4,
+          "beam": "no limited deep surface",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.31
+        },
+        {
+          "step": 5,
+          "beam": "no limited shallow surface only",
+          "pool": 360,
+          "mode": "tournament",
+          "survivors": 89,
+          "complete": 0.65
+        },
+        {
+          "step": 5,
+          "beam": "no limited deep surface only",
+          "pool": 360,
+          "mode": "tournament",
+          "survivors": 89,
+          "complete": 0.45
+        },
+        {
+          "step": 5,
+          "beam": "no limited shallow understanding only",
+          "pool": 360,
+          "mode": "tournament",
+          "survivors": 89,
+          "complete": 0.78
+        },
+        {
+          "step": 5,
+          "beam": "no limited deep shallow surface",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.31
+        },
+        {
+          "step": 6,
+          "beam": "no limited deep surface only shallow",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.42
+        },
+        {
+          "step": 6,
+          "beam": "no limited shallow surface only pretends",
+          "pool": 504,
+          "mode": "tournament",
+          "survivors": 126,
+          "complete": 0.65
+        },
+        {
+          "step": 6,
+          "beam": "no limited shallow surface only pretend",
+          "pool": 504,
+          "mode": "tournament",
+          "survivors": 126,
+          "complete": 0.64
+        },
+        {
+          "step": 6,
+          "beam": "no limited deep shallow surface only",
+          "pool": 360,
+          "mode": "tournament",
+          "survivors": 89,
+          "complete": 0.42
+        },
+        {
+          "step": 7,
+          "beam": "no limited deep surface only shallow pattern",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.5
+        },
+        {
+          "step": 7,
+          "beam": "no limited deep surface only shallow rules",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.57
+        },
+        {
+          "step": 7,
+          "beam": "no limited shallow surface only pretends merely",
+          "pool": 360,
+          "mode": "tournament",
+          "survivors": 89,
+          "complete": 0.52
+        },
+        {
+          "step": 7,
+          "beam": "no limited deep shallow surface only of",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.22
+        },
+        {
+          "step": 8,
+          "beam": "no limited deep surface only shallow pattern on",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.25
+        },
+        {
+          "step": 8,
+          "beam": "no limited deep shallow surface only of the",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.18
+        },
+        {
+          "step": 8,
+          "beam": "no limited deep surface only shallow rules on",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.28
+        },
+        {
+          "step": 8,
+          "beam": "no limited deep surface only shallow pattern of",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.27
+        }
+      ],
+      "by_logprob": "no",
+      "by_choice": "no limited shallow surface only",
+      "by_choice_conf": 0.2,
+      "by_nouls": "no",
+      "noul_scores": {
+        "no": {
+          "correct": 0.6,
+          "readable": 0.97,
+          "product": 0.582
+        },
+        "no limited shallow surface only": {
+          "correct": 0.64,
+          "readable": 0.35,
+          "product": 0.224
+        },
+        "no limited shallow": {
+          "correct": 0.67,
+          "readable": 0.26,
+          "product": 0.174
+        },
+        "no limited": {
+          "correct": 0.5,
+          "readable": 0.22,
+          "product": 0.11
+        },
+        "no limited deep surface only shallow": {
+          "correct": 0.68,
+          "readable": 0.27,
+          "product": 0.184
+        },
+        "no limited deep surface only": {
+          "correct": 0.69,
+          "readable": 0.27,
+          "product": 0.186
+        },
+        "no limited shallow surface": {
+          "correct": 0.65,
+          "readable": 0.27,
+          "product": 0.176
+        },
+        "no limited deep surface only shallow pattern": {
+          "correct": 0.74,
+          "readable": 0.33,
+          "product": 0.244
+        },
+        "no limited shallow surface only pretends": {
+          "correct": 0.6,
+          "readable": 0.46,
+          "product": 0.276
+        },
+        "no limited shallow understanding only": {
+          "correct": 0.73,
+          "readable": 0.56,
+          "product": 0.409
+        },
+        "no limited deep shallow": {
+          "correct": 0.6,
+          "readable": 0.22,
+          "product": 0.132
+        },
+        "no limited shallow surface only pretend": {
+          "correct": 0.6,
+          "readable": 0.43,
+          "product": 0.258
+        }
+      },
+      "grades": {
+        "logprob": {
+          "correct": 0.62,
+          "readable": 0.98,
+          "quality": 3.03
+        },
+        "choice": {
+          "correct": 0.67,
+          "readable": 0.37,
+          "quality": 2.45
+        },
+        "nouls": {
+          "correct": 0.61,
+          "readable": 0.98,
+          "quality": 2.96
+        }
+      }
+    }
+  ],
+  "requests": 295,
+  "cost_usd": 0.025398113999999996,
+  "seconds": 107.9,
+  "model": "typesafe/jev-1.13-20260917"
+}

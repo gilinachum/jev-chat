@@ -1,0 +1,825 @@
+{
+  "table": {
+    "baseline": {
+      "closed": [
+        3.71,
+        3.94,
+        1.98,
+        3.01,
+        3.98
+      ],
+      "open": [
+        2.03,
+        0.95,
+        3.31,
+        2.95,
+        0.83
+      ]
+    },
+    "fragments": {
+      "closed": [
+        3.74,
+        2.87,
+        1.44,
+        2.49,
+        3.97
+      ],
+      "open": [
+        2.32,
+        2.06,
+        3.21,
+        2.99,
+        2.27
+      ]
+    },
+    "repair": {
+      "closed": [
+        2.85,
+        3.93,
+        1.96,
+        3,
+        3.98
+      ],
+      "open": [
+        3.39,
+        1.9,
+        3.3,
+        2.97,
+        1.51
+      ]
+    },
+    "slots": {
+      "closed": [
+        2.48,
+        3.89,
+        0.66,
+        2.32,
+        3.66
+      ],
+      "open": [
+        2.04,
+        1.24,
+        1.76,
+        1.72,
+        0.43
+      ]
+    },
+    "consistency": {
+      "closed": [
+        3.71,
+        3.94,
+        1.95,
+        2.98,
+        3.98
+      ],
+      "open": [
+        3.33,
+        0.85,
+        3.29,
+        2.91,
+        0.86
+      ]
+    },
+    "cloze": {
+      "closed": [
+        2.69,
+        3.89,
+        0.65,
+        2.45,
+        3.03
+      ],
+      "open": [
+        2.43,
+        2.48,
+        2.46,
+        1.62,
+        1.6
+      ]
+    }
+  },
+  "detail": [
+    {
+      "set": "closed",
+      "question": "Why is the sky blue?",
+      "method": "baseline",
+      "answer": "because the air scatters blue light",
+      "grade": {
+        "correct": 0.92,
+        "readable": 0.98,
+        "quality": 3.71
+      },
+      "requests": 13
+    },
+    {
+      "set": "closed",
+      "question": "Why is the sky blue?",
+      "method": "fragments",
+      "answer": "because the air scatters blue light",
+      "grade": {
+        "correct": 0.92,
+        "readable": 0.98,
+        "quality": 3.74
+      },
+      "requests": 5
+    },
+    {
+      "set": "closed",
+      "question": "Why is the sky blue?",
+      "method": "repair",
+      "answer": "and its because of the air scatters blue light",
+      "grade": {
+        "correct": 0.86,
+        "readable": 0.69,
+        "quality": 2.85
+      },
+      "requests": 16
+    },
+    {
+      "set": "closed",
+      "question": "Why is the sky blue?",
+      "method": "slots",
+      "answer": "the sky scatters blue",
+      "grade": {
+        "correct": 0.61,
+        "readable": 0.71,
+        "quality": 2.48
+      },
+      "requests": 2
+    },
+    {
+      "set": "closed",
+      "question": "Why is the sky blue?",
+      "method": "consistency",
+      "answer": "because the air scatters blue light",
+      "grade": {
+        "correct": 0.92,
+        "readable": 0.98,
+        "quality": 3.71
+      },
+      "requests": 39
+    },
+    {
+      "set": "closed",
+      "question": "Why is the sky blue?",
+      "method": "cloze",
+      "answer": "because the air scatters light",
+      "grade": {
+        "correct": 0.8,
+        "readable": 0.98,
+        "quality": 2.69
+      },
+      "requests": 3
+    },
+    {
+      "set": "closed",
+      "question": "What happens to water when it freezes?",
+      "method": "baseline",
+      "answer": "it becomes ice",
+      "grade": {
+        "correct": 0.98,
+        "readable": 0.99,
+        "quality": 3.94
+      },
+      "requests": 7
+    },
+    {
+      "set": "closed",
+      "question": "What happens to water when it freezes?",
+      "method": "fragments",
+      "answer": "turns into ice is",
+      "grade": {
+        "correct": 0.89,
+        "readable": 0.37,
+        "quality": 2.87
+      },
+      "requests": 4
+    },
+    {
+      "set": "closed",
+      "question": "What happens to water when it freezes?",
+      "method": "repair",
+      "answer": "it becomes ice",
+      "grade": {
+        "correct": 0.98,
+        "readable": 0.99,
+        "quality": 3.93
+      },
+      "requests": 8
+    },
+    {
+      "set": "closed",
+      "question": "What happens to water when it freezes?",
+      "method": "slots",
+      "answer": "water becomes ice",
+      "grade": {
+        "correct": 0.97,
+        "readable": 0.99,
+        "quality": 3.89
+      },
+      "requests": 2
+    },
+    {
+      "set": "closed",
+      "question": "What happens to water when it freezes?",
+      "method": "consistency",
+      "answer": "it becomes ice",
+      "grade": {
+        "correct": 0.98,
+        "readable": 0.99,
+        "quality": 3.94
+      },
+      "requests": 19
+    },
+    {
+      "set": "closed",
+      "question": "What happens to water when it freezes?",
+      "method": "cloze",
+      "answer": "water becomes ice",
+      "grade": {
+        "correct": 0.98,
+        "readable": 0.99,
+        "quality": 3.89
+      },
+      "requests": 3
+    },
+    {
+      "set": "closed",
+      "question": "How does a caterpillar become a butterfly?",
+      "method": "baseline",
+      "answer": "a process of change through stage",
+      "grade": {
+        "correct": 0.55,
+        "readable": 0.76,
+        "quality": 1.98
+      },
+      "requests": 12
+    },
+    {
+      "set": "closed",
+      "question": "How does a caterpillar become a butterfly?",
+      "method": "fragments",
+      "answer": "becomes turns into a butterfly",
+      "grade": {
+        "correct": 0.13,
+        "readable": 0.46,
+        "quality": 1.44
+      },
+      "requests": 5
+    },
+    {
+      "set": "closed",
+      "question": "How does a caterpillar become a butterfly?",
+      "method": "repair",
+      "answer": "a process of change through stage",
+      "grade": {
+        "correct": 0.59,
+        "readable": 0.74,
+        "quality": 1.96
+      },
+      "requests": 13
+    },
+    {
+      "set": "closed",
+      "question": "How does a caterpillar become a butterfly?",
+      "method": "slots",
+      "answer": "a caterpillar explains change",
+      "grade": {
+        "correct": 0.07,
+        "readable": 0.7,
+        "quality": 0.66
+      },
+      "requests": 2
+    },
+    {
+      "set": "closed",
+      "question": "How does a caterpillar become a butterfly?",
+      "method": "consistency",
+      "answer": "a process of change through stage",
+      "grade": {
+        "correct": 0.56,
+        "readable": 0.74,
+        "quality": 1.95
+      },
+      "requests": 37
+    },
+    {
+      "set": "closed",
+      "question": "How does a caterpillar become a butterfly?",
+      "method": "cloze",
+      "answer": "a caterpillar becomes change",
+      "grade": {
+        "correct": 0.1,
+        "readable": 0.73,
+        "quality": 0.65
+      },
+      "requests": 3
+    },
+    {
+      "set": "closed",
+      "question": "Why do birds build nests?",
+      "method": "baseline",
+      "answer": "to lay eggs",
+      "grade": {
+        "correct": 0.87,
+        "readable": 0.98,
+        "quality": 3.01
+      },
+      "requests": 7
+    },
+    {
+      "set": "closed",
+      "question": "Why do birds build nests?",
+      "method": "fragments",
+      "answer": "because they lays eggs",
+      "grade": {
+        "correct": 0.66,
+        "readable": 0.48,
+        "quality": 2.49
+      },
+      "requests": 4
+    },
+    {
+      "set": "closed",
+      "question": "Why do birds build nests?",
+      "method": "repair",
+      "answer": "to lay eggs",
+      "grade": {
+        "correct": 0.87,
+        "readable": 0.98,
+        "quality": 3
+      },
+      "requests": 8
+    },
+    {
+      "set": "closed",
+      "question": "Why do birds build nests?",
+      "method": "slots",
+      "answer": "a bird explains safety",
+      "grade": {
+        "correct": 0.75,
+        "readable": 0.58,
+        "quality": 2.32
+      },
+      "requests": 2
+    },
+    {
+      "set": "closed",
+      "question": "Why do birds build nests?",
+      "method": "consistency",
+      "answer": "to lay eggs",
+      "grade": {
+        "correct": 0.86,
+        "readable": 0.98,
+        "quality": 2.98
+      },
+      "requests": 25
+    },
+    {
+      "set": "closed",
+      "question": "Why do birds build nests?",
+      "method": "cloze",
+      "answer": "because they lays young",
+      "grade": {
+        "correct": 0.58,
+        "readable": 0.31,
+        "quality": 2.45
+      },
+      "requests": 3
+    },
+    {
+      "set": "closed",
+      "question": "What do bees make?",
+      "method": "baseline",
+      "answer": "honey",
+      "grade": {
+        "correct": 0.98,
+        "readable": 0.99,
+        "quality": 3.98
+      },
+      "requests": 4
+    },
+    {
+      "set": "closed",
+      "question": "What do bees make?",
+      "method": "fragments",
+      "answer": "honey",
+      "grade": {
+        "correct": 0.98,
+        "readable": 0.99,
+        "quality": 3.97
+      },
+      "requests": 3
+    },
+    {
+      "set": "closed",
+      "question": "What do bees make?",
+      "method": "repair",
+      "answer": "honey",
+      "grade": {
+        "correct": 0.98,
+        "readable": 0.99,
+        "quality": 3.98
+      },
+      "requests": 5
+    },
+    {
+      "set": "closed",
+      "question": "What do bees make?",
+      "method": "slots",
+      "answer": "a bee makes honey",
+      "grade": {
+        "correct": 0.95,
+        "readable": 0.97,
+        "quality": 3.66
+      },
+      "requests": 2
+    },
+    {
+      "set": "closed",
+      "question": "What do bees make?",
+      "method": "consistency",
+      "answer": "honey",
+      "grade": {
+        "correct": 0.98,
+        "readable": 0.99,
+        "quality": 3.98
+      },
+      "requests": 10
+    },
+    {
+      "set": "closed",
+      "question": "What do bees make?",
+      "method": "cloze",
+      "answer": "they makes honey",
+      "grade": {
+        "correct": 0.92,
+        "readable": 0.53,
+        "quality": 3.03
+      },
+      "requests": 3
+    },
+    {
+      "set": "open",
+      "question": "What is intelligence?",
+      "method": "baseline",
+      "answer": "the meaning is a understanding of reasoning",
+      "grade": {
+        "correct": 0.33,
+        "readable": 0.67,
+        "quality": 2.03
+      },
+      "requests": 14
+    },
+    {
+      "set": "open",
+      "question": "What is intelligence?",
+      "method": "fragments",
+      "answer": "intelligence is good judgment",
+      "grade": {
+        "correct": 0.38,
+        "readable": 0.98,
+        "quality": 2.32
+      },
+      "requests": 4
+    },
+    {
+      "set": "open",
+      "question": "What is intelligence?",
+      "method": "repair",
+      "answer": "the power of reasoning",
+      "grade": {
+        "correct": 0.81,
+        "readable": 0.97,
+        "quality": 3.39
+      },
+      "requests": 10
+    },
+    {
+      "set": "open",
+      "question": "What is intelligence?",
+      "method": "slots",
+      "answer": "intelligence explains understanding",
+      "grade": {
+        "correct": 0.4,
+        "readable": 0.9,
+        "quality": 2.04
+      },
+      "requests": 2
+    },
+    {
+      "set": "open",
+      "question": "What is intelligence?",
+      "method": "consistency",
+      "answer": "the power of reasoning",
+      "grade": {
+        "correct": 0.8,
+        "readable": 0.97,
+        "quality": 3.33
+      },
+      "requests": 25
+    },
+    {
+      "set": "open",
+      "question": "What is intelligence?",
+      "method": "cloze",
+      "answer": "intelligence is understanding",
+      "grade": {
+        "correct": 0.57,
+        "readable": 0.98,
+        "quality": 2.43
+      },
+      "requests": 3
+    },
+    {
+      "set": "open",
+      "question": "Will machines replace human workers?",
+      "method": "baseline",
+      "answer": "some many few",
+      "grade": {
+        "correct": 0.2,
+        "readable": 0.15,
+        "quality": 0.95
+      },
+      "requests": 9
+    },
+    {
+      "set": "open",
+      "question": "Will machines replace human workers?",
+      "method": "fragments",
+      "answer": "it depends",
+      "grade": {
+        "correct": 0.73,
+        "readable": 0.98,
+        "quality": 2.06
+      },
+      "requests": 3
+    },
+    {
+      "set": "open",
+      "question": "Will machines replace human workers?",
+      "method": "repair",
+      "answer": "some and it is many few",
+      "grade": {
+        "correct": 0.35,
+        "readable": 0.21,
+        "quality": 1.9
+      },
+      "requests": 12
+    },
+    {
+      "set": "open",
+      "question": "Will machines replace human workers?",
+      "method": "slots",
+      "answer": "machines over time replaces unclear",
+      "grade": {
+        "correct": 0.14,
+        "readable": 0.32,
+        "quality": 1.24
+      },
+      "requests": 2
+    },
+    {
+      "set": "open",
+      "question": "Will machines replace human workers?",
+      "method": "consistency",
+      "answer": "some many few",
+      "grade": {
+        "correct": 0.18,
+        "readable": 0.15,
+        "quality": 0.85
+      },
+      "requests": 25
+    },
+    {
+      "set": "open",
+      "question": "Will machines replace human workers?",
+      "method": "cloze",
+      "answer": "it depends on context",
+      "grade": {
+        "correct": 0.77,
+        "readable": 0.98,
+        "quality": 2.48
+      },
+      "requests": 3
+    },
+    {
+      "set": "open",
+      "question": "Should a machine be allowed to make moral decisions?",
+      "method": "baseline",
+      "answer": "no",
+      "grade": {
+        "correct": 0.54,
+        "readable": 0.98,
+        "quality": 3.31
+      },
+      "requests": 5
+    },
+    {
+      "set": "open",
+      "question": "Should a machine be allowed to make moral decisions?",
+      "method": "fragments",
+      "answer": "yes",
+      "grade": {
+        "correct": 0.55,
+        "readable": 0.99,
+        "quality": 3.21
+      },
+      "requests": 3
+    },
+    {
+      "set": "open",
+      "question": "Should a machine be allowed to make moral decisions?",
+      "method": "repair",
+      "answer": "no",
+      "grade": {
+        "correct": 0.55,
+        "readable": 0.99,
+        "quality": 3.3
+      },
+      "requests": 6
+    },
+    {
+      "set": "open",
+      "question": "Should a machine be allowed to make moral decisions?",
+      "method": "slots",
+      "answer": "machines allows judgment",
+      "grade": {
+        "correct": 0.35,
+        "readable": 0.31,
+        "quality": 1.76
+      },
+      "requests": 2
+    },
+    {
+      "set": "open",
+      "question": "Should a machine be allowed to make moral decisions?",
+      "method": "consistency",
+      "answer": "no",
+      "grade": {
+        "correct": 0.52,
+        "readable": 0.98,
+        "quality": 3.29
+      },
+      "requests": 11
+    },
+    {
+      "set": "open",
+      "question": "Should a machine be allowed to make moral decisions?",
+      "method": "cloze",
+      "answer": "it depends on context",
+      "grade": {
+        "correct": 0.74,
+        "readable": 0.98,
+        "quality": 2.46
+      },
+      "requests": 3
+    },
+    {
+      "set": "open",
+      "question": "Do machines understand language?",
+      "method": "baseline",
+      "answer": "no",
+      "grade": {
+        "correct": 0.62,
+        "readable": 0.98,
+        "quality": 2.95
+      },
+      "requests": 5
+    },
+    {
+      "set": "open",
+      "question": "Do machines understand language?",
+      "method": "fragments",
+      "answer": "no",
+      "grade": {
+        "correct": 0.63,
+        "readable": 0.98,
+        "quality": 2.99
+      },
+      "requests": 3
+    },
+    {
+      "set": "open",
+      "question": "Do machines understand language?",
+      "method": "repair",
+      "answer": "no",
+      "grade": {
+        "correct": 0.61,
+        "readable": 0.98,
+        "quality": 2.97
+      },
+      "requests": 6
+    },
+    {
+      "set": "open",
+      "question": "Do machines understand language?",
+      "method": "slots",
+      "answer": "machines pretends false",
+      "grade": {
+        "correct": 0.5,
+        "readable": 0.29,
+        "quality": 1.72
+      },
+      "requests": 2
+    },
+    {
+      "set": "open",
+      "question": "Do machines understand language?",
+      "method": "consistency",
+      "answer": "no",
+      "grade": {
+        "correct": 0.6,
+        "readable": 0.98,
+        "quality": 2.91
+      },
+      "requests": 13
+    },
+    {
+      "set": "open",
+      "question": "Do machines understand language?",
+      "method": "cloze",
+      "answer": "it depends on understanding",
+      "grade": {
+        "correct": 0.47,
+        "readable": 0.9,
+        "quality": 1.62
+      },
+      "requests": 3
+    },
+    {
+      "set": "open",
+      "question": "What is the biggest risk of artificial intelligence?",
+      "method": "baseline",
+      "answer": "the unclear uncertainty",
+      "grade": {
+        "correct": 0.16,
+        "readable": 0.49,
+        "quality": 0.83
+      },
+      "requests": 8
+    },
+    {
+      "set": "open",
+      "question": "What is the biggest risk of artificial intelligence?",
+      "method": "fragments",
+      "answer": "too much power",
+      "grade": {
+        "correct": 0.46,
+        "readable": 0.96,
+        "quality": 2.27
+      },
+      "requests": 3
+    },
+    {
+      "set": "open",
+      "question": "What is the biggest risk of artificial intelligence?",
+      "method": "repair",
+      "answer": "the risk is unclear",
+      "grade": {
+        "correct": 0.37,
+        "readable": 0.95,
+        "quality": 1.51
+      },
+      "requests": 11
+    },
+    {
+      "set": "open",
+      "question": "What is the biggest risk of artificial intelligence?",
+      "method": "slots",
+      "answer": "the risk causes safety",
+      "grade": {
+        "correct": 0.05,
+        "readable": 0.43,
+        "quality": 0.43
+      },
+      "requests": 2
+    },
+    {
+      "set": "open",
+      "question": "What is the biggest risk of artificial intelligence?",
+      "method": "consistency",
+      "answer": "the unclear uncertainty",
+      "grade": {
+        "correct": 0.17,
+        "readable": 0.45,
+        "quality": 0.86
+      },
+      "requests": 23
+    },
+    {
+      "set": "open",
+      "question": "What is the biggest risk of artificial intelligence?",
+      "method": "cloze",
+      "answer": "the risk is harm",
+      "grade": {
+        "correct": 0.49,
+        "readable": 0.96,
+        "quality": 1.6
+      },
+      "requests": 3
+    }
+  ],
+  "requests": 493,
+  "cost_usd": 0.03793650000000001,
+  "seconds": 183.9
+}

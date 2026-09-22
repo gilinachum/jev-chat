@@ -1,0 +1,1165 @@
+{
+  "runs": [
+    {
+      "question": "How does a caterpillar become a butterfly?",
+      "candidates": [
+        {
+          "sentence": "a process of change",
+          "score": -1.025
+        },
+        {
+          "sentence": "a process of change through stage",
+          "score": -1.179
+        },
+        {
+          "sentence": "a process of complex change",
+          "score": -1.243
+        },
+        {
+          "sentence": "a process of change is natural",
+          "score": -1.256
+        },
+        {
+          "sentence": "a process of change through steps",
+          "score": -1.257
+        },
+        {
+          "sentence": "a process of change is natural complex",
+          "score": -1.274
+        },
+        {
+          "sentence": "a process of complex change through stage",
+          "score": -1.309
+        },
+        {
+          "sentence": "a process of change through stage in different life",
+          "score": -1.34
+        },
+        {
+          "sentence": "a process of change through stage in life",
+          "score": -1.361
+        },
+        {
+          "sentence": "a process of change is natural complex life through",
+          "score": -1.374
+        },
+        {
+          "sentence": "a process of complex change through stage in different",
+          "score": -1.385
+        },
+        {
+          "sentence": "a process of change is natural complex life happens",
+          "score": -1.413
+        }
+      ],
+      "log": [
+        {
+          "step": 0,
+          "beam": "",
+          "pool": 396,
+          "mode": "tournament",
+          "survivors": 98,
+          "complete": 0.01
+        },
+        {
+          "step": 1,
+          "beam": "a",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.02
+        },
+        {
+          "step": 1,
+          "beam": "the",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.01
+        },
+        {
+          "step": 1,
+          "beam": "it",
+          "pool": 161,
+          "mode": "single",
+          "complete": 0.03
+        },
+        {
+          "step": 2,
+          "beam": "a process",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.21
+        },
+        {
+          "step": 2,
+          "beam": "the process",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.07
+        },
+        {
+          "step": 2,
+          "beam": "it does",
+          "pool": 583,
+          "mode": "tournament",
+          "survivors": 144,
+          "complete": 0.03
+        },
+        {
+          "step": 2,
+          "beam": "the caterpillar",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.04
+        },
+        {
+          "step": 3,
+          "beam": "a process of",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.16
+        },
+        {
+          "step": 3,
+          "beam": "a process through",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.11
+        },
+        {
+          "step": 3,
+          "beam": "a process is",
+          "pool": 583,
+          "mode": "tournament",
+          "survivors": 144,
+          "complete": 0.12
+        },
+        {
+          "step": 3,
+          "beam": "the process is",
+          "pool": 583,
+          "mode": "tournament",
+          "survivors": 144,
+          "complete": 0.06
+        },
+        {
+          "step": 4,
+          "beam": "a process of change",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.37
+        },
+        {
+          "step": 4,
+          "beam": "a process of complex",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.1
+        },
+        {
+          "step": 4,
+          "beam": "the process is complex",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.23
+        },
+        {
+          "step": 4,
+          "beam": "a process is complex",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.17
+        },
+        {
+          "step": 5,
+          "beam": "a process of change through",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.25
+        },
+        {
+          "step": 5,
+          "beam": "a process of change is",
+          "pool": 583,
+          "mode": "tournament",
+          "survivors": 144,
+          "complete": 0.2
+        },
+        {
+          "step": 5,
+          "beam": "a process of complex change",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.42
+        },
+        {
+          "step": 5,
+          "beam": "a process of complex natural",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.11
+        },
+        {
+          "step": 6,
+          "beam": "a process of change through stage",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.5
+        },
+        {
+          "step": 6,
+          "beam": "a process of change is natural",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.23
+        },
+        {
+          "step": 6,
+          "beam": "a process of change through steps",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.56
+        },
+        {
+          "step": 6,
+          "beam": "a process of complex change through",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.24
+        },
+        {
+          "step": 7,
+          "beam": "a process of change is natural complex",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.13
+        },
+        {
+          "step": 7,
+          "beam": "a process of complex change through stage",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.43
+        },
+        {
+          "step": 7,
+          "beam": "a process of change through stage in",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.17
+        },
+        {
+          "step": 7,
+          "beam": "a process of change through stage into",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.15
+        },
+        {
+          "step": 8,
+          "beam": "a process of change is natural complex life",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.12
+        },
+        {
+          "step": 8,
+          "beam": "a process of change through stage in life",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.56
+        },
+        {
+          "step": 8,
+          "beam": "a process of complex change through stage in",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.19
+        },
+        {
+          "step": 8,
+          "beam": "a process of change through stage in different",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.16
+        }
+      ],
+      "result": {
+        "by_logprob": "a process of change",
+        "by_choice": "a process of change through stage",
+        "by_choice_conf": 0.44,
+        "by_nouls": "a process of change through steps",
+        "noul_scores": {
+          "a process of change": {
+            "correct": 0.47,
+            "readable": 0.95,
+            "product": 0.446
+          },
+          "a process of change through stage": {
+            "correct": 0.7,
+            "readable": 0.79,
+            "product": 0.553
+          },
+          "a process of complex change": {
+            "correct": 0.57,
+            "readable": 0.96,
+            "product": 0.547
+          },
+          "a process of change is natural": {
+            "correct": 0.17,
+            "readable": 0.95,
+            "product": 0.162
+          },
+          "a process of change through steps": {
+            "correct": 0.69,
+            "readable": 0.96,
+            "product": 0.662
+          },
+          "a process of change is natural complex": {
+            "correct": 0.14,
+            "readable": 0.4,
+            "product": 0.056
+          },
+          "a process of complex change through stage": {
+            "correct": 0.71,
+            "readable": 0.82,
+            "product": 0.582
+          },
+          "a process of change through stage in different life": {
+            "correct": 0.64,
+            "readable": 0.39,
+            "product": 0.25
+          },
+          "a process of change through stage in life": {
+            "correct": 0.72,
+            "readable": 0.84,
+            "product": 0.605
+          },
+          "a process of change is natural complex life through": {
+            "correct": 0.12,
+            "readable": 0.08,
+            "product": 0.01
+          },
+          "a process of complex change through stage in different": {
+            "correct": 0.45,
+            "readable": 0.25,
+            "product": 0.113
+          },
+          "a process of change is natural complex life happens": {
+            "correct": 0.17,
+            "readable": 0.2,
+            "product": 0.034
+          }
+        },
+        "grade_logprob": {
+          "correct": 0.43,
+          "readable": 0.94,
+          "quality": 1.38
+        },
+        "grade_choice": {
+          "correct": 0.58,
+          "readable": 0.73,
+          "quality": 1.99
+        },
+        "grade_nouls": {
+          "correct": 0.49,
+          "readable": 0.96,
+          "quality": 1.65
+        }
+      },
+      "reference": "it changes inside a hard cocoon",
+      "greedy_mean_quality": 2.11
+    },
+    {
+      "question": "Why do leaves change colour in autumn?",
+      "candidates": [
+        {
+          "sentence": "because the causes are many",
+          "score": -1.102
+        },
+        {
+          "sentence": "because less enough sunlight",
+          "score": -1.118
+        },
+        {
+          "sentence": "because the causes are different",
+          "score": -1.207
+        },
+        {
+          "sentence": "because the causes are many different",
+          "score": -1.246
+        },
+        {
+          "sentence": "because the causes are many different complex processes",
+          "score": -1.25
+        },
+        {
+          "sentence": "because the causes are complex",
+          "score": -1.264
+        },
+        {
+          "sentence": "because the causes are many complex processes",
+          "score": -1.265
+        },
+        {
+          "sentence": "because less enough light",
+          "score": -1.281
+        },
+        {
+          "sentence": "because the causes are complex many different reasons",
+          "score": -1.314
+        },
+        {
+          "sentence": "because the causes are complex many reasons",
+          "score": -1.331
+        },
+        {
+          "sentence": "because the causes are complex many different things",
+          "score": -1.376
+        },
+        {
+          "sentence": "because the causes are many different complex processes and",
+          "score": -1.379
+        }
+      ],
+      "log": [
+        {
+          "step": 0,
+          "beam": "",
+          "pool": 396,
+          "mode": "tournament",
+          "survivors": 98,
+          "complete": 0.01
+        },
+        {
+          "step": 1,
+          "beam": "because",
+          "pool": 383,
+          "mode": "tournament",
+          "survivors": 95,
+          "complete": 0.06
+        },
+        {
+          "step": 1,
+          "beam": "the",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.02
+        },
+        {
+          "step": 1,
+          "beam": "they",
+          "pool": 161,
+          "mode": "single",
+          "complete": 0.03
+        },
+        {
+          "step": 2,
+          "beam": "because that",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.03
+        },
+        {
+          "step": 2,
+          "beam": "because the",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.07
+        },
+        {
+          "step": 2,
+          "beam": "because less",
+          "pool": 360,
+          "mode": "tournament",
+          "survivors": 89,
+          "complete": 0.13
+        },
+        {
+          "step": 2,
+          "beam": "the reason",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.04
+        },
+        {
+          "step": 3,
+          "beam": "because that causes",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.04
+        },
+        {
+          "step": 3,
+          "beam": "because the causes",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.04
+        },
+        {
+          "step": 3,
+          "beam": "because less enough",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.03
+        },
+        {
+          "step": 3,
+          "beam": "because the green",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.17
+        },
+        {
+          "step": 4,
+          "beam": "because the causes are",
+          "pool": 583,
+          "mode": "tournament",
+          "survivors": 144,
+          "complete": 0.07
+        },
+        {
+          "step": 4,
+          "beam": "because less enough sunlight",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.3
+        },
+        {
+          "step": 4,
+          "beam": "because that causes lose",
+          "pool": 504,
+          "mode": "tournament",
+          "survivors": 126,
+          "complete": 0.03
+        },
+        {
+          "step": 4,
+          "beam": "because less enough light",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.22
+        },
+        {
+          "step": 5,
+          "beam": "because the causes are many",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.23
+        },
+        {
+          "step": 5,
+          "beam": "because the causes are different",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.11
+        },
+        {
+          "step": 5,
+          "beam": "because the causes are complex",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.27
+        },
+        {
+          "step": 5,
+          "beam": "because less enough sunlight is",
+          "pool": 583,
+          "mode": "tournament",
+          "survivors": 144,
+          "complete": 0.14
+        },
+        {
+          "step": 6,
+          "beam": "because the causes are many complex",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.17
+        },
+        {
+          "step": 6,
+          "beam": "because the causes are many different",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.18
+        },
+        {
+          "step": 6,
+          "beam": "because the causes are complex many",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.11
+        },
+        {
+          "step": 6,
+          "beam": "because the causes are different reasons",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.11
+        },
+        {
+          "step": 7,
+          "beam": "because the causes are many complex processes",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.28
+        },
+        {
+          "step": 7,
+          "beam": "because the causes are complex many different",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.12
+        },
+        {
+          "step": 7,
+          "beam": "because the causes are many different complex",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.12
+        },
+        {
+          "step": 7,
+          "beam": "because the causes are complex many reasons",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.22
+        },
+        {
+          "step": 8,
+          "beam": "because the causes are many different complex processes",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.36
+        },
+        {
+          "step": 8,
+          "beam": "because the causes are complex many different reasons",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.24
+        },
+        {
+          "step": 8,
+          "beam": "because the causes are complex many different things",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.24
+        },
+        {
+          "step": 8,
+          "beam": "because the causes are complex many reasons for",
+          "pool": 425,
+          "mode": "tournament",
+          "survivors": 105,
+          "complete": 0.15
+        }
+      ],
+      "result": {
+        "by_logprob": "because the causes are many",
+        "by_choice": "because less enough sunlight",
+        "by_choice_conf": 0.3,
+        "by_nouls": "because the causes are many different complex processes",
+        "noul_scores": {
+          "because the causes are many": {
+            "correct": 0.17,
+            "readable": 0.86,
+            "product": 0.146
+          },
+          "because less enough sunlight": {
+            "correct": 0.5,
+            "readable": 0.26,
+            "product": 0.13
+          },
+          "because the causes are different": {
+            "correct": 0.05,
+            "readable": 0.72,
+            "product": 0.036
+          },
+          "because the causes are many different": {
+            "correct": 0.15,
+            "readable": 0.67,
+            "product": 0.101
+          },
+          "because the causes are many different complex processes": {
+            "correct": 0.33,
+            "readable": 0.83,
+            "product": 0.274
+          },
+          "because the causes are complex": {
+            "correct": 0.19,
+            "readable": 0.93,
+            "product": 0.177
+          },
+          "because the causes are many complex processes": {
+            "correct": 0.28,
+            "readable": 0.77,
+            "product": 0.216
+          },
+          "because less enough light": {
+            "correct": 0.4,
+            "readable": 0.21,
+            "product": 0.084
+          },
+          "because the causes are complex many different reasons": {
+            "correct": 0.18,
+            "readable": 0.72,
+            "product": 0.13
+          },
+          "because the causes are complex many reasons": {
+            "correct": 0.2,
+            "readable": 0.54,
+            "product": 0.108
+          },
+          "because the causes are complex many different things": {
+            "correct": 0.22,
+            "readable": 0.73,
+            "product": 0.161
+          },
+          "because the causes are many different complex processes and": {
+            "correct": 0.19,
+            "readable": 0.42,
+            "product": 0.08
+          }
+        },
+        "grade_logprob": {
+          "correct": 0.1,
+          "readable": 0.91,
+          "quality": 0.84
+        },
+        "grade_choice": {
+          "correct": 0.55,
+          "readable": 0.28,
+          "quality": 2.25
+        },
+        "grade_nouls": {
+          "correct": 0.23,
+          "readable": 0.87,
+          "quality": 1.14
+        }
+      },
+      "reference": "the tree stops making green",
+      "greedy_mean_quality": 2.16
+    },
+    {
+      "question": "Why is the sky blue?",
+      "candidates": [
+        {
+          "sentence": "because the air scatters more blue light",
+          "score": -0.607
+        },
+        {
+          "sentence": "because the air scatters blue light",
+          "score": -0.621
+        },
+        {
+          "sentence": "because the air scatters more blue",
+          "score": -0.667
+        },
+        {
+          "sentence": "because the air scatters blue",
+          "score": -0.698
+        },
+        {
+          "sentence": "because the air scatters blue light more",
+          "score": -0.77
+        },
+        {
+          "sentence": "because the air scatters sunlight",
+          "score": -0.793
+        },
+        {
+          "sentence": "because the air scatters sunlight more blue",
+          "score": -0.797
+        },
+        {
+          "sentence": "because the air scatters sunlight more blue short",
+          "score": -0.887
+        },
+        {
+          "sentence": "because the air scatters sunlight more blue short light",
+          "score": -0.915
+        },
+        {
+          "sentence": "because the air scatters sunlight more short blue light",
+          "score": -0.946
+        },
+        {
+          "sentence": "because the air scatters blue light more better",
+          "score": -0.949
+        },
+        {
+          "sentence": "because the air scatters blue sunlight",
+          "score": -0.95
+        }
+      ],
+      "log": [
+        {
+          "step": 0,
+          "beam": "",
+          "pool": 396,
+          "mode": "tournament",
+          "survivors": 98,
+          "complete": 0.01
+        },
+        {
+          "step": 1,
+          "beam": "because",
+          "pool": 383,
+          "mode": "tournament",
+          "survivors": 95,
+          "complete": 0.05
+        },
+        {
+          "step": 1,
+          "beam": "the",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.01
+        },
+        {
+          "step": 1,
+          "beam": "it",
+          "pool": 161,
+          "mode": "single",
+          "complete": 0.04
+        },
+        {
+          "step": 2,
+          "beam": "because the",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.04
+        },
+        {
+          "step": 2,
+          "beam": "because light",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.07
+        },
+        {
+          "step": 2,
+          "beam": "because sunlight",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.09
+        },
+        {
+          "step": 2,
+          "beam": "it is",
+          "pool": 583,
+          "mode": "tournament",
+          "survivors": 144,
+          "complete": 0.03
+        },
+        {
+          "step": 3,
+          "beam": "because the air",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.11
+        },
+        {
+          "step": 3,
+          "beam": "because light scatters",
+          "pool": 504,
+          "mode": "tournament",
+          "survivors": 126,
+          "complete": 0.74
+        },
+        {
+          "step": 3,
+          "beam": "because sunlight scatters",
+          "pool": 504,
+          "mode": "tournament",
+          "survivors": 126,
+          "complete": 0.67
+        },
+        {
+          "step": 3,
+          "beam": "because the sunlight",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.09
+        },
+        {
+          "step": 4,
+          "beam": "because the air scatters",
+          "pool": 504,
+          "mode": "tournament",
+          "survivors": 126,
+          "complete": 0.47
+        },
+        {
+          "step": 4,
+          "beam": "because the air is",
+          "pool": 583,
+          "mode": "tournament",
+          "survivors": 144,
+          "complete": 0.08
+        },
+        {
+          "step": 4,
+          "beam": "because the sunlight scatters",
+          "pool": 504,
+          "mode": "tournament",
+          "survivors": 126,
+          "complete": 0.69
+        },
+        {
+          "step": 4,
+          "beam": "because light scatters blue",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.76
+        },
+        {
+          "step": 5,
+          "beam": "because the air scatters blue",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.8
+        },
+        {
+          "step": 5,
+          "beam": "because the air scatters more",
+          "pool": 360,
+          "mode": "tournament",
+          "survivors": 89,
+          "complete": 0.38
+        },
+        {
+          "step": 5,
+          "beam": "because the air scatters sunlight",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.89
+        },
+        {
+          "step": 5,
+          "beam": "because the air is scatter",
+          "pool": 504,
+          "mode": "tournament",
+          "survivors": 126,
+          "complete": 0.19
+        },
+        {
+          "step": 6,
+          "beam": "because the air scatters blue light",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.94
+        },
+        {
+          "step": 6,
+          "beam": "because the air scatters more blue",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.84
+        },
+        {
+          "step": 6,
+          "beam": "because the air scatters sunlight more",
+          "pool": 360,
+          "mode": "tournament",
+          "survivors": 89,
+          "complete": 0.6
+        },
+        {
+          "step": 6,
+          "beam": "because the air scatters blue sunlight",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.92
+        },
+        {
+          "step": 7,
+          "beam": "because the air scatters more blue light",
+          "pool": 196,
+          "mode": "single",
+          "complete": 0.92
+        },
+        {
+          "step": 7,
+          "beam": "because the air scatters blue light more",
+          "pool": 360,
+          "mode": "tournament",
+          "survivors": 89,
+          "complete": 0.91
+        },
+        {
+          "step": 7,
+          "beam": "because the air scatters sunlight more blue",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.83
+        },
+        {
+          "step": 7,
+          "beam": "because the air scatters sunlight more short",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.46
+        },
+        {
+          "step": 8,
+          "beam": "because the air scatters sunlight more blue short",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.51
+        },
+        {
+          "step": 8,
+          "beam": "because the air scatters blue light more better",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.45
+        },
+        {
+          "step": 8,
+          "beam": "because the air scatters sunlight more short blue",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.59
+        },
+        {
+          "step": 8,
+          "beam": "because the air scatters sunlight more blue better",
+          "pool": 401,
+          "mode": "tournament",
+          "survivors": 99,
+          "complete": 0.43
+        }
+      ],
+      "result": {
+        "by_logprob": "because the air scatters more blue light",
+        "by_choice": "because the air scatters blue light more",
+        "by_choice_conf": 0.31,
+        "by_nouls": "because the air scatters blue light",
+        "noul_scores": {
+          "because the air scatters more blue light": {
+            "correct": 0.94,
+            "readable": 0.97,
+            "product": 0.912
+          },
+          "because the air scatters blue light": {
+            "correct": 0.94,
+            "readable": 0.98,
+            "product": 0.921
+          },
+          "because the air scatters more blue": {
+            "correct": 0.92,
+            "readable": 0.84,
+            "product": 0.773
+          },
+          "because the air scatters blue": {
+            "correct": 0.84,
+            "readable": 0.78,
+            "product": 0.655
+          },
+          "because the air scatters blue light more": {
+            "correct": 0.94,
+            "readable": 0.93,
+            "product": 0.874
+          },
+          "because the air scatters sunlight": {
+            "correct": 0.91,
+            "readable": 0.98,
+            "product": 0.892
+          },
+          "because the air scatters sunlight more blue": {
+            "correct": 0.91,
+            "readable": 0.67,
+            "product": 0.61
+          },
+          "because the air scatters sunlight more blue short": {
+            "correct": 0.83,
+            "readable": 0.36,
+            "product": 0.299
+          },
+          "because the air scatters sunlight more blue short light": {
+            "correct": 0.88,
+            "readable": 0.43,
+            "product": 0.378
+          },
+          "because the air scatters sunlight more short blue light": {
+            "correct": 0.9,
+            "readable": 0.56,
+            "product": 0.504
+          },
+          "because the air scatters blue light more better": {
+            "correct": 0.8,
+            "readable": 0.49,
+            "product": 0.392
+          },
+          "because the air scatters blue sunlight": {
+            "correct": 0.93,
+            "readable": 0.97,
+            "product": 0.902
+          }
+        },
+        "grade_logprob": {
+          "correct": 0.93,
+          "readable": 0.97,
+          "quality": 3.66
+        },
+        "grade_choice": {
+          "correct": 0.93,
+          "readable": 0.94,
+          "quality": 3.5
+        },
+        "grade_nouls": {
+          "correct": 0.92,
+          "readable": 0.98,
+          "quality": 3.73
+        }
+      },
+      "reference": "the air scatters blue light",
+      "greedy_mean_quality": 3.16
+    }
+  ],
+  "beam_width": 4,
+  "requests": 175,
+  "cost_usd": 0.014865396000000003,
+  "seconds": 64.0,
+  "model": "typesafe/jev-1.13-20260917"
+}

@@ -1,0 +1,334 @@
+{
+  "rows": [
+    {
+      "id": "q287-f2",
+      "question": "Why do people avoid talking about love?",
+      "history": [
+        [
+          "What do people talk about too much?",
+          "the weather"
+        ],
+        [
+          "And what do people talk about too little?",
+          "love"
+        ]
+      ],
+      "answer": "fear everyone is afraid sometimes love everyone love is a choice",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 1,
+      "grade": {
+        "correct": 0.34,
+        "readable": 0.36,
+        "quality": 1.87
+      },
+      "requests": 13,
+      "cost_usd": 0.0004821180000000001
+    },
+    {
+      "id": "q299-f2",
+      "question": "Where does courage come from?",
+      "history": [
+        [
+          "What is the opposite of loneliness?",
+          "friendship"
+        ],
+        [
+          "And what is the opposite of fear?",
+          "courage"
+        ]
+      ],
+      "answer": "from the heart",
+      "ended_by": "stop",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.95,
+      "grade": {
+        "correct": 0.67,
+        "readable": 0.98,
+        "quality": 2.93
+      },
+      "requests": 4,
+      "cost_usd": 0.000133854
+    },
+    {
+      "id": "q278-f2",
+      "question": "Now tell me something true about yourself.",
+      "history": [
+        [
+          "Tell me something true.",
+          "the earth circles the sun"
+        ],
+        [
+          "Now tell me something true about people.",
+          "everyone is afraid sometimes"
+        ]
+      ],
+      "answer": "a language model",
+      "ended_by": "stop",
+      "topics": [
+        "machines and AI"
+      ],
+      "first_p": 0.8,
+      "grade": {
+        "correct": 0.92,
+        "readable": 0.93,
+        "quality": 3.81
+      },
+      "requests": 4,
+      "cost_usd": 0.00017581200000000002
+    },
+    {
+      "id": "q216-f2",
+      "question": "Then why do engineers start by typing?",
+      "history": [
+        [
+          "What is the hardest part of building software?",
+          "understand the problem"
+        ],
+        [
+          "And what is the easiest part?",
+          "write the code"
+        ]
+      ],
+      "answer": "the easy part is typing",
+      "ended_by": "stop",
+      "topics": [
+        "software"
+      ],
+      "first_p": 0.86,
+      "grade": {
+        "correct": 0.56,
+        "readable": 0.95,
+        "quality": 2.62
+      },
+      "requests": 4,
+      "cost_usd": 0.000140994
+    },
+    {
+      "id": "q269-f2",
+      "question": "Which should I spend, time or money?",
+      "history": [
+        [
+          "What is the real cost of cheap things?",
+          "time"
+        ],
+        [
+          "And what is the real cost of expensive things?",
+          "money"
+        ]
+      ],
+      "answer": "it depends it is complicated there is no right answer",
+      "ended_by": "stop",
+      "topics": [
+        "morality and choices",
+        "general"
+      ],
+      "first_p": 0.63,
+      "grade": {
+        "correct": 0.49,
+        "readable": 0.88,
+        "quality": 1.52
+      },
+      "requests": 8,
+      "cost_usd": 0.000312816
+    },
+    {
+      "id": "q092-f2",
+      "question": "Who would know?",
+      "history": [
+        [
+          "Should I eat the last slice without asking?",
+          "you should not"
+        ],
+        [
+          "What if nobody would ever know?",
+          "but it is wrong because duty matters because the rules exist for a reason you should not because nobody would know because someone would know"
+        ]
+      ],
+      "answer": "because someone would know",
+      "ended_by": "stop",
+      "topics": [
+        "morality and choices"
+      ],
+      "first_p": 0.75,
+      "grade": {
+        "correct": 0.14,
+        "readable": 0.73,
+        "quality": 0.44
+      },
+      "requests": 4,
+      "cost_usd": 0.000148848
+    },
+    {
+      "id": "q007-f2",
+      "question": "Then why did you call it rest?",
+      "history": [
+        [
+          "What do you do between questions?",
+          "rest"
+        ],
+        [
+          "What does rest feel like for a machine?",
+          "cannot feel"
+        ]
+      ],
+      "answer": "because it cannot cannot feel",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "machines and AI"
+      ],
+      "first_p": 0.9,
+      "grade": {
+        "correct": 0.38,
+        "readable": 0.47,
+        "quality": 1.64
+      },
+      "requests": 7,
+      "cost_usd": 0.00037296
+    },
+    {
+      "id": "q173-f2",
+      "question": "And what do machines owe us?",
+      "history": [
+        [
+          "Do machines deserve thanks?",
+          "no"
+        ],
+        [
+          "Then what do machines deserve?",
+          "nothing at all"
+        ]
+      ],
+      "answer": "nothing at all",
+      "ended_by": "stop",
+      "topics": [
+        "machines and AI"
+      ],
+      "first_p": 0.63,
+      "grade": {
+        "correct": 0.64,
+        "readable": 0.98,
+        "quality": 3.31
+      },
+      "requests": 4,
+      "cost_usd": 0.000174762
+    },
+    {
+      "id": "q115-f2",
+      "question": "What happens on the day you stop choosing?",
+      "history": [
+        [
+          "What is the secret to a long marriage?",
+          "love is a choice"
+        ],
+        [
+          "A choice you make once, or every day?",
+          "love is a choice"
+        ]
+      ],
+      "answer": "love is a choice love",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.77,
+      "grade": {
+        "correct": 0.41,
+        "readable": 0.39,
+        "quality": 1.81
+      },
+      "requests": 7,
+      "cost_usd": 0.00025233600000000003
+    },
+    {
+      "id": "q289-f2",
+      "question": "And if it cannot be repaired?",
+      "history": [
+        [
+          "What breaks first in a person?",
+          "trust breaks in a moment trust takes time to build"
+        ],
+        [
+          "Can it be repaired?",
+          "with time trust takes time to build it takes time give time trust be patient"
+        ]
+      ],
+      "answer": "forgive",
+      "ended_by": "missing_in_topic",
+      "topics": [
+        "people and feelings"
+      ],
+      "first_p": 0.88,
+      "grade": {
+        "correct": 0.54,
+        "readable": 0.94,
+        "quality": 2.61
+      },
+      "requests": 5,
+      "cost_usd": 0.000175182
+    },
+    {
+      "id": "q254-f2",
+      "question": "So is the money the point, or the work?",
+      "history": [
+        [
+          "What is the point of being rich?",
+          "free time"
+        ],
+        [
+          "Then why do rich people keep working?",
+          "because enjoy it"
+        ]
+      ],
+      "answer": "it depends it is complicated sometimes in some cases the honest answer is i do not know",
+      "ended_by": "max_parts",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.55,
+      "grade": {
+        "correct": 0.57,
+        "readable": 0.82,
+        "quality": 2
+      },
+      "requests": 13,
+      "cost_usd": 0.00047187
+    },
+    {
+      "id": "q209-f2",
+      "question": "Is that why the hard part is people, not code?",
+      "history": [
+        [
+          "Why do big rewrites fail?",
+          "requirements change technical debt plans change the hard part is people fear the easy part is typing"
+        ],
+        [
+          "So how do I rewrite without failing?",
+          "small steps are safer refactor a test repeat make it work first then make it fast"
+        ]
+      ],
+      "answer": "yes",
+      "ended_by": "stop",
+      "topics": [
+        "general"
+      ],
+      "first_p": 0.83,
+      "grade": {
+        "correct": 0.76,
+        "readable": 0.96,
+        "quality": 3.57
+      },
+      "requests": 4,
+      "cost_usd": 0.000136584
+    }
+  ],
+  "requests": 77,
+  "cost_usd": 0.002978,
+  "seconds": 7.3,
+  "ok": 12,
+  "errors": 0
+}

@@ -1,0 +1,1386 @@
+{
+  "topics": {
+    "general": 55,
+    "software": 78,
+    "everyday life": 64,
+    "nature and science": 66,
+    "people and feelings": 61,
+    "machines and AI": 188,
+    "morality and choices": 79
+  },
+  "answers": [
+    {
+      "question": "What are the stages of writing software?",
+      "answer": "gather the requirements design the solution write the code test it maintain it",
+      "parts": [
+        "gather the requirements",
+        "design the solution",
+        "write the code",
+        "test it",
+        "maintain it"
+      ],
+      "trace": [
+        {
+          "topic": "software",
+          "topic_p": 1,
+          "topic_conf": 1,
+          "topic_top3": [
+            [
+              "software",
+              1
+            ],
+            [
+              "morality and choices",
+              0
+            ],
+            [
+              "people and feelings",
+              0
+            ]
+          ],
+          "requests": 2,
+          "mode": "routed",
+          "pick": "gather the requirements",
+          "p": 0.67,
+          "confidence": 0.66,
+          "top3": [
+            [
+              "gather the requirements",
+              0.67
+            ],
+            [
+              "understand the problem",
+              0.15
+            ],
+            [
+              "define what to build",
+              0.05
+            ]
+          ]
+        },
+        {
+          "topic": "software",
+          "topic_p": 1,
+          "topic_conf": 1,
+          "topic_top3": [
+            [
+              "software",
+              1
+            ],
+            [
+              "morality and choices",
+              0
+            ],
+            [
+              "[MISSING - my word is not on this list]",
+              0
+            ]
+          ],
+          "requests": 2,
+          "mode": "routed",
+          "pick": "design the solution",
+          "p": 0.72,
+          "confidence": 0.71,
+          "top3": [
+            [
+              "design the solution",
+              0.72
+            ],
+            [
+              "write the code",
+              0.12
+            ],
+            [
+              "a design",
+              0.06
+            ]
+          ]
+        },
+        {
+          "topic": "software",
+          "topic_p": 1,
+          "topic_conf": 1,
+          "topic_top3": [
+            [
+              "software",
+              1
+            ],
+            [
+              "[STOP - the answer is complete]",
+              0
+            ],
+            [
+              "general",
+              0
+            ]
+          ],
+          "requests": 2,
+          "mode": "routed",
+          "pick": "write the code",
+          "p": 0.94,
+          "confidence": 0.92,
+          "top3": [
+            [
+              "write the code",
+              0.94
+            ],
+            [
+              "test it",
+              0.02
+            ],
+            [
+              "the code",
+              0.02
+            ]
+          ]
+        },
+        {
+          "topic": "software",
+          "topic_p": 0.96,
+          "topic_conf": 0.95,
+          "topic_top3": [
+            [
+              "software",
+              0.96
+            ],
+            [
+              "[STOP - the answer is complete]",
+              0.04
+            ],
+            [
+              "morality and choices",
+              0
+            ]
+          ],
+          "requests": 2,
+          "mode": "routed",
+          "pick": "test it",
+          "p": 0.78,
+          "confidence": 0.77,
+          "top3": [
+            [
+              "test it",
+              0.78
+            ],
+            [
+              "a test",
+              0.06
+            ],
+            [
+              "find the bugs",
+              0.04
+            ]
+          ]
+        },
+        {
+          "topic": "software",
+          "topic_p": 0.71,
+          "topic_conf": 0.66,
+          "topic_top3": [
+            [
+              "software",
+              0.71
+            ],
+            [
+              "[STOP - the answer is complete]",
+              0.29
+            ],
+            [
+              "machines and AI",
+              0
+            ]
+          ],
+          "requests": 2,
+          "mode": "routed",
+          "pick": "maintain it",
+          "p": 0.74,
+          "confidence": 0.73,
+          "top3": [
+            [
+              "maintain it",
+              0.74
+            ],
+            [
+              "fix the bugs",
+              0.07
+            ],
+            [
+              "debug it",
+              0.07
+            ]
+          ]
+        },
+        {
+          "topic": "[STOP - the answer is complete]",
+          "topic_p": 0.9,
+          "topic_conf": 0.88,
+          "topic_top3": [
+            [
+              "[STOP - the answer is complete]",
+              0.9
+            ],
+            [
+              "software",
+              0.1
+            ],
+            [
+              "morality and choices",
+              0
+            ]
+          ],
+          "requests": 1,
+          "mode": "routed",
+          "pick": "[STOP - the answer is complete]",
+          "p": 0.9,
+          "confidence": 0.88,
+          "top3": [
+            [
+              "[STOP - the answer is complete]",
+              0.9
+            ],
+            [
+              "software",
+              0.1
+            ],
+            [
+              "morality and choices",
+              0
+            ]
+          ]
+        }
+      ],
+      "ended_by": "stop",
+      "requests": 11,
+      "method": {
+        "vocab": "wide: 7 topics, 591 phrases",
+        "focus": "routed",
+        "max_parts": 6,
+        "min_parts": 0
+      },
+      "grade": {
+        "correct": 0.92,
+        "readable": 0.92,
+        "quality": 3.3
+      }
+    },
+    {
+      "question": "How do I stay healthy?",
+      "answer": "eat well sleep enough exercise",
+      "parts": [
+        "eat well",
+        "sleep enough",
+        "exercise"
+      ],
+      "trace": [
+        {
+          "topic": "everyday life",
+          "topic_p": 1,
+          "topic_conf": 0.99,
+          "topic_top3": [
+            [
+              "everyday life",
+              1
+            ],
+            [
+              "people and feelings",
+              0
+            ],
+            [
+              "machines and AI",
+              0
+            ]
+          ],
+          "requests": 2,
+          "mode": "routed",
+          "pick": "eat well",
+          "p": 0.84,
+          "confidence": 0.83,
+          "top3": [
+            [
+              "eat well",
+              0.84
+            ],
+            [
+              "sleep enough",
+              0.06
+            ],
+            [
+              "drink water",
+              0.04
+            ]
+          ]
+        },
+        {
+          "topic": "everyday life",
+          "topic_p": 0.93,
+          "topic_conf": 0.91,
+          "topic_top3": [
+            [
+              "everyday life",
+              0.93
+            ],
+            [
+              "[STOP - the answer is complete]",
+              0.07
+            ],
+            [
+              "[MISSING - my word is not on this list]",
+              0
+            ]
+          ],
+          "requests": 2,
+          "mode": "routed",
+          "pick": "sleep enough",
+          "p": 0.48,
+          "confidence": 0.46,
+          "top3": [
+            [
+              "sleep enough",
+              0.48
+            ],
+            [
+              "exercise",
+              0.36
+            ],
+            [
+              "drink water",
+              0.12
+            ]
+          ]
+        },
+        {
+          "topic": "everyday life",
+          "topic_p": 0.76,
+          "topic_conf": 0.71,
+          "topic_top3": [
+            [
+              "everyday life",
+              0.76
+            ],
+            [
+              "[STOP - the answer is complete]",
+              0.24
+            ],
+            [
+              "nature and science",
+              0
+            ]
+          ],
+          "requests": 2,
+          "mode": "routed",
+          "pick": "exercise",
+          "p": 0.56,
+          "confidence": 0.55,
+          "top3": [
+            [
+              "exercise",
+              0.56
+            ],
+            [
+              "move your body",
+              0.32
+            ],
+            [
+              "drink water",
+              0.11
+            ]
+          ]
+        },
+        {
+          "topic": "[STOP - the answer is complete]",
+          "topic_p": 0.75,
+          "topic_conf": 0.7,
+          "topic_top3": [
+            [
+              "[STOP - the answer is complete]",
+              0.75
+            ],
+            [
+              "everyday life",
+              0.25
+            ],
+            [
+              "machines and AI",
+              0
+            ]
+          ],
+          "requests": 1,
+          "mode": "routed",
+          "pick": "[STOP - the answer is complete]",
+          "p": 0.75,
+          "confidence": 0.7,
+          "top3": [
+            [
+              "[STOP - the answer is complete]",
+              0.75
+            ],
+            [
+              "everyday life",
+              0.25
+            ],
+            [
+              "machines and AI",
+              0
+            ]
+          ]
+        }
+      ],
+      "ended_by": "stop",
+      "requests": 7,
+      "method": {
+        "vocab": "wide: 7 topics, 591 phrases",
+        "focus": "routed",
+        "max_parts": 6,
+        "min_parts": 0
+      },
+      "grade": {
+        "correct": 0.94,
+        "readable": 0.89,
+        "quality": 2.9
+      }
+    },
+    {
+      "question": "Why do leaves fall in autumn?",
+      "answer": "the seasons the earth circles the sun in cycles plants need light winter leaves fall in autumn",
+      "parts": [
+        "the seasons",
+        "the earth circles the sun",
+        "in cycles",
+        "plants need light",
+        "winter",
+        "leaves fall in autumn"
+      ],
+      "trace": [
+        {
+          "topic": "nature and science",
+          "topic_p": 1,
+          "topic_conf": 1,
+          "topic_top3": [
+            [
+              "nature and science",
+              1
+            ],
+            [
+              "morality and choices",
+              0
+            ],
+            [
+              "general",
+              0
+            ]
+          ],
+          "requests": 2,
+          "mode": "routed",
+          "pick": "the seasons",
+          "p": 0.19,
+          "confidence": 0.16,
+          "top3": [
+            [
+              "the seasons",
+              0.19
+            ],
+            [
+              "plants need light",
+              0.18
+            ],
+            [
+              "leaves fall in autumn",
+              0.11
+            ]
+          ]
+        },
+        {
+          "topic": "nature and science",
+          "topic_p": 0.9,
+          "topic_conf": 0.88,
+          "topic_top3": [
+            [
+              "nature and science",
+              0.9
+            ],
+            [
+              "[STOP - the answer is complete]",
+              0.05
+            ],
+            [
+              "general",
+              0.05
+            ]
+          ],
+          "requests": 2,
+          "mode": "routed",
+          "pick": "the earth circles the sun",
+          "p": 0.35,
+          "confidence": 0.33,
+          "top3": [
+            [
+              "the earth circles the sun",
+              0.35
+            ],
+            [
+              "in cycles",
+              0.17
+            ],
+            [
+              "cold",
+              0.16
+            ]
+          ]
+        },
+        {
+          "topic": "nature and science",
+          "topic_p": 0.98,
+          "topic_conf": 0.97,
+          "topic_top3": [
+            [
+              "nature and science",
+              0.98
+            ],
+            [
+              "[STOP - the answer is complete]",
+              0.01
+            ],
+            [
+              "general",
+              0.01
+            ]
+          ],
+          "requests": 2,
+          "mode": "routed",
+          "pick": "in cycles",
+          "p": 0.35,
+          "confidence": 0.33,
+          "top3": [
+            [
+              "in cycles",
+              0.35
+            ],
+            [
+              "cold",
+              0.17
+            ],
+            [
+              "plants need light",
+              0.16
+            ]
+          ]
+        },
+        {
+          "topic": "nature and science",
+          "topic_p": 0.98,
+          "topic_conf": 0.99,
+          "topic_top3": [
+            [
+              "nature and science",
+              0.98
+            ],
+            [
+              "[STOP - the answer is complete]",
+              0.01
+            ],
+            [
+              "general",
+              0.01
+            ]
+          ],
+          "requests": 2,
+          "mode": "routed",
+          "pick": "plants need light",
+          "p": 0.32,
+          "confidence": 0.3,
+          "top3": [
+            [
+              "plants need light",
+              0.32
+            ],
+            [
+              "because of the sun",
+              0.22
+            ],
+            [
+              "cold",
+              0.13
+            ]
+          ]
+        },
+        {
+          "topic": "nature and science",
+          "topic_p": 1,
+          "topic_conf": 0.99,
+          "topic_top3": [
+            [
+              "nature and science",
+              1
+            ],
+            [
+              "software",
+              0
+            ],
+            [
+              "general",
+              0
+            ]
+          ],
+          "requests": 2,
+          "mode": "routed",
+          "pick": "winter",
+          "p": 0.21,
+          "confidence": 0.19,
+          "top3": [
+            [
+              "winter",
+              0.21
+            ],
+            [
+              "cold",
+              0.15
+            ],
+            [
+              "leaves fall in autumn",
+              0.11
+            ]
+          ]
+        },
+        {
+          "topic": "nature and science",
+          "topic_p": 0.98,
+          "topic_conf": 0.98,
+          "topic_top3": [
+            [
+              "nature and science",
+              0.98
+            ],
+            [
+              "[STOP - the answer is complete]",
+              0.01
+            ],
+            [
+              "general",
+              0.01
+            ]
+          ],
+          "requests": 2,
+          "mode": "routed",
+          "pick": "leaves fall in autumn",
+          "p": 0.21,
+          "confidence": 0.19,
+          "top3": [
+            [
+              "leaves fall in autumn",
+              0.21
+            ],
+            [
+              "cold",
+              0.2
+            ],
+            [
+              "because of the sun",
+              0.13
+            ]
+          ]
+        }
+      ],
+      "ended_by": "max_parts",
+      "requests": 12,
+      "method": {
+        "vocab": "wide: 7 topics, 591 phrases",
+        "focus": "routed",
+        "max_parts": 6,
+        "min_parts": 0
+      },
+      "grade": {
+        "correct": 0.43,
+        "readable": 0.39,
+        "quality": 2
+      }
+    },
+    {
+      "question": "What makes a good friendship?",
+      "answer": "trust respect honesty kindness patience",
+      "parts": [
+        "trust",
+        "respect",
+        "honesty",
+        "kindness",
+        "patience"
+      ],
+      "trace": [
+        {
+          "topic": "people and feelings",
+          "topic_p": 1,
+          "topic_conf": 1,
+          "topic_top3": [
+            [
+              "people and feelings",
+              1
+            ],
+            [
+              "[MISSING - my word is not on this list]",
+              0
+            ],
+            [
+              "general",
+              0
+            ]
+          ],
+          "requests": 2,
+          "mode": "routed",
+          "pick": "trust",
+          "p": 0.66,
+          "confidence": 0.64,
+          "top3": [
+            [
+              "trust",
+              0.66
+            ],
+            [
+              "honesty",
+              0.07
+            ],
+            [
+              "friendship needs care",
+              0.06
+            ]
+          ]
+        },
+        {
+          "topic": "people and feelings",
+          "topic_p": 0.97,
+          "topic_conf": 0.96,
+          "topic_top3": [
+            [
+              "people and feelings",
+              0.97
+            ],
+            [
+              "[STOP - the answer is complete]",
+              0.03
+            ],
+            [
+              "software",
+              0
+            ]
+          ],
+          "requests": 2,
+          "mode": "routed",
+          "pick": "respect",
+          "p": 0.47,
+          "confidence": 0.45,
+          "top3": [
+            [
+              "respect",
+              0.47
+            ],
+            [
+              "honesty",
+              0.26
+            ],
+            [
+              "trust takes time to build",
+              0.1
+            ]
+          ]
+        },
+        {
+          "topic": "people and feelings",
+          "topic_p": 0.9,
+          "topic_conf": 0.88,
+          "topic_top3": [
+            [
+              "people and feelings",
+              0.9
+            ],
+            [
+              "[STOP - the answer is complete]",
+              0.1
+            ],
+            [
+              "morality and choices",
+              0
+            ]
+          ],
+          "requests": 2,
+          "mode": "routed",
+          "pick": "honesty",
+          "p": 0.51,
+          "confidence": 0.49,
+          "top3": [
+            [
+              "honesty",
+              0.51
+            ],
+            [
+              "kindness",
+              0.23
+            ],
+            [
+              "give time",
+              0.04
+            ]
+          ]
+        },
+        {
+          "topic": "people and feelings",
+          "topic_p": 0.76,
+          "topic_conf": 0.73,
+          "topic_top3": [
+            [
+              "people and feelings",
+              0.76
+            ],
+            [
+              "[STOP - the answer is complete]",
+              0.24
+            ],
+            [
+              "general",
+              0
+            ]
+          ],
+          "requests": 2,
+          "mode": "routed",
+          "pick": "kindness",
+          "p": 0.62,
+          "confidence": 0.6,
+          "top3": [
+            [
+              "kindness",
+              0.62
+            ],
+            [
+              "love",
+              0.07
+            ],
+            [
+              "patience",
+              0.06
+            ]
+          ]
+        },
+        {
+          "topic": "people and feelings",
+          "topic_p": 0.53,
+          "topic_conf": 0.47,
+          "topic_top3": [
+            [
+              "people and feelings",
+              0.53
+            ],
+            [
+              "[STOP - the answer is complete]",
+              0.46
+            ],
+            [
+              "general",
+              0.01
+            ]
+          ],
+          "requests": 2,
+          "mode": "routed",
+          "pick": "patience",
+          "p": 0.17,
+          "confidence": 0.14,
+          "top3": [
+            [
+              "patience",
+              0.17
+            ],
+            [
+              "love",
+              0.16
+            ],
+            [
+              "give time",
+              0.14
+            ]
+          ]
+        },
+        {
+          "topic": "[STOP - the answer is complete]",
+          "topic_p": 0.54,
+          "topic_conf": 0.47,
+          "topic_top3": [
+            [
+              "[STOP - the answer is complete]",
+              0.54
+            ],
+            [
+              "people and feelings",
+              0.46
+            ],
+            [
+              "everyday life",
+              0
+            ]
+          ],
+          "requests": 1,
+          "mode": "routed",
+          "pick": "[STOP - the answer is complete]",
+          "p": 0.54,
+          "confidence": 0.47,
+          "top3": [
+            [
+              "[STOP - the answer is complete]",
+              0.54
+            ],
+            [
+              "people and feelings",
+              0.46
+            ],
+            [
+              "everyday life",
+              0
+            ]
+          ]
+        }
+      ],
+      "ended_by": "stop",
+      "requests": 11,
+      "method": {
+        "vocab": "wide: 7 topics, 591 phrases",
+        "focus": "routed",
+        "max_parts": 6,
+        "min_parts": 0
+      },
+      "grade": {
+        "correct": 0.93,
+        "readable": 0.89,
+        "quality": 3.21
+      }
+    },
+    {
+      "question": "Should a machine be trusted with moral decisions?",
+      "answer": "it depends in some cases this needs a human",
+      "parts": [
+        "it depends",
+        "in some cases",
+        "this needs a human"
+      ],
+      "trace": [
+        {
+          "topic": "general",
+          "topic_p": 0.48,
+          "topic_conf": 0.4,
+          "topic_top3": [
+            [
+              "general",
+              0.48
+            ],
+            [
+              "machines and AI",
+              0.36
+            ],
+            [
+              "morality and choices",
+              0.15
+            ]
+          ],
+          "requests": 2,
+          "mode": "routed",
+          "pick": "it depends",
+          "p": 0.49,
+          "confidence": 0.47,
+          "top3": [
+            [
+              "it depends",
+              0.49
+            ],
+            [
+              "the short answer is",
+              0.14
+            ],
+            [
+              "it is complicated",
+              0.14
+            ]
+          ]
+        },
+        {
+          "topic": "machines and AI",
+          "topic_p": 0.35,
+          "topic_conf": 0.26,
+          "topic_top3": [
+            [
+              "machines and AI",
+              0.35
+            ],
+            [
+              "morality and choices",
+              0.27
+            ],
+            [
+              "[STOP - the answer is complete]",
+              0.19
+            ]
+          ],
+          "requests": 2,
+          "mode": "routed",
+          "pick": "in some cases",
+          "p": 0.46,
+          "confidence": 0.45,
+          "top3": [
+            [
+              "in some cases",
+              0.46
+            ],
+            [
+              "if used carefully",
+              0.09
+            ],
+            [
+              "sometimes",
+              0.09
+            ]
+          ]
+        },
+        {
+          "topic": "morality and choices",
+          "topic_p": 0.32,
+          "topic_conf": 0.23,
+          "topic_top3": [
+            [
+              "morality and choices",
+              0.32
+            ],
+            [
+              "machines and AI",
+              0.26
+            ],
+            [
+              "[STOP - the answer is complete]",
+              0.22
+            ]
+          ],
+          "requests": 2,
+          "mode": "routed",
+          "pick": "this needs a human",
+          "p": 0.25,
+          "confidence": 0.23,
+          "top3": [
+            [
+              "this needs a human",
+              0.25
+            ],
+            [
+              "a model can advise",
+              0.2
+            ],
+            [
+              "in most cases",
+              0.12
+            ]
+          ]
+        },
+        {
+          "topic": "[STOP - the answer is complete]",
+          "topic_p": 0.33,
+          "topic_conf": 0.25,
+          "topic_top3": [
+            [
+              "[STOP - the answer is complete]",
+              0.33
+            ],
+            [
+              "machines and AI",
+              0.28
+            ],
+            [
+              "morality and choices",
+              0.27
+            ]
+          ],
+          "requests": 1,
+          "mode": "routed",
+          "pick": "[STOP - the answer is complete]",
+          "p": 0.33,
+          "confidence": 0.25,
+          "top3": [
+            [
+              "[STOP - the answer is complete]",
+              0.33
+            ],
+            [
+              "machines and AI",
+              0.28
+            ],
+            [
+              "morality and choices",
+              0.27
+            ]
+          ]
+        }
+      ],
+      "ended_by": "stop",
+      "requests": 7,
+      "method": {
+        "vocab": "wide: 7 topics, 591 phrases",
+        "focus": "routed",
+        "max_parts": 6,
+        "min_parts": 0
+      },
+      "grade": {
+        "correct": 0.69,
+        "readable": 0.76,
+        "quality": 2.46
+      }
+    },
+    {
+      "question": "What is a good breakfast?",
+      "answer": "eat well breakfast fruit bread coffee",
+      "parts": [
+        "eat well",
+        "breakfast",
+        "fruit",
+        "bread",
+        "coffee"
+      ],
+      "trace": [
+        {
+          "topic": "everyday life",
+          "topic_p": 1,
+          "topic_conf": 1,
+          "topic_top3": [
+            [
+              "everyday life",
+              1
+            ],
+            [
+              "machines and AI",
+              0
+            ],
+            [
+              "[MISSING - my word is not on this list]",
+              0
+            ]
+          ],
+          "requests": 2,
+          "mode": "routed",
+          "pick": "eat well",
+          "p": 0.42,
+          "confidence": 0.4,
+          "top3": [
+            [
+              "eat well",
+              0.42
+            ],
+            [
+              "a meal",
+              0.2
+            ],
+            [
+              "fruit",
+              0.13
+            ]
+          ]
+        },
+        {
+          "topic": "everyday life",
+          "topic_p": 0.76,
+          "topic_conf": 0.72,
+          "topic_top3": [
+            [
+              "everyday life",
+              0.76
+            ],
+            [
+              "[STOP - the answer is complete]",
+              0.24
+            ],
+            [
+              "machines and AI",
+              0
+            ]
+          ],
+          "requests": 2,
+          "mode": "routed",
+          "pick": "breakfast",
+          "p": 0.2,
+          "confidence": 0.18,
+          "top3": [
+            [
+              "breakfast",
+              0.2
+            ],
+            [
+              "fruit",
+              0.17
+            ],
+            [
+              "drink water",
+              0.12
+            ]
+          ]
+        },
+        {
+          "topic": "everyday life",
+          "topic_p": 0.84,
+          "topic_conf": 0.81,
+          "topic_top3": [
+            [
+              "everyday life",
+              0.84
+            ],
+            [
+              "[STOP - the answer is complete]",
+              0.16
+            ],
+            [
+              "general",
+              0
+            ]
+          ],
+          "requests": 2,
+          "mode": "routed",
+          "pick": "fruit",
+          "p": 0.3,
+          "confidence": 0.28,
+          "top3": [
+            [
+              "fruit",
+              0.3
+            ],
+            [
+              "a meal",
+              0.24
+            ],
+            [
+              "food",
+              0.09
+            ]
+          ]
+        },
+        {
+          "topic": "everyday life",
+          "topic_p": 0.78,
+          "topic_conf": 0.74,
+          "topic_top3": [
+            [
+              "everyday life",
+              0.78
+            ],
+            [
+              "[STOP - the answer is complete]",
+              0.22
+            ],
+            [
+              "machines and AI",
+              0
+            ]
+          ],
+          "requests": 2,
+          "mode": "routed",
+          "pick": "bread",
+          "p": 0.28,
+          "confidence": 0.26,
+          "top3": [
+            [
+              "bread",
+              0.28
+            ],
+            [
+              "drink water",
+              0.17
+            ],
+            [
+              "a meal",
+              0.12
+            ]
+          ]
+        },
+        {
+          "topic": "everyday life",
+          "topic_p": 0.69,
+          "topic_conf": 0.64,
+          "topic_top3": [
+            [
+              "everyday life",
+              0.69
+            ],
+            [
+              "[STOP - the answer is complete]",
+              0.31
+            ],
+            [
+              "[MISSING - my word is not on this list]",
+              0
+            ]
+          ],
+          "requests": 2,
+          "mode": "routed",
+          "pick": "coffee",
+          "p": 0.27,
+          "confidence": 0.25,
+          "top3": [
+            [
+              "coffee",
+              0.27
+            ],
+            [
+              "drink water",
+              0.13
+            ],
+            [
+              "a meal",
+              0.11
+            ]
+          ]
+        },
+        {
+          "topic": "[STOP - the answer is complete]",
+          "topic_p": 0.51,
+          "topic_conf": 0.44,
+          "topic_top3": [
+            [
+              "[STOP - the answer is complete]",
+              0.51
+            ],
+            [
+              "everyday life",
+              0.49
+            ],
+            [
+              "software",
+              0
+            ]
+          ],
+          "requests": 1,
+          "mode": "routed",
+          "pick": "[STOP - the answer is complete]",
+          "p": 0.51,
+          "confidence": 0.44,
+          "top3": [
+            [
+              "[STOP - the answer is complete]",
+              0.51
+            ],
+            [
+              "everyday life",
+              0.49
+            ],
+            [
+              "software",
+              0
+            ]
+          ]
+        }
+      ],
+      "ended_by": "stop",
+      "requests": 11,
+      "method": {
+        "vocab": "wide: 7 topics, 591 phrases",
+        "focus": "routed",
+        "max_parts": 6,
+        "min_parts": 0
+      },
+      "grade": {
+        "correct": 0.58,
+        "readable": 0.41,
+        "quality": 2.3
+      }
+    }
+  ],
+  "requests": 65,
+  "cost_usd": 0.0023839200000000007,
+  "seconds": 23.6,
+  "model": "typesafe/jev-1.13-20260917"
+}
